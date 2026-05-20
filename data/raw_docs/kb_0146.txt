@@ -1,0 +1,91 @@
+4.23.1 Charge: Confession to Prison Informer
+
+This warning should be given where a "prison informer" has given evidence of an alleged oral confession or admission made by the accused whilst in custody, and a warning is required under Jury Directions Act 2015 s 32.
+
+This warning incorporates a direction on confessions and admissions. For discussion of the content of that direction, see Confessions and Admissions.
+
+If the accused is also a prisoner, great care should be taken to avoid saying anything that may undermine the presumption of innocence by portraying the accused as an unreliable witness.
+
+Confessions to Prison Informers
+
+In this case, you heard NOW’s evidence that NOA confessed that s/he had [describe the content of the confession].
+
+Before you can use this evidence, you must accept two matters.
+
+First, you must accept that the accused actually made the alleged confession in the terms described by NOW. That is, you must accept that NOA [insert relevant details, e.g. ‘said to NOW "I killed NOV"’].
+
+Secondly, you must accept that the accused’s alleged confession was truthful. This requires you to accept that when NOA [insert relevant details, e.g. ‘said "I killed NOV"’], s/he meant to confess to the crime of NOO, and that that confession was honest.
+
+In this case, the prosecution argued that NOA made the alleged confession, and that that confession was truthful. [Describe relevant prosecution evidence and/or arguments.]
+
+The defence denied this, arguing [describe relevant defence arguments, e.g. "that NOA never made the confession" or "that while NOA did confess, his/her confession was not truthful because s/he was only boasting about having committed the offence"]. [Summarise relevant defence evidence.]
+
+It is for you to determine, based on all of the relevant evidence, whether NOA did confess in the way NOW said s/he did, and whether that confession was truthful.
+
+[If the evidence of the prison informer is the only evidence of one or more elements, add the following shaded section.]
+
+You will remember my directions that the prosecution must prove its case beyond reasonable doubt. In this case, the only evidence that [identify relevant elements or facts in issue] is the evidence that [describe evidence of admission]. You therefore cannot be satisfied that the prosecution has proved its case beyond reasonable doubt unless you are satisfied this evidence proves [identify relevant element] beyond reasonable doubt.
+
+Warning
+
+In considering NOW’s evidence of NOA’s alleged confession you must take into account the warning I will now give you. I must give you this warning because NOW is what is called a "prison informer".
+
+The experience of the courts is that the evidence of a prison informer may be unreliable for a number of reasons.
+
+Reasons for Unreliability
+
+[Include any of the following matters that are significant in the circumstances of the case and which have been identified by the party when requesting the direction]
+
+Bad character
+
+The first reason for this unreliability relates to the character of prison informers. Prison informers are convicted criminals who were serving a sentence of imprisonment when the alleged confession was made. This means that they may be regarded as being of bad character. As people who are of bad character are generally thought to be less trustworthy than other people, you are entitled to be more cautious about accepting their evidence than you otherwise would be.
+
+Motive to lie
+
+The second reason why the evidence of prison informers is often unreliable is because prison informers often have a motive to distort the truth or to fabricate evidence.
+
+This motive can arise due to the pressures of the prison environment, or due to a belief that, in return for giving evidence, they will obtain some kind of benefit from the authorities.
+
+There was evidence in this case that [describe evidence of prison pressures, or of any actual or anticipated benefit to the informer in respect of sentencing, conditions of custody, or release on parole. If the witness stands to lose a particular benefit if s/he does not co-operate, explain this risk].
+
+In addition, counsel for the accused argued that [refer to significant matters that should be taken into account despite the absence of evidence].
+
+Ease of fabrication
+
+The third reason why the evidence of prison informers is often unreliable relates to the ease with which an oral confession can be fabricated. While it can be easy for a prison informer to fabricate evidence of an oral confession, it can be much more difficult for an accused person to produce evidence to challenge a fabricated confession. [Describe evidence and arguments relating to the informer’s capacity to fabricate evidence in the circumstances of this case.]
+
+Warning
+
+The law says that every jury must take the potential unreliability of a prison informer’s evidence into account when considering that evidence.
+
+You must take this potential unreliability into account in determining whether you accept NOW’s evidence at all, and if you do accept it, in whole or in part, in deciding what weight to give to that evidence.
+
+Supporting evidence
+
+[If there is evidence capable of supporting the informer’s evidence, add the following shaded section.]
+
+In considering whether it is safe to rely upon NOW’s evidence, you should have regard to any supporting evidence led in this trial that you accept.
+
+By supporting evidence I mean evidence from a source that is independent of NOW, and which tends to show either that NOA actually made the alleged confession, or that NOA’s alleged confession was truthful.
+
+In this case the prosecution relied upon [insert number] items of evidence as providing independent support for NOW’s evidence. These were [identify evidence capable of supporting the evidence of the informer].
+
+[If there is a risk that the jury might mistakenly believe certain evidence to be independent supporting evidence, add the following darker shaded section.]
+
+There was other evidence given in this case that you might have thought at first glance could provide independent support for NOW’s evidence. This includes [broadly identify non-supporting evidence].
+
+I direct you that this other evidence is not capable of independently supporting NOW’s account, because [explain why the evidence is not capable of supporting the witness, e.g. "it does not come from an independent source"].
+
+[If the issue of mutual corroboration has arisen, and there is a possibility of joint fabrication, add the following darker shaded section.]
+
+You will see that the prosecution relies upon the evidence of [two/a number of] potentially unreliable witnesses to support each other. The law accepts that such witnesses can support each other in this way.
+
+However, you may only accept their evidence as supporting if you accept that their accounts are truly independent of each other. That is, you must accept that they did not put their heads together and fabricate their evidence. Otherwise, you must not rely on their evidence as providing the necessary support for each other’s accounts.
+
+If you find that there was independent supporting evidence, it may assist you in concluding that NOW is telling the truth. If you find that there was no [acceptable] supporting evidence, you should be less ready to act on NOW’s evidence of that confession.
+
+I remind you that you must exercise great caution before relying on the evidence of a prison informer.
+
+This does not mean that you cannot rely on NOW’s evidence, and find that NOA confessed in the way NOW described. Instead, it means you should not do so unless you have subjected the evidence to close and careful scrutiny and, having regard to the dangers that I have described, you accept its truth, and accept that it is safe to convict upon it, despite its potentially unreliable source.
+
+Last updated: 25 June 2024

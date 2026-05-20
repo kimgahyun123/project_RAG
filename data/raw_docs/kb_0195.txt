@@ -1,0 +1,145 @@
+5.7.1 Charge: Commonwealth Complicity Type of Offence Not in Issue
+
+This Charge has been designed for use in cases where the accused is charged with being involved in the commission of an offence via Criminal Code (Cth) s 11.2(1), where it is accepted that the offence committed was of the same type as the offence the accused intended to aid, abet, counsel or procure. This will occur either:
+
+i) where the offence committed was the intended offence or
+
+ii) where the offence committed was somehow different to the offence intended, but the parties agree that it was of the same ‘type’.
+
+This Charge is not intended for use when there is a question about whether the offence committed is the same ‘type’ as the offence the accused intended to aid, abet, counsel or procure, or when the prosecution relies on an accused having been reckless about the offence committed.
+
+This charge refers only to aiding or abetting. If the accused’s alleged conduct is properly classified as counselling or procuring, the charge should be adapted accordingly.
+
+NOA has been charged with the offence of NOO. However, it has not been alleged that s/he personally committed the acts that make up that offence. Instead, the prosecution has alleged that s/he committed NOO by aiding or abetting NO3P to commit that offence. I must therefore direct you about when a person will be held responsible for aiding or abetting someone else to commit an offence.
+
+In order to find NOA guilty of NOO by aiding or abetting its commission, the prosecution must prove the following [three/four] elements:
+
+One – that someone committed the offence of NOO. Throughout these directions, I will call the person who committed that offence the "principal offender".
+
+Two – that NOA actually aided or abetted the principal offender to commit NOO.
+
+Three – that NOA intended that his/her conduct would aid or abet the principal offender to commit NOO.
+
+[If withdrawal is relevant, add the following shaded section.]
+
+Four – that NOA did not effectively terminate his/her involvement prior to the offence being committed.
+
+Before you can find NOA guilty of NOO, you must be satisfied that all of these elements have been proven beyond reasonable doubt.
+
+I will now explain each of these elements in more detail.
+
+Offence committed
+
+The first element that the prosecution must prove is that someone committed the offence of NOO.
+
+In this case, this requires you to be satisfied that all of the following matters have been proven beyond reasonable doubt:
+
+[Describe all of the elements of the offence, explain those elements, and relate them to the facts.]
+
+[If NOA may have committed the offence him/herself, add the following shaded section.]
+
+Now, you may not be sure whether NOA either committed NOO himself/herself, or assisted NO3P to do so. You do not need to resolve this question to reach your verdict. The law says that if you are satisfied beyond reasonable doubt that NOA either committed the offence himself/herself, or aided or abetted another person to commit the offence, you may find him/her guilty of NOO.
+
+Aid, Abet, Counsel or Procure
+
+Caution! Part of this direction concerns the meaning of the words ‘in fact’. The law on this issue is unclear. See 5.7 Commonwealth Complicity (s 11.2) for guidance.
+
+The second element that the prosecution must prove is that the accused in fact aided or abetted the principal offender to commit an offence like NOO.
+
+A person aids or abets the principal offender if s/he:
+
+[insert the following bullet points as appropriate]
+
+- helps him/her to commit the offence; or
+
+- encourages him/her to commit the offence; or
+
+- conveys to him/her that s/he supports the commission of the offence.
+
+A person can aid or abet an offence by words, action or both.
+
+[If counselling/procuring is being alleged, insert the following bullet points as appropriate]
+
+A person counsels or procures an offence if s/he:
+
+- urges, advises or solicits the principal offender to commit the offence; or
+
+- encourages or supports the principal offender to commit the offence; or
+
+A person can counsel or procure an offence by words, action or both.
+
+In this case, the prosecution argue that NOA aided or abetted the offending by [identify relevant prosecution evidence and arguments]. The defence deny this, and argue [identify relevant evidence and arguments].
+
+As part of this element, you also need to consider whether NOA’s actions actually aided or abetted NO3P’s offending. This means you must consider what effect NOA’s actions had on whether NOO was committed.
+
+[Insert relevant prosecution and defence evidence and arguments.]
+
+It is only if you are satisfied, beyond reasonable doubt, that NOA actually aided or abetted NO3P to commit NOO that this second element will be met.
+
+Intention
+
+The third element that the prosecution must prove is that NOA intentionally aided or abetted the principal offender to commit NOO.
+
+To prove this, the prosecution must first show that at the time s/he [identify the conduct of NOA that is alleged as having aided or abetted the offending], s/he meant for that conduct to assist or encourage NO3P to commit NOO, or s/he was aware that NOO would occur in the ordinary course of events.
+
+The prosecution must show that NOA knew all the essential facts needed to establish NOO, or believed that those essential facts existed. This is because a person cannot intentionally aid or abet an offence unless s/he knows the essential facts giving rise to that offence.
+
+The "essential facts" that are needed to establish NOO are the [insert number] matters that I just explained to you in relation to the first element. So for this first step to be met, NOA must have known or believed that:
+
+[Summarise all of the elements of the principal offence as they relate to NO3P’s conduct, subject to any special liability provisions that apply.]
+
+Another way this element could be satisfied is if you find that NOA was aware that their conduct would bring about the commission of NOO in the ordinary course of events.
+
+The prosecution alleged that NOA had this intention. [Insert prosecution evidence and/or arguments.] The defence denied this, arguing [insert relevant evidence and/or arguments].
+
+[If the prosecution argue that the accused aided or abetted the offender by his/her presence alone, add the following shaded section.*]
+
+You will note that in this case the prosecution did not allege that NOA said or did anything at the time of the offence to assist or encourage NO3P. They alleged that it was NOA’s presence at the time that NO3P committed NOO that aided or abetted NO3P.
+
+The law recognises that a person can intentionally aid or abet the commission of an offence by being present when the offence is committed. However, for this to be the case, you must find that NOA intended his/her presence at the crime scene to have aided or abetted NO3P to commit NOO. It is not sufficient for him/her simply to have been there at the relevant time, or to have simply been passing by.
+
+In determining whether NOA intended his/her presence at the commission of the offence to aid or abet NOO, you should view his/her conduct as a whole, before and at the time of the alleged offence, and consider whether s/he was linked in purpose with NO3P in some way, such that his/her presence assisted or encouraged NO3P.
+
+If you find that NOA’s presence was not intended to have aided or abetted NO3P, then this element will not be met. However, if you are satisfied that NOA had that intention, then this element will be met.
+
+[If not already done, identify the matters said to constitute aiding or abetting NOO.]
+
+Withdrawal
+
+[If termination of the accused’s involvement is in issue, add the following shaded section.]
+
+The fourth element that the prosecution must prove is that the accused did not effectively terminate his/her involvement prior to the offence being committed.
+
+The law says that, for a person not to be taken to have committed the offence, s/he must terminate his/her involvement and take all reasonable steps to prevent the offence being committed. His/her termination must be timely and effective.
+
+Whether the accused has taken all reasonable steps to prevent the commission of the offence is a question for you. You must apply your common sense and experience. For example, in some cases it will be enough for the accused to take back any tools he or she has provided for the commission of the crime, and to make it clear that if the principal offender commits the offence, s/he does so without the accused’s approval or support. In some cases it may be necessary for the accused to inform the police of the planned offence.
+
+It is not for the defence to prove that NOA terminated his/her involvement in NOO in a timely and effective manner. It is the prosecution who must prove that NOA did not take all reasonable steps to prevent NOO being committed.
+
+The prosecution argued that NOA had not taken all reasonable steps to prevent NOO. [Insert prosecution evidence and/or arguments.] The defence denied this, arguing that NOA terminated his/her involvement in a timely and effective manner. [Insert relevant evidence and/or arguments.]
+
+Application of Law to Evidence
+
+[If not already done, apply the law to the relevant evidence here.]
+
+Defences
+
+[If any defences are open on the evidence, insert relevant directions.]
+
+Summary
+
+To summarise, before you can find NOA guilty of committing NOO by aiding, abetting, counselling or procuring the principal offender to commit NOO, the prosecution must prove to you beyond reasonable doubt:
+
+One – that someone committed NOO; and
+
+Two – that the accused in fact aided or abetted NO3P to commit NOO; and
+
+Three – that the accused intended for their conduct to aid or abet the principal offender to commit NOO;
+
+[If termination is relevant, add the following shaded section.]
+
+and Four – that NOA did not effectively terminate his/her earlier involvement.
+
+If you find that any of these elements have not been proven beyond reasonable doubt, then you must find NOA not guilty of NOO by aiding or abetting its commission.
+
+Last updated: 9 March 2018

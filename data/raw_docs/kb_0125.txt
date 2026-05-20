@@ -1,0 +1,39 @@
+4.16.1 Charge: Admissions by Silence
+
+This charge may be given when it is alleged that by failing to respond to a statement made by a person with whom s/he was on equal terms, the accused admitted the truth of part or all of that statement.
+
+The direction should not be given when the admission is:
+
+i) An admission that the accused committed an offence charged or an element of an offence charged; or
+
+ii) An admission which negates a defence to an offence charged.
+
+Failure to Respond to Equal Parties
+
+I must now give you some directions about NOW’s evidence that NOA remained silent when [identify statement made in accused’s presence].
+
+The prosecution has argued that you should infer from NOA’s silence that s/he admitted [identify alleged admission]. You will recall what I have told you about inferences.
+
+While you may draw this inference from NOA’s silence, you must find three matters before you do.
+
+First, you must find that NOW actually made the statement alleged, and that NOA failed to respond to that statement. [Summarise any evidence and arguments on this issue.]
+
+Second, you must find that the statement made by NOW would usually call for a response of some kind. This is a question of ordinary human experience. It requires you to determine whether you think that a person in NOA’s circumstances would normally have been expected to respond to NOW’s statement. It is only if you find that s/he would that you can draw any inference from NOA’s silence. [Identify relevant circumstances and summarise evidence and arguments.]
+
+Third, you must find that by remaining silent in the circumstances, NOA acknowledged the truth of NOW’s statement that [identify relevant part of the statement]. In other words, s/he adopted that statement, making it his/her own.
+
+This will only be the case if there is no other reasonable explanation for NOA’s silence in the circumstances. You must not draw an inference if you think it is reasonably possible that NOA did not respond to NOW’s statement for another reason.
+
+In considering this issue, you should bear in mind that people react to allegations in different ways. You should therefore take care when drawing any inferences from the accused’s silence.
+
+[Summarise evidence and arguments concerning possible reasons for the accused’s failure to respond, such as failing to hear or understand the statement. See 4.16 Silence in Response to Equal Parties for guidance.]
+
+It is only if you find all three of these matters that you can infer that by remaining silent, NOA admitted [identify admission*].
+
+If you do draw this inference, you can use NOA’s admission to [identify permissible uses of the admission. See 4.16 Silence in Response to Equal Parties for guidance]. However, you may only do so if you are accept that the admission was true. Even then, you should not give this evidence great weight. Even if you find that the accused's silence was an admission, you must still decide, based on all the evidence, whether the prosecution has proved the accused's guilt beyond reasonable doubt.
+
+[If a s 165 Unreliability Warning is required, insert here. See 4.21 Unreliable Evidence Warning for further information.]
+
+It is important to note that NOW’s statement that [identify statement] is not itself evidence of the facts alleged in that statement. The evidence about those facts comes from NOA’s reactions to the statement. This means that if you do not find that NOA admitted the truth of NOW’s statement by remaining silent, then you must completely disregard the statement. [If relevant, add: Similarly, if you find that s/he only accepted part of the statement, then you must disregard the other parts.]
+
+Last updated: 22 March 2023

@@ -1,0 +1,9 @@
+4.12.5 Charge: Dock Identification
+
+If a dock identification took place, add this section when the identification evidence is given, and again where indicated in the primary charge.
+
+In this case, NOA was identified here in court.
+
+This type of identification is of no value to the issue of whether or not NOA committed the offence[s] charged. This is because, when asked in court to identify the person who committed the crime, the witness will inevitably point out the person who is on trial. NOA was only identified in this way as a formality, and you should not rely on that identification for any purpose.
+
+Last updated: 1 July 2013

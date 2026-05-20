@@ -1,0 +1,51 @@
+4.6.1 Charge: Lies as Incriminating Conduct (s 21 Direction)
+
+This charge should only be given if:
+
+i) The judge has given leave for the prosecution to rely on evidence as incriminating conduct;
+
+ii) The evidence of incriminating conduct consists of lies; and
+
+iii) The prosecution relies on the evidence as incriminating conduct.
+
+If the evidence of incriminating conduct consists of lies and other conduct, this charge must be modified.
+
+If defence counsel requests a warning about the dangers of relying on evidence of incriminating conduct, also give 4.6.3 Charge: Additional direction on incriminating conduct (Section 22 direction).
+
+Introduction
+
+In this trial, the prosecution alleged that NOA told certain lies after the crime was committed. I now need to give you some directions about the way in which you can use evidence of lies. By lies, I mean that the accused told deliberate untruths.
+
+Lies going to credibility
+
+The law says that you may use the accused’s lies to help you to assess his/her credibility. If you find that the accused lied about something [when giving evidence/when speaking to police], you can use that fact to help you to decide whether or not you believe the other things that the accused said. That is not to say that just because you find that an accused lied about one matter, you must also find that s/he has been lying about everything else. But you can use the fact that s/he lied to help you determine the truthfulness of the other things that s/he said. It is one factor to take into account.
+
+You can use any of NOA’s alleged lies in this way. For example, if you conclude that NOA was lying when [insert example from evidence], you may take this into account when assessing the rest of his/her evidence.
+
+[Identify relevant evidence and refer to relevant prosecution and defence arguments.]
+
+It is for you to decide what significance to give these suggested lies. But do not reason that just because a person is shown to have told a lie about something, s/he must be guilty.
+
+Lies as an implied admission of guilt
+
+The second way in which you may be able to use a lie in this case is as evidence that NOA believed that [describe relevant admission, for example ‘s/he committed the offence charged’ or ‘he shot the deceased’, or ‘he shot the deceased without acting in self-defence’].
+
+You may only use evidence that NOA lied in this way if you conclude that s/he did tell a deliberate untruth and the only reasonable explanation for doing so is that s/he believed that [describe relevant admission].
+
+But even if you conclude that the accused believed that s/he committed the offence charged, you must still decide on the basis of the evidence as a whole whether the prosecution has proved the accused’s guilt beyond reasonable doubt.
+
+[Insert section 22 direction here if required. See 4.6.3 Charge: Additional direction on incriminating conduct (Section 22 direction).]
+
+[Identify relevant evidence and refer to relevant prosecution and defence arguments. As part of this, the judge should, in relation to each offence:
+
+- Identify the post offence conduct the prosecution relies upon in relation to that offence;
+
+- Identify whether the post offence conduct is relevant to prove the whole charge, one or more elements, or the absence of any defences;
+
+- Identify the matters which are said to show that the post offence conduct can be used as an implied admission of guilt.]
+
+Incriminating conduct and unreliable evidence
+
+[If necessary, add a direction on using evidence of incriminating conduct to support evidence covered by an “unreliable evidence” direction.]
+
+Last updated: 7 August 2025

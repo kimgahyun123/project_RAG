@@ -1,0 +1,10 @@
+4.9 Mental Impairment and Expert Witness Responsibility
+
+[Part A – Initial Position]
+If the defence puts mental impairment in issue, the defence bears the primary burden of proving that matter. Ordinarily, that means the defence identifies the evidence on which it wishes to rely. Seen at that level of generality, the prosecution is not simply obliged to call every expert who has had contact with the accused. The mere fact that a psychiatrist examined the accused is not, standing alone, enough to make the prosecution automatically responsible for calling that witness.
+
+[Part B – Relevance of a Psychiatric Examination]
+The position changes, however, when the psychiatrist’s examination bears directly on the disputed issue before the court. The prosecution’s duty is ultimately tied to fairness and to ensuring that material evidence relevant to the jury’s task is not withheld. Where the psychiatrist’s observations go to the accused’s alleged mental impairment, the evidence cannot be dismissed as merely part of the defence theory. In that circumstance, the prosecution must treat the psychiatrist as a potentially material witness whose evidence may need to be placed before the jury.
+
+[Part C – Practical Effect]
+Accordingly, where the defence raises mental impairment, bears the onus of proving it, and a psychiatrist has examined the accused specifically in relation to that condition, the prosecution would ordinarily have to call the psychiatrist if the findings are material to the issue. The controlling consideration is not just who bears the burden, but whether the psychiatrist possesses expert evidence that directly assists the court on a contested question. In such a case, the prosecution would generally be expected to call the psychiatrist as a witness.

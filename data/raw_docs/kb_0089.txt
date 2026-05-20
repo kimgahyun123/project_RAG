@@ -1,0 +1,17 @@
+3.8.1 Charge: Multiple Accused
+
+Note: This charge is based on the assumption that the judge has already instructed the jury about the need for separate consideration at the beginning of the trial (see 1.8.1 Charge: Separate Consideration Multiple Accused). If this has not been done, it will need to be modified accordingly.
+
+See 1.8 Separate Consideration, for a discussion of the legal principles relevant to this area.
+
+As you know, in this trial there are really [insert number] trials [all] being heard together for convenience.
+
+I want to remind you that you must be careful not to allow convenience to override justice. The accused and the prosecution are entitled to have the case against each accused considered separately.
+
+You must consider the case against each accused separately, in light only of the evidence which applies to that accused. You must ask yourselves, in relation to each accused, whether the evidence relating to that accused has satisfied you, beyond reasonable doubt, that s/he is guilty of the offence s/he has been charged with. If the answer is yes, then you should find him/her guilty. If the answer is no, then you should find him/her not guilty.
+
+You will note that I said you must consider the case against each accused "in light only of the evidence which applies to that accused". This is because some of the evidence you have heard in this case is only relevant to the case against one accused or another. If a particular piece of evidence is only relevant to one accused, you may only use it when deciding whether or not that accused is guilty. You must not consider it in relation to [any of] the other accused.
+
+In this case [instruct jury about which evidence is or is not admissible in relation to each accused].
+
+Last updated: 19 December 2006

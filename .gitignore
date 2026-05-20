@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+data/quarantine.sqlite3
+data/quarantine_test.sqlite3
+results/*.csv

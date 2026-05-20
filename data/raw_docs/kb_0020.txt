@@ -1,0 +1,49 @@
+1.2 Jury Empanelment
+
+Warning: Part 6 of the Juries Act 2000 (Vic) establishes a set of steps that must be followed when empanelling a jury. Failure to follow the applicable steps will lead to the jury being unlawfully constituted, and will result in the trial being viewed as a nullity (R v Panozzo; R v Iaria (2003) 8 VR 548).
+
+Information to Provide to Jurors
+
+1. In all cases the jury panel should be informed about the following matters prior to empanelment:
+
+1. The type of charge;
+
+2. The name of the accused;
+
+3. The names of the principal witnesses expected to be called;
+
+4. The estimated length of the trial; and
+
+5. Any other information the court thinks relevant (Juries Act 2000 s 32(1)).
+
+2. It is generally desirable to read out the names of all witnesses, as well as any other people whose names may be mentioned during the trial, a knowledge of whom might cause a juror to be embarrassed. If there are many names to be read, it may be appropriate to provide a list to the jury (see, e.g. R v Lewis (2000) 1 VR 290).
+
+3. In addition to telling the jurors the estimated length of the trial, it is helpful to advise them of the hours the court ordinarily sits, and of any proposed breaks in the trial (e.g. to accommodate Christmas).
+
+4. If the judge intends to provide the jury with "other information" (as allowed by the Juries Act 2000 s 32(1)(e)), it is advisable to discuss the matter with counsel beforehand (see, e.g. R v Knight [2004] VSCA 48).
+
+5. In a trial for murdering a security guard at an abortion clinic, it was held to be appropriate for the judge to ask the jury panel members whether they held strong views about abortion, such that it might affect their capacity to be impartial (R v Knight *[2004] VSCA 48).
+
+Excusing Jurors
+
+1. After providing the jury panel with this information, the court must ask whether any people on the panel seek to be excused from jury service on the trial (Juries Act 2000 s 32(2)). The court may excuse a potential juror if it is satisfied that the person:
+
+1. Will not be able to consider the case impartially; or
+
+2. Is unable to serve for any other reasons (Juries Act 2000 s 32(3)).
+
+2. Before the panel is assembled, the Juries Commissioner will have provided prospective jurors with information about the expected length of the trial and sitting hours, and invited applications to defer jury service on the basis of matter such as child care responsibilities, travel commitments, employment issues and health issues that may interfere with jury service. Many of these applications are dealt with administratively by the Juries Commissioner, and so it is expected that judges will receive few applications to be excused on the basis of personal circumstances.
+
+3. It is not necessary to excuse a person who has had a particular life experience (e.g. a victim of a sexual offence) from serving on a jury in a trial which concerns matters to which that experience is relevant (e.g. a sexual offence trial). It should not be assumed that such a person is any more likely to be prejudiced than other jurors (R v Goodall (2007) 15 VR 673, [3], [29]–[31]).
+
+4. If it is anticipated that a number of documents will be provided to the jury during the trial, the judge may wish to inform jurors of this prior to seeking excuses. This will allow jurors who have difficulty reading to seek to be excused from jury service.
+
+5. If it becomes apparent to a judge when taking a juror’s oath or affirmation that there are particular difficulties that may restrict his or her capacity to serve as a juror (such as difficulties with English or certain physical conditions), the judge may wish to excuse the juror.
+
+6. Jurors should be allowed to make their application for excusal in writing, as they might reasonably wish to keep the reasons for their application confidential. It is at the judge’s discretion whether or not to allow the defence to see any written application provided by a juror (R v Lewis (2000) 1 VR 290).
+
+7. There is no absolute right of an accused person to be told the ground on which a prospective member of the jury applies to be excused from serving or, if the application is refused, the ground of the refusal (R v Lewis (2000) 1 VR 290).
+
+8. There is also no requirement for a judge to hear and determine applications for excusal in public. However, it is generally desirable to exercise the judge’s power to excuse jurors in open court, to demonstrate publicly the seriousness with which the court regards a citizen’s obligation to serve as a juror, and the trouble that the court takes in deciding whether a person summoned ought to be excused (R v Lewis (2000) 1 VR 290).
+
+Last updated: 11 July 2018

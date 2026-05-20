@@ -1,0 +1,37 @@
+4.6.2 Charge: Other Conduct as Incriminating Conduct (s 21 Direction)
+
+This charge should only be given if:
+
+i) The judge has given leave for the prosecution to rely on evidence as incriminating conduct;
+
+ii) The evidence of incriminating conduct consists of acts only and not lies; and
+
+iii) The prosecution relies on the evidence as incriminating conduct.
+
+If the evidence of incriminating conduct also includes lies, this direction should be adapted and added to 4.6.1 Charge: Lies as Incriminating Conduct (Section 21 direction).
+
+If defence counsel requests a warning about the dangers of relying on evidence of incriminating conduct, also give 4.6.3 Charge: Additional direction on incriminating conduct (Section 22 direction).
+
+Introduction
+
+In this trial, the prosecution argued that you can use the evidence that NOA [identify other conduct relied on as incriminating conduct] as evidence that s/he believed that [describe relevant admission, for example “s/he committed the offence charged” or “s/he shot the deceased”, or “s/he shot the deceased without acting in self-defence”.]
+
+You may only use this evidence in this way if you conclude that this conduct occurred and the only reasonable explanation of this conduct is that the accused believed that [describe relevant belief, for example “s/he committed the offence and needed to dispose of evidence”].
+
+But even if you conclude that the accused believed that s/he committed the offence charged, you must still decide on the basis of the evidence as a whole whether the prosecution has proved the accused’s guilt beyond reasonable doubt.
+
+[Insert section 22 direction here if required. See 4.6.3 Charge: Additional direction on incriminating conduct (Section 22 direction).]
+
+[Identify relevant evidence and refer to relevant prosecution and defence arguments. As part of this, the judge should, in relation to each offence:
+
+- Identify the post offence conduct the prosecution relies upon in relation to that offence;
+
+- Identify whether the post offence conduct is relevant to prove the whole charge, one or more elements, or the absence of any defences;
+
+- Identify the matters which are said to show that the post offence conduct can be used as an implied admission of guilt.*]
+
+Incriminating conduct and unreliable evidence
+
+[If necessary, add a direction on using evidence of incriminating conduct to support evidence covered by an “unreliable evidence” direction.]
+
+Last updated: 7 August 2025

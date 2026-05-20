@@ -1,0 +1,61 @@
+4.20.1 Charge: Unfavourable Witnesses
+
+This charge is designed to be given in cases where:
+
+i) The prosecution has cross-examined one of its own witnesses under Evidence Act 2008 s 38;
+
+ii) The witness has been cross-examined about a prior inconsistent statement (s 38(1)(c));
+
+iii) Evidence of the prior inconsistent statement can be used for both a hearsay and non-hearsay purpose; and
+
+iv) The evidence adduced in the cross-examination of the witness forms a significant part of the prosecution’s case.
+
+The charge will need to be modified if:
+
+i) The cross-examination was solely about one of the matters listed in ss 38(1)(a) or (b), and did not relate to a prior inconsistent statement;
+
+ii) It was the defence who cross-examined one of its witnesses; or
+
+iii) The judge has used s 136 to limit the use of the statement to a non-hearsay purpose.
+
+The judge should discuss the proposed charge with counsel before instructing the jury. See 3.1 Directions Under Jury Directions Act 2015 for information on when the direction is required.
+
+Decision to Grant Leave
+
+[The following two paragraphs may be adapted and given immediately after the witness has given evidence.]
+
+You may have noticed that NOW gave evidence in a different manner from the other prosecution witnesses. Instead of providing an account in response to non-leading questions asked by the prosecution, his/her evidence was given in response to leading questions, as though the prosecution was cross-examining him/her. That is an unusual process, that was permitted due to a ruling I made.
+
+You must not speculate on the reasons why this process was necessary in this case, or draw any inference adverse to the accused from this process. You must base your decision on the evidence you hear in court and must not allow different processes of questioning witnesses to distract you from the issues in the case and the need to assess the evidence objectively and impartially.
+
+Prior Inconsistent Statement
+
+One of the things NOW said in the evidence s/he gave in court was [insert details of inconsistent statement made in court]. However, the prosecution alleged that NOW had previously given a different version of events. [Describe prior statement and identify alleged inconsistencies.]
+
+If you accept that NOW made this statement, there are two ways you can use it.
+
+First, you can use the contents of the statement as evidence in the case. For example, you could use NOW’s statement that [describe part of the statement] as evidence that [describe relevant asserted fact].
+
+Secondly, if you find that NOW’s statement is inconsistent with his/her account in court, you may use the statement when assessing his/her credibility and reliability. You may find that the fact that NOW had previously given an inconsistent account means that the evidence s/he gave in court is less likely to be truthful or accurate. You may therefore be less willing to accept his/her evidence. It is for you to determine whether or not to draw this conclusion from any inconsistencies you find.
+
+You should keep in mind the fact that a witness who gives inconsistent accounts is not necessarily lying. While dishonest witnesses are more likely to introduce inconsistencies in their stories, truthful witnesses may make mistakes about details.
+
+If you do find that NOW’s statement is inconsistent with his/her evidence in court, you will have two different accounts from the same witness. It is for you to determine which account, if any, to believe.
+
+[If the witness may have had a reason or motive for giving inconsistent evidence, add the following shaded section.]
+
+In making your determination, you should take into account [identify relevant factors, e.g. "any reasons NOW may have to give inconsistent evidence" or "any motive NOW may have to conceal or misinterpret facts"].
+
+[Summarise relevant evidence and arguments*.]
+
+Unreliability Warning
+
+[In some cases it will be necessary to warn the jury about the potential unreliability of the evidence under Jury Directions Act 2015 s 32. See 4.14.1 Charge: Unreliability of Hearsay Evidence for an example of such a warning.]
+
+Need for Caution
+
+[Where a full s 32 warning is not necessary, but the jury should be warned about the need for caution before acting on a previous representation, add the following shaded section.]
+
+However, you should be cautious before acting on NOW’s out-of-court statement, rather than the evidence s/he gave in court on [oath/affirmation].
+
+Last updated: 29 June 2015

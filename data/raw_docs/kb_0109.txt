@@ -1,0 +1,159 @@
+4.13.2 DNA Evidence
+
+What is DNA Evidence?
+
+1. “DNA evidence” refers to a type of expert evidence in which the DNA of a sample found at a crime scene (a “forensic sample”) is compared with a DNA sample provided by the accused (a “reference sample”).
+
+2. As DNA evidence is a type of expert evidence, the principles outlined in General Principles of Expert Evidence apply (subject to any modifications noted below).
+
+3. DNA may be examined and compared using:
+
+- “Nuclear DNA testing” which examines and compares the DNA contained in the nucleus of a cell. Nuclear DNA is unique to an individual (apart from identical twins).
+
+- “Mitochondrial DNA testing” which examines and compares the DNA contained in the mitochondria. This does not produce a unique result, as mitochondrial DNA is inherited entirely from the mother, and so is the same between siblings (R v Rye [2007] VSCA 247);
+
+- “Y-STR testing” which examines and compares the DNA contained on the Y chromosome. This is comparable to mitochondrial testing, as it is inherited entirely from the father, and so is the same between siblings (Tilley v The King [2023] SASCA 80, [81]).
+
+What does DNA evidence establish?
+
+1. The DNA strands in chromosomes are held together by base pairs. There are approximately three billion base pairs, and about three million of those vary between individuals (R v Noll [1999] 3 VR 704; R v Jarrett (1994) 62 SASR 443).
+
+2. Due to the uniqueness of nuclear DNA, if all base pairs of two nuclear DNA samples were tested and matched, it would be possible to say that the samples came from the same person, or an identical twin.
+
+3. However, DNA testing does not measure and compare every single base pair of the relevant samples. It only measures and compares the length of certain strings of base pairs at known positions called “loci” (R v GK (2001) 53 NSWLR 317; R v Pantoja (1996) 88 A Crim R 554).
+
+4. In Victoria, at least 21 loci (singular, locus) are measured as a standard set. The loci that are measured contain sequences of DNA known as short tandem repeats, which consist of repeated sequences of DNA which are known to be highly variable between people. The number of short tandem repeats at each loci is referred to an allele, and alleles are inherited from the person’s mother and father. The frequency of alleles at each loci has been measured.
+
+5. By comparing the alleles present in a forensic sample with a reference sample, forensic scientists can give an opinion if the forensic sample could have come from the person who provided the reference sample. If the reference sample and forensic sample display different alleles at any locus, and that difference cannot be reasonably explained, then the person who provided the reference sample is excluded as a contributor to the forensic sample.
+
+6. If the alleles in the reference sample match those in the forensic sample, then the person who provided the reference sample is not excluded.
+
+7. Using information about the frequency of alleles at each loci within a particular population group, a suitably qualified expert can give evidence about the likelihood ratio. This involves comparing two alternative propositions: 1. That the person who provided the reference sample is the source of the DNA in the forensic sample; and 2. An unknown and unrelated person chosen at random from the relevance population is the source of the DNA in the forensic sample.
+
+8. Expert witnesses may state their conclusions about the likelihood ratio in the following, equally mathematically correct, forms:
+
+- As a ratio of the number of people who would be expected to have the same DNA profile (e.g. 1 in 100);
+
+- As a ratio of the number of people who would not be expected to have the same DNA profile (e.g. 99 in 100);
+
+- As a percentage of the number of people who would be expected to have the same DNA profile (e.g. 1%);
+
+- As a percentage of the number of people who would not be expected to have the same DNA profile (e.g. 99%);
+
+- As the number of people in Australia who would be expected to have the same DNA profile; and
+
+- As the number of people in Australia who would not be expected to have the same DNA profile (see Aytugrul v R [2010] NSWCCA 272, [86] per McClelland CJ at CL).
+
+9. As all of these values express the same information there is no reason to prefer one method of expression over another (provided the numbers are accurately calculated). Experts should express their conclusions in a way that the jury can readily comprehend (Aytugrul v R [2010] NSWCCA 272 per Simpson and Fullerton JJ (McClelland CJ at CL contra). See also R v GK (2001) 53 NSWLR 317; R v Doheny & Adams [1997] 1 Cr App R 369).
+
+10. To avoid the risk that the jury may be overwhelmed by exceptionally high probabilities or likelihood ratios, witnesses may be permitted to present the statistical evidence concerning the probability of a match qualitatively rather than quantitatively, by describing the probability of a match with the accused as “strong”, “very strong” or “extremely strong” (see Forbes v R (2009) 167 ACTR 1).
+
+11. These frequencies are recorded in databases, which have been built up using previous genetic testing. A database (and the consequent results obtained from that database) will only be reliable if it contains a representative sample of the general community or, if the offender is from a specific ethnic group, the relevant ethnic community (R v Noll [1999] 3 VR 704; R v Pantoja (1996) 88 A Crim R 554).
+
+Samples from More than One Person
+
+12. Where a forensic sample contains DNA material from several people, an expert witness may give evidence on the probability of the profile if a particular person is a contributor to the sample rather than if the sample was the product of a group of randomly selected people.
+
+13. The expert may also give evidence on the likelihood of the DNA having come from one specified set of contributors (e.g., those alleged by the prosecution) rather than another (e.g., those alleged by the defence). This will allow the jury to assess the relative probability of the prosecution and defence hypotheses (R v Berry & Wenitong (2007) 17 VR 153).
+
+Standard of Proof
+
+1. Under the Jury Directions Act 2015, the only matters that must be proved beyond reasonable doubt are the elements and the absence of any relevant defences (Jury Directions Act 2015 s 61. See also Payne v R [2015] VSCA 291, [13]; DPP v Roder [2024] HCA 15, [15]).
+
+2. However, in some cases, DNA evidence may be substantially the only evidence of one or more elements. In such cases, it may be appropriate for the judge to clearly identify for the jury the importance of the evidence. Judges should discuss the issue with counsel and hear submissions on what additional directions or comments are appropriate. One option is to refer to the DNA evidence and direct the jury that it must be satisfied that that evidence proves the element beyond reasonable doubt (Jury Directions Act 2015 s 61, Example).
+
+Jury Directions
+
+1. DNA evidence is not a class of evidence that calls for special directions in every case (R v Berry & Wenitong (2007) 17 VR 153; R v Karger (2002) 83 SASR 135).
+
+2. Where DNA evidence is given, the judge must:
+
+- Ensure that the jury understands the issues and the evidence in the case; and
+
+- Give any directions that are necessary to ensure that the jury does not misuse the evidence.
+
+3. Judges have traditionally accomplished these goals by giving a careful summary and explaining the limitations of the evidence (R v Berry & Wenitong (2007) 17 VR 153; R v Karger (2002) 83 SASR 135).
+
+4. Following the Jury Directions Act 2015, a judge is not required to summarise the evidence, but must identify so much of the evidence the judge considers necessary to assist the jury to determine the issues in the trial (Jury Directions Act 2015 ss 65, 66).
+
+5. The need for directions on DNA evidence will depend on whether any directions are sought or whether there are substantial and compelling reasons for giving a direction in the absence of any request (Jury Directions Act 2015 ss 14–16). See 3.1 Directions Under Jury Directions Act 2015 for information on when directions are required. See also 3.9 Judge’s Summing Up on Issues and Evidence.
+
+6. Ordinarily, expert evidence about DNA only needs to inform the jury of the relevant likelihood ratios and provide a basic explanation of what they mean. The language used should be as simple and comprehensible as possible, and the jury needs to focus on what the statistical results are and what those results do and do not tend to prove. It is not necessary to understand the underlying science of DNA profiling (Tuite v The Queen [2020] VSCA 318, [113]; Vyater v The Queen [2020] VSCA 32).
+
+7. There are, however, some cases where a more detailed explanation of DNA evidence is required. For example, it may be necessary to explain:
+
+- The jury’s role in determining whether a certain person is excluded or not excluded as a possible contributor to the forensic sample;
+
+- The jury’s role in assessing the accuracy and reliability of the expert evidence; and
+
+- The consequences of finding that a person may have been a contributor to the forensic sample.
+
+8. The judge may also need to address any fallacies put forward by the parties.
+
+Assessing whether a person is excluded or not excluded
+
+9. Where directions are required about whether the accused could be a contributor to the forensic sample, the judge should tell the jury that it is a question of fact for them whether the accused is excluded or not excluded as a possible contributor to the forensic sample (R v Pantoja (1996) 88 A Crim R 554; R v Karger (2002) 83 SASR 135).
+
+10. This will usually be determined by the jury using the evidence given by the expert witnesses (R v Pantoja (1996) 88 A Crim R 554; R v Karger (2002) 83 SASR 135).
+
+Was the Testing Accurate and Reliable?
+
+11. Where directions are required about whether the testing was accurate and reliable, the judge should tell the jury that is a question of fact for them (R v Pantoja (1996) 88 A Crim R 554; R v Karger (2002) 83 SASR 135).
+
+12. In some cases, this may require the jury to consider whether the evidence may have been affected by laboratory error (R v Karger (2002) 83 SASR 135).
+
+13. In other cases, it may require the jury to consider the accuracy and reliability of the method used to generate the relevant evidence (see, e.g., Xie v The Queen [2021] NSWCCA 1).
+
+14. The jury may also need to consider any limitations in the database used by the experts to assess the probability of the sample coming from someone other than the accused (R v Pantoja (1996) 88 A Crim R 554).
+
+15. This may be particularly relevant where there is evidence that the offender is a member of a particular ethnic group that may have different genetic characteristics from the general community. The jury should be directed to consider these limitations and their effect on the statistical evidence (R v Pantoja (1996) 88 A Crim R 554).
+
+What Are the Consequences of the Jury’s Findings?
+
+16. When directing the jury about the significance of DNA evidence, the judge should generally explain to the jury that evidence that the accused is a possible contributor to the forensic sample is not direct evidence that the accused committed the offence. It is only circumstantial evidence, and must be considered in light of the other evidence in the case (R v Karger (2002) 83 SASR 135; R v Vivona Vic CCA 12/9/94).
+
+17. Precisely what the jury should be told about the use they can make of this circumstantial evidence will depend on the content of the evidence:
+
+- Where there is evidence of the likelihood ratio, the jury should be told that (if accepted) the evidence establishes that the accused could be the source of the forensic sample, and indicates the likelihood that another person could also be responsible for the forensic sample (R v Karger (2002) 83 SASR 135; R v Vivona Vic CCA 12/9/94).
+
+- When the evidence only demonstrates that the accused cannot be excluded from the possible contributors to the forensic sample (that is, there is no likelihood ratio, and the evidence is not exclusionary), the jury should be told that the evidence (if accepted) cannot establish the accused’s guilt, and can only demonstrate that the accused cannot be excluded from the class of people who could be guilty (see R v Rye [2007] VSCA 247, [55]–[57]).
+
+- Where there is evidence that accused is excluded as a possible contributor to the forensic sample, the jury should be told that the evidence (if accepted) establishes that the accused is not responsible for the forensic sample (R v GK (2001) 53 NSWLR 317; R v Pantoja (1996) 88 A Crim R 554).
+
+- Where the evidence in the case has raised other possible explanations for the accused to be a contributor to the forensic sample (such as contamination, secondary transfer or innocent deposit), the jury should be told that it must consider those other explanations when deciding what weight to give the DNA evidence.
+
+Warning Against Misuse of Evidence
+
+18. Expert evidence on the likelihood ratio is apt to mislead the jury. In particular, it creates a risk that the jury will adopt the following erroneous reasoning (known as the “prosecutor’s fallacy”):
+
+- Only one person in a million has a DNA profile that matches the forensic sample;
+
+- The accused has a DNA profile that matches the forensic sample;
+
+- Therefore there is a million to one probability that the accused is responsible for the forensic sample and is guilty (R v Doheny & Adams [1997] 1 Cr App R 369; R v Karger (2002) 83 SASR 135; R v GK (2001) 53 NSWLR 317).
+
+19. This line of reasoning fails to recognise that even though only one person in a million has a DNA profile that matches the forensic sample, in a country the size of Australia (with over 25 million people), it is statistically likely that the DNA of at least 20 other people will also match that sample (R v GK (2001) 53 NSWLR 317; R v Doheny & Adams [1997] 1 Cr App R 369).
+
+20. It is not necessary to warn against the prosecutor’s fallacy in all cases. The judge should consider the need for a direction based on the following factors:
+
+- Whether a direction is requested;
+
+- The clarity of the witness’ evidence and the witness’ chain of reasoning;
+
+- The purpose for which the evidence has been led;
+
+- The circumstantial nature of the evidence;
+
+- The risk of the jury misusing the evidence;
+
+- The arguments raised in the case;
+
+- The magnitude of the likelihood ratio, especially where it exceeds the population of Australia (Jury Directions Act 2015 ss 14–16; R v Karger (2002) 83 SASR 135; Xie v The Queen [2021] NSWCCA 1, [307]–[318]).
+
+21. If a direction is necessary, the judge should generally warn the jury against engaging in the prosecutor’s fallacy when the DNA evidence is led, and again in the final directions (R v Doheny & Adams [1997] 1 Cr App R 369; R v Karger (2002) 83 SASR 135; R v GK (2001) 53 NSWLR 317; Latcha v R (1998) 127 NTR 1).
+
+22. The judge may also warn the jury not to disregard the strength of the likelihood ratio. Even if DNA evidence is not capable of proving to a scientific certainty that the accused is the contributor, it may be strong circumstantial evidence (R v GK (2001) 53 NSWLR 317).
+
+23. Where the likelihood ratio is sufficiently high, the jury should consider the fact that there is no evidence connecting any other (random) people with a matching DNA profile to the offence (R v GK (2001) 53 NSWLR 317; R v Doheny & Adams [1997] 1 Cr App R 369).
+
+Last updated: 14 May 2024

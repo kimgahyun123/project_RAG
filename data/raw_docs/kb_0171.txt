@@ -1,0 +1,53 @@
+4.8.4 Charge: Delay Risking Honest but Erroneous Memory
+
+This charge should only be given where:
+
+i) A party has requested a Jury Directions Act 2015 s 32 warning about the risk of honest but erroneous memory; and
+
+ii) There are no good reasons for not giving the direction.
+
+Introduction
+
+As you will be aware, the offences in this trial are alleged to have occurred [indicate date(s) or date range(s)]. NOC first complained to NOW about the offending on [indicate dates]. This means there was a delay of [indicate delay] before NOC told anybody about [the details of] these alleged offences.
+
+Effect of Delayed Complaint on Reliability
+
+Because of the passage of so many years between the date(s) of the alleged offences, and the date of NOC’s first complaint about those alleged events, I must give you a warning about the reliability of NOC’s evidence.
+
+My warning to you is as follows. The honest recollections of a witness about events that s/he believed to have occurred many years before may be unreliable.
+
+You will easily understand that the passage of time may affect any witness’s memory. While in some cases people simply forget things, in other cases their memory may become distorted. That is, they may come to remember things that did not really happen.
+
+Human recollection is frequently erroneous and liable to distortion in this way. The likelihood of this error increases with delay.
+
+[Add any other factors which may have exacerbated the risk of honest but erroneous memory in the circumstances, such as evidence that the complainant was suggestible. Also refer to any factors which may support the complainant’s recollection, such as the exceptional or traumatic nature of the alleged acts, or a timely complaint that was made to another person.]
+
+Warning
+
+The law says that every jury must take this potential unreliability into account when considering evidence that is given after a long delay.
+
+You must take this potential unreliability into account in determining whether you accept NOC’s evidence at all, and if you do accept it, in whole or in part, in deciding what weight to give to that evidence.
+
+In making this assessment you must carefully consider not only whether NOC’s evidence is honest, in the sense that NOC believes it to be true, but also whether it is in fact true. While you should use your common sense and experience in assessing the effect of the delay upon NOC’s memory, you must also consider the possibility that s/he honestly believes what s/he is saying, but is mistaken due to the distortion of his/her memory.
+
+Supporting evidence
+
+[If there is evidence capable of "supporting" the witness’s evidence that has not otherwise been dealt with, add the following shaded section.]
+
+In considering whether it is safe to rely on NOC’s evidence, you should have regard to any supporting evidence led in this trial that you accept. By "supporting evidence" I mean evidence that comes from a source that is independent of NOW, and that tends to show the truth of NOW’s evidence of the accused’s guilt.
+
+In this case the prosecution relied upon [insert number] items of evidence as supporting NOC’s evidence. These were [identify evidence capable of supporting the unreliable witness’s evidence].
+
+[If there is a danger that the jury might mistakenly believe certain evidence to be supportive, add the following darker shaded section.]
+
+There was other evidence given in this case that you might have thought at first glance could support NOC’s evidence. This includes the evidence [broadly identify non-supporting evidence].
+
+I direct you that this other evidence is not capable of supporting NOC's account, because [explain why the evidence is not capable of supporting, e.g. "it does not come from an independent source".]
+
+Complainants are not less reliable than other witnesses
+
+To conclude this part of my charge, I must make clear that in giving you these directions I am not suggesting, and it would be wrong to suggest, that people who make complaints about sexual offences are less reliable than other witnesses. That is not the case.
+
+These directions are necessary solely because of the because of the matters that I have explained to you.
+
+Last updated: 29 June 2015

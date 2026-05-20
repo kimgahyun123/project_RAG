@@ -1,0 +1,53 @@
+4.11.1 Charge: Breach of the Rule in Browne v Dunn
+
+This charge may be used where:
+
+i) Defence counsel has breached the rule in Browne v Dunn; and
+
+ii) That breach cannot be remedied by means other than giving a direction; and
+
+iii) The judge determines that a direction is necessary in the circumstances of the case. See 3.1 Directions Under Jury Directions Act 2015 for information on when directions are required
+
+The charge may be modified for use in cases where the prosecution has breached the rule in Browne v Dunn. However, care should be taken when doing so. The judge should bear in mind the accusatorial nature of criminal trials, the obligation on the prosecution to present its whole case and the burden of proof. See 4.11 Failure to Challenge Evidence (Browne v Dunn) for guidance.
+
+The Rule in Browne v Dunn
+
+I now need to direct you about a rule of practice concerning the cross-examination of witnesses.
+
+This rule says that whenever a prosecution witness gives evidence, defence counsel must cross-examine him or her about any matters that are relevant to the defence case, and must put any allegations that s/he intends to make against that witness directly to him or her.
+
+This is a rule of fairness, which allows witnesses to confront any proposed challenges to their evidence, and enables you to see and assess the reaction of the witnesses to those challenges.
+
+Using the Breach to Assess Weight
+
+[If the fact that the rule was broken is not a jury issue, add the following shaded section.]
+
+Defence counsel broke this rule by not challenging NOW about [describe relevant matter and/or allegation]. As a result, NOW was denied the opportunity to respond to that challenge, and you were deprived of the opportunity of hearing his/her evidence in response.
+
+You may take this fact into account when assessing the weight you give to [describe relevant matter, allegation or argument].
+
+[If the allegation that the rule was broken is a jury issue, add the following shaded section.]
+
+In this case, the prosecution alleged that defence counsel broke this rule by not challenging NOW about [describe relevant matter and/or allegation]. They argued that NOW was therefore denied the opportunity to respond to that challenge, and you were deprived of the opportunity of hearing his/her evidence in response.
+
+The defence denied breaking the rule, arguing that [describe defence argument, e.g. "they had put the matter to NOW in sufficient detail"].
+
+It is for you to determine whether NOW was given a fair opportunity to address this matter. In making this determination, you should consider how significant the matter is, and whether counsel should have cross-examined NOW about it. [Insert any other information necessary for the jury to determine whether the rule was breached.]
+
+If you find that defence counsel should have cross-examined NOW about [describe matter], you may take his/her failure to do so into account when assessing the weight you give to [describe relevant matter, allegation or argument].
+
+However, you should also consider the fact that there may be a good reason why defence counsel did not challenge NOW about this matter. For example, [describe possible reasons for counsel’s failure to comply with the rule*].
+
+Using the Breach to Infer Recent Invention
+
+[If the circumstances of the breach give rise to the prominent hypothesis that the contradictory evidence is a fabrication, consideration may be given to adding the following shaded section.]
+
+Warning: This part of the charge should only be given in exceptional circumstances. See 4.11 Failure to Challenge Evidence (Browne v Dunn) for guidance.
+
+You may also infer from defence counsel’s failure to cross-examine NOW about [describe matter], that any evidence which conflicts with NOW’s evidence about that matter was invented after NOW gave his/her evidence, and should not be believed. This would include [summarise relevant defence evidence].
+
+This does not mean that you must disbelieve the defence evidence on this issue. I am simply describing an inference that you are permitted to draw. It is for you to determine whether or not to draw that inference.
+
+You must be very cautious about drawing this inference. You will recall what I previously told you about drawing inferences. In this context, that means that before inferring that NOA invented his/her account after NOW gave evidence, you must decide that there is no other reasonable explanation for defence counsel’s failure to cross-examine NOW about [describe matter]. If you think that it is possible that there was another reason for defence counsel’s failure to cross-examine NOW about that matter, you may not draw this inference.
+
+Last updated: 9 March 2017

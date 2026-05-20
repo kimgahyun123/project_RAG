@@ -1,0 +1,57 @@
+4.8 Delayed Complaint
+
+Delayed Complaint
+
+1. The timeliness or otherwise of making a complaint may be relevant in three different ways:
+
+1. In some circumstances evidence of an early complaint may be used both as evidence of the offence, and to bolster the complainant’s credibility;
+
+2. If the complainant failed to make a complaint in a timely fashion ("a delayed complaint"), this may be used to detract from his or her credibility;
+
+3. If the delay in complaint (or prosecution) has had adverse consequences for the trial that the jury may not appreciate, the jury may need to be warned about these consequences.
+
+Recent Complaint
+
+1. Directions in respect of “recent complaint” are designed to explain the permissible uses of evidence and to warn the jury about types of evidence that may be unreliable. For more information see 4.14 Previous Representations (Hearsay, Recent Complaint and Prior Statements).
+
+Delayed Complaint Relevant to Credit
+
+2. At common law, the duty to direct a jury in respect of the potential impact of delayed complaint on the complainant’s credit derived both from statute (Crimes Act 1958 s 61) and from the need to give a balanced charge where delay in making complaint is raised before the jury (Kilby v R (1973) 129 CLR 460; Crofts v R (1996) 186 CLR 427).
+
+3. The Jury Directions Act 2015 has now codified the directions on the relevance of delay to credit in sexual offence cases, and any rule of the common law which required a judge to direct the jury that:
+
+(a) a complainant's delay in making a complaint or lack of complaint may cast doubt on the reliability of the complainant's evidence; and
+
+(b) the jury should take this into account when evaluating the credibility of the allegations made by the complainant–
+
+is abolished (Jury Directions Act 2015 s 54).
+
+4. For more information see Effect of Delayed Complaint on Credit.
+
+Other Consequences of Delay
+
+1. Two other consequences of delay may be the production of forensic disadvantage to the accused, and of honest but unreliable recollections of the complainant. These are commonly seen only as consequences of long delay, but the length of delay may not be determinative.
+
+2. The law on these topics is modified by the Jury Directions Act 2015 ss 14–16 and 48–54.
+
+Delay Risking Miscarriage of Justice
+
+3. For trials commenced prior to 1 December 2006, the judge’s duty was primarily determined by the common law, as articulated in Longman v R (1989) 168 CLR 79 and the authorities that have applied it. In those cases, the question was whether the consequences of delay had created a perceptible risk of miscarriage of justice. The source of that risk was commonly considered to be the forensic disadvantage to the accused, and the potential for the complainant’s recollection to be honest but erroneous.
+
+Forensic Disadvantage
+
+4. The need for and the content of a direction on forensic disadvantage is governed by Jury Directions Act 2015 ss 38–40. A judge must give the jury a forensic disadvantage direction if one is requested, unless there are good reasons for not giving such a direction. However, a judge need not give a direction if it has not been requested, unless there are substantial and compelling reasons for giving the direction in the absence of a request (see Jury Directions Act 2015 ss 14, 16; c.f. Greensill v R (2012) 37 VR 257).
+
+Honest But Erroneous Memory
+
+5. The provisions of the Jury Directions Act 2015 are not directly concerned with directions about honest but erroneous memory following delay.
+
+6. It is suggested that these issues should now be considered by reference to s 32 of the Jury Directions Act 2015. For more information see 4.8.3 Delay Risking Honest But Erroneous Memory.
+
+Combination of Directions
+
+1. If there is a dispute as to how soon after the alleged events the complaint was made, the judge may need to give the statutory directions on delayed complaint and also give directions on recent complaint at the end of the trial (see R v Munday (2003) 7 VR 423 and 4.14.4 Charge: Complaint Evidence).
+
+2. Where multiple directions about the different consequences of delayed complaint are necessary in the circumstances of a case, it is permissible to combine them in a single direction (R v BDX (2009) 24 VR 288).
+
+Last updated: 29 June 2015

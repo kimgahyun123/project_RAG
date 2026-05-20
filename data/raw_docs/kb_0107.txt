@@ -1,0 +1,33 @@
+4.13.1.2 Charge: Contested Expert Evidence
+
+This charge may be given where expert witnesses give conflicting evidence.
+
+See 3.1 Directions Under Jury Directions Act 2015 for information on when directions are required.
+
+I must now give you directions about expert evidence.
+
+[Insert names of expert witnesses] were asked by the [prosecution/defence] to give evidence about [describe issue] because they are experts in the field. [If appropriate, describe the experts’ fields of expertise, qualifications and experience.]
+
+In the course of giving evidence, these witnesses expressed their conflicting opinions about [describe issue and summarise experts’ opinions].
+
+Ordinarily, witnesses are not allowed to give their opinions in court. They must confine their evidence to their own observations. This is because it is you who are the judges of facts, and so usually it is only your opinion that is relevant.
+
+However, the law says that people with specialised knowledge or training are allowed to give their opinions about matters within their field of expertise, if that may assist you in making your decision.
+
+In this case, [insert names of expert witnesses] evidence may assist you in determining [explain permissible uses of the expert evidence and any limitations on use].
+
+It is for you to determine whose opinion, if any, to accept, and how to use that opinion. You are the judges of fact in this case, and even though these witnesses are experts in their field, their opinions are merely a piece of evidence like any other, which you may accept or reject.
+
+When assessing evidence given by experts, you should consider factors such as the witnesses’ qualifications, their demeanour, the way they expressed their opinions, and how they responded to cross-examination. You should also consider whether the witnesses appeared objective, or whether they seemed biased and overstated their evidence.
+
+You should also examine the quality of the reasons offered for an opinion, and the facts that support that opinion. A witness’s opinion is only valuable if the facts on which it is based are true.
+
+[If there is a dispute about the factual bases of the experts’ evidence, explain the dispute to the jury and summarise the relevant arguments.]
+
+[If two or more experts disagree over a matter of science, add the following shaded section.]
+
+In this case part of the dispute between the witnesses is about scientific matters. [Summarise dispute.] If you find that you cannot resolve this conflict by considering the witnesses’ evidence, then you must give the accused the benefit of your doubt, and reject [insert name of prosecution witness] evidence.You can only accept that evidence if you find there to be a good reason to reject [insert name of defence witness] evidence.
+
+[If appropriate, summarise and explain any relevant prosecution and defence arguments in relation to the witnesses.*]
+
+Last updated: 25 June 2024

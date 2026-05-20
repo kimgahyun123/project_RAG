@@ -1,0 +1,95 @@
+6.1.1 Charge: Conspiracy to Commit an Offence (Victoria)
+
+This charge has been drafted for trials involving a single accused. The charge will need to be adapted if multiple accused are tried together.
+
+Charge
+
+Conspiracy to commit NOO is a crime. In order to find the accused guilty of this crime, there are 3 elements, each of which the prosecution must prove beyond reasonable doubt. I will list them for you and then explain each one in detail.
+
+The first element that the prosecution must prove is that the accused made an agreement with at least one other person to commit the offence of NOO. Throughout these directions I will call the people who it is alleged entered into that agreement, including the accused, the "parties".
+
+The second element that the prosecution must prove is that the accused intended to make that agreement.
+
+The third element that the prosecution must prove is that the parties intended that the offence of NOO would be committed.
+
+Before you can find NOA guilty of conspiracy to commit NOO you must be satisfied that all three of these elements have been proven beyond reasonable doubt.
+
+I will now explain each of these elements in more detail.
+
+Agreement
+
+The first element that the prosecution must prove is that the accused made an agreement with at least one other person to commit NOO. This requires you to be satisfied of two matters beyond reasonable doubt.
+
+First, you must be satisfied that NOA and [identify alleged co-conspirators] actually made an agreement to commit certain acts. It is not enough for them to have independently decided to commit those acts, or to have simply expected those acts would be committed. They must have agreed to pursue those acts.
+
+Second, you must be satisfied that, under that agreement, a person was supposed to commit the offence of NOO. A person commits NOO when s/he [include elements of the principal offence. See 7 Victorian Offences].
+
+In this case the prosecution alleged that NOA formed an agreement with [identify alleged co-conspirators] to [describe alleged object of conspiracy]. [Summarise relevant prosecution evidence and/or arguments.] The defence denied this, arguing that [describe relevant defence evidence and/or arguments].
+
+For this element to be met, you must be satisfied that an agreement was formed between NOA and [identify alleged co-conspirators], in the terms alleged by the prosecution. If you are not satisfied that there was such an agreement, or that the agreement was in those terms, then this element will not be met.
+
+Intention to Agree
+
+The second element that the prosecution must prove is that, at the time the agreement was made, the accused intended to enter into that agreement. This requires you to be satisfied, beyond reasonable doubt, that NOA really meant to make that agreement, and did not just appear to agree with the other alleged parties.
+
+The prosecution alleged that that was the case here. [Describe relevant prosecution evidence and/or arguments.] The defence denied this, arguing [describe relevant defence evidence and/or arguments].
+
+Intention to Commit the Criminal Offence
+
+The third element that the prosecution must prove is that, when the parties made the agreement, they intended that the offence of NOO would be committed.
+
+[If there are particular facts or circumstances the parties must have believed in to commit the offence, add the following shaded section.]
+
+You must also be satisfied that the parties intended or believed that [describe relevant facts or circumstances, e.g. "NOV would not be consenting"] at the time the offence was to be committed.
+
+For this element to be met, you must be satisfied that NOA and [identify alleged co-conspirators] definitely meant for the offence of NOO to be committed. It is not sufficient for them to have thought that maybe that offence should be committed, or to have intended to commit some other offence.
+
+The prosecution argued that the parties did intend to commit NOO when they made the agreement. [Describe relevant prosecution evidence and/or arguments.] The defence denied this, arguing [describe relevant defence evidence and/or arguments].
+
+Accused’s Knowledge
+
+When determining the case against the accused, you will need to consider precisely what s/he knew at the time s/he made the alleged agreement.
+
+The law says that the accused must have known that s/he was [forming/being brought into] a scheme to commit a criminal offence.
+
+S/he must also have known the nature of the offence planned. That is, s/he must have known that it involved [briefly summarise relevant elements of the principal offence, e.g. "sexually penetrating the victim without her consent"].
+
+However, s/he does not need to have known the specific details of how that offence was going to be carried out. [Where relevant, add: Nor does s/he need to have known the identity of the proposed victim(s).] It is sufficient for him/her to have known that the offence of NOO would be carried out, and to have intentionally agreed to pursue that offence.
+
+[Where it is possible that the accused did not know the identity of some of the alleged co-conspirators, add the following shaded section.]
+
+The accused also does not need to have known the identity of the other parties to the agreement. However, s/he does need to have known that there were other parties to the agreement, and to have been in agreement with them about the commission of the offence.
+
+[If it is alleged that the accused’s agreement should be inferred from his/her involvement in a criminal enterprise, add the following shaded section.]
+
+In making your determination, it is important that you focus on precisely what each party actually knew about and agreed to. You should not assume that a person has agreed to commit an offence simply because s/he knew that it was likely that s/he was playing a part in a criminal enterprise that involved the commission of that offence. To convict the accused of conspiracy, you must find that s/he intentionally agreed to pursue that offence.
+
+No Need for Overt Acts
+
+You also do not need to find that the parties took any steps to carry out their agreement. The offence of conspiracy is committed when people intentionally agree to commit an offence, regardless of whether they act on that agreement.
+
+You may, however, use evidence that the parties attempted to carry out the agreement as evidence that there was an agreement and as evidence of the terms of the agreement. For example, the prosecution says that [describe relevant prosecution evidence and/or arguments]. The defence reject this, saying [describe relevant defence evidence and/or arguments].
+
+Application of Law to Evidence
+
+[If not previously done, apply the law to the relevant evidence here.]
+
+Summary
+
+To summarise, before you can find NOA guilty of conspiracy to commit NOO, the prosecution must prove to you, beyond reasonable doubt:
+
+One – That NOA and [identify alleged co-conspirators] made an agreement to commit NOO; and
+
+Two – That the accused intended to make that agreement; and
+
+Three – That the parties intended that the offence of NOO would be committed.
+
+If you find that any of these elements have not been proven beyond reasonable doubt, then you must find NOA not guilty of conspiracy to commit NOO.
+
+Inconsistent Verdicts
+
+[If there is no factual basis on which the jury can convict one accused without convicting a co-accused, add the following shaded section.]
+
+It is important to note that the evidence concerning this offence is identical in relation to both NOA and [identify co-accused]. This means that if you have decided that [identify co-accused] is not guilty of conspiracy to commit NOO, you must also find NOA not guilty of that offence.
+
+Last updated: 3 October 2012

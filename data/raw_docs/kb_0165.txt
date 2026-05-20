@@ -1,0 +1,25 @@
+4.6.4 Charge: Avoiding Risk of Improper Use of Conduct Evidence (s 23 Direction)
+
+This charge should only be given if:
+
+i) Evidence of conduct is led which the prosecution does not rely on as evidence of incriminating conduct;
+
+ii) Defence counsel request a direction to avoid the risk of the jury misusing the evidence as incriminating conduct.
+
+Warning
+
+In this trial, the prosecution alleged that NOA [describe relevant conduct, e.g. told a number of lies].
+
+[Identify relevant conduct evidence.]
+
+You might think that this makes it look like NOA committed the offence[s] charged. But I must direct you, as a matter of law that there are all sorts of reasons why a person might behave in a way that makes it look like s/he has committed an offence. I also give you this warning. Even if you think that NOA [describe relevant conduct], you must not use that to conclude that s/he is guilty of [any of] the offence[s] charged.
+
+[If the conduct evidence consists of lies, add the following shaded section.]
+
+What you may do, if you find that NOA deliberately told one of the suggested lies that I have just mentioned, is to use that to help you assess [his/her] credibility. If you find that the accused deliberately lied about something, you can use that fact in deciding whether or not you believe the other things that s/he said [in evidence/in his/her account to police]. That is not to say that just because you find that an accused lied about one matter, you must also find that they have been lying about everything else. But you can use the fact that they lied to help you determine the truthfulness of the other things that they said. It is one factor to take into account. The weight you give to that factor will depend on how significant you find the lie to be.
+
+It is up to you to decide whether NOA deliberately lied. There is a difference between rejecting a person’s statements and finding that they deliberately lied. Sometimes people make mistakes, or get confused, or genuinely cannot remember a fact. While what they say may be wrong, it is not a lie. That is, you must decide whether any of [his/her] statements were untrue, and whether [he/she] knew they were untrue at the time they were made.
+
+But you must not reason that because NOA told these lies, s/he is guilty. Evidence that s/he told these lies is not evidence of guilt. These alleged lies are only relevant, if at all, in assessing NOA’s credibility.
+
+Last updated: 7 August 2025

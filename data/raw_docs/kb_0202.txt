@@ -1,0 +1,129 @@
+5.8.3 Charge: Commonwealth Joint Commission Course of Agreement
+
+This Charge has been designed for use in cases where the accused is charged with being involved in the commission of an offence via Criminal Code (Cth) section 11.2A(1)(b)(ii)).
+
+For other forms of complicity for Commonwealth offences, see:
+
+i) Charge: Commonwealth Complicity – Type of offence in issue
+
+ii) Charge: Commonwealth Complicity – Type of offence not in issue
+
+iii) Charge: Commonwealth Joint Commission – Accordance with Agreement
+
+NOA has been charged with the offence of [insert charged offence]. However, it has not been alleged that s/he committed that offence alone. Instead, the prosecution has alleged that NO3P committed that offence, but that NOA should be held responsible for NO3P’s actions.
+
+In order to find NOA guilty of [insert charged offence], the prosecution must prove the following [four/five] elements:
+
+One – the accused agreed with other people to commit an offence – [insert agreed offence].
+
+Two – that the accused and NO3P intended that [insert agreed offence] would be committed under the agreement.
+
+Three – that a party to the agreement committed [insert charged offence] in the course of carrying out the agreement.
+
+Four – that NOA was reckless about whether [insert charged offence] would be committed in the course of carrying out the agreement.
+
+[If termination is relevant, add the following shaded section.]
+
+Five – that NOA did not effectively terminate his/her involvement prior to the offence being committed.
+
+Before you can find NOA guilty of [insert charged offence], you must be satisfied that the prosecution has proven all [four/five] of these elements beyond reasonable doubt. I will now explain each of these elements in more detail.
+
+Agree to Commit Offence
+
+The first element that the prosecution must prove is that the accused agreed with other people to commit [insert agreed offence]. This is a different offence to [insert charged offence]. You must be satisfied that the accused agreed to commit [insert agreed offence].
+
+A person can agree to commit an offence expressly, or you may infer that s/he agreed to commit the offence from the surrounding circumstances. You will recall what I have told you about inferences.
+
+[If the content of the agreement, or the parties’ understanding of the content, is in issue, add the following shaded section.]
+
+NOA must have agreed to commit an [insert agreed offence]. This element will not be satisfied if the accused agreed to pursue some other form of activity that is not criminal. However, you do not need to find that NOA and [identify relevant co-offenders] knew they were agreeing to commit a crime. This element will be satisfied as long as they agreed to do something which was, in fact, criminal.
+
+Similarly, you do not need to find that all of the parties had the same purpose or intention when forming that agreement, or were all aware of the consequences of their actions. You do not even have to find that they all agreed on the precise terms of the agreement. For this element to be satisfied, you only need to find that they agreed to commit a criminal offence together.
+
+An example of two people agreeing to commit an offence is where two people agree to commit a bank robbery together, with one of them to buy the gun and give it to the other, who will use it at the bank to steal the money. Each of the two people would have agreed to commit the particular offence of armed robbery.
+
+[If the timing of the agreement is in issue, add the following shaded section.]
+
+The law says that it does not matter whether the agreement was made before, or at the same time, as NOA and [identify co-offenders] started offending. For example, if a person were in the process of robbing a bank when he/she called on someone to help him/her unlock a safe, the person they called could be liable for the robbery even though he/she agreed to help after some of the work had already been done.
+
+In this case, the prosecution alleged that [specify parties] agreed to commit [insert agreed offence]. They alleged that this agreement was made [insert prosecution evidence about the formation of the agreement].
+
+[If the defence denies that there was an agreement to commit an offence, add the following shaded section.]
+
+The defence denied this, arguing [insert relevant evidence and/or arguments].
+
+It is only if you are satisfied, beyond reasonable doubt, that the accused agreed to commit an offence that this first element will be met.
+
+Mental State
+
+The second element that the prosecution must prove is that the accused and at least one other party to the agreement intended that [insert agreed offence] would be committed under the agreement. They must have intended the agreement to bring about NOO, or have been aware that NOO would occur in the ordinary course of events.
+
+[Identify physical elements of agreed offence, subject to any special liability provisions that apply.]
+
+It is only if you are satisfied that NOA intended to enter into an agreement to commit [insert agreed offence] that this second element will be met.
+
+Commission of Charged Offence
+
+The third element that the prosecution must prove is that, in the course of carrying out the agreement, a party to the agreement committed [insert charged offence].
+
+There are also two parts to this element. First, you must be satisfied that a party to the agreement committed [insert charged offence]. This means that you must find that all of the following matters have been proven beyond reasonable doubt:
+
+[Describe all of the elements of the charged offence, explain those elements, and relate them to the facts.]
+
+The second part of this element requires the prosecution to prove that a party to the agreement committed [insert charged offence] in the course of carrying out the agreement.
+
+In this case the prosecution alleged that [describe relevant prosecution evidence and/or arguments tying the offending to the agreement]. The defence denied this, arguing [describe relevant evidence and/or arguments].
+
+It is only if you are satisfied that NO3P committed [insert charged offence], and that s/he committed this offence in the course of carrying out the agreement with NOA, that this third element will be met.
+
+Recklessness
+
+The fourth element the prosecution must prove is that, when NOA agreed to commit an offence, s/he was reckless about whether [insert charged offence] would be committed in the course of carrying out the agreement.
+
+To satisfy this element, the prosecution must prove that NOA was aware of a substantial risk that NO3P would [identify elements of charged offence]. These are the same [insert number of elements] matters which the prosecution needed to prove in relation to the second element.
+
+The prosecution must also show that it was unjustifiable for him/her to take that risk in the circumstances known to him/her. Whether taking such a risk is unjustifiable is a question of fact for you to determine. It does not matter whether NOA thought the risk was justified.
+
+There is an important difference between this element and the second element. The second element looks at what happened in the course of carrying out the agreement. Has the prosecution proved that NO3P committed [insert charged offence]? In contrast, this element looks at what NOA was aware of at the time s/he made the agreement. Has the prosecution proved that s/he was aware of a substantial risk that someone would commit [insert charged offence]?
+
+[Identify relevant prosecution and defence evidence and arguments.]
+
+Withdrawal
+
+[If termination of the accused’s involvement is in issue, add the following shaded section.]
+
+The fifth element that the prosecution must prove is that the accused did not effectively terminate his/her involvement prior to the performance of any aspect of [insert charged offence].
+
+The law says that, for a person not to be liable as someone who agreed to commit an offence, then s/he must terminate his/her involvement and take all reasonable steps to prevent the offence being committed. His/her termination must be timely and effective.
+
+Whether the accused has taken all reasonable steps to prevent the offence is a question for you. You must apply your common sense and experience. For example, in some cases it will be enough for the accused to take back any tools he or she has provided for the commission of the crime. In some cases it may be necessary for the accused to inform the police of the agreement.
+
+It is not for the defence to prove that s/he terminated his/her involvement in NOO in a timely and effective manner. It is the prosecution who must prove that NOA did not take all reasonable steps to prevent any part of [insert charged offence] being committed.
+
+In this case, the prosecution argued that the accused had not taken all reasonable steps to prevent [insert charged offence]. [Insert prosecution evidence and/or arguments.] The defence denied this, arguing that NOA terminated his/her involvement in a timely and effective manner. [Insert relevant evidence and/or arguments.]
+
+Application of Law to Evidence
+
+[If not already done, apply the law to the relevant evidence here.]
+
+Defences
+
+[If any defences are open on the evidence, insert relevant directions.]
+
+Summary
+
+To summarise, before you can find NOA guilty of [insert charged offence], the prosecution must prove to you beyond reasonable doubt:
+
+One – the accused agreed with other people to commit an offence.
+
+Two – that NOA and NO3P intended that an offence would be committed under the agreement
+
+Three – that, in accordance with that agreement, the parties to the agreement between them performed all of the acts necessary to commit NOO.
+
+Four – that NOA was reckless about whether NOO would be committed in the course of carrying out the agreement.
+
+[If termination is relevant, add the following shaded section.]
+
+and Five – that NOA did not effectively terminate his/her earlier involvement prior to the offence being committed.
+
+Last updated: 17 November 2022

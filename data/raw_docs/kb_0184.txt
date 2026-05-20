@@ -1,0 +1,109 @@
+5.4.1 Charge: Extended Common Purpose
+
+This charge only applies to offences committed before 1 November 2014.
+
+NOA has been charged with the offence of NOO. However, it has not been alleged that s/he committed that offence him/herself. Instead, the prosecution has alleged that NO3P committed that offence, but that NOA should be held responsible for NO3P’s actions. I must therefore give you some directions about when someone can be held responsible for the acts of another person.
+
+The law says that if the accused makes an agreement with other people to pursue a criminal enterprise, and in the course of pursuing that enterprise one of the other people commits an offence which was not part of the agreement, the accused should be held responsible for that offence if s/he foresaw that it could happen. This is called the law of "extended common purpose". It makes the accused liable for continuing to participate in a criminal enterprise, despite foreseeing the risk that the offence would be committed.
+
+In order to find NOA guilty of committing NOO by extended common purpose, there are 3 elements, all of which the prosecution must prove beyond reasonable doubt. I will list them for you and then explain each one in detail.
+
+The first element that the prosecution must prove is that the accused made an agreement with other people to commit a criminal act, and that the agreement remained in existence when the offence of NOO was committed.
+
+The second element that the prosecution must prove is that, in carrying out the agreement, a party to the agreement committed NOO.
+
+The third element that the prosecution must prove is that the accused foresaw the possibility that another party to the agreement would commit NOO when the agreement was carried out.
+
+Before you can find NOA guilty of committing NOO by extended common purpose, you must be satisfied that all three of these elements have been proven beyond reasonable doubt.
+
+I will now explain each of these elements in more detail.
+
+Agreement to Commit Criminal Acts
+
+The first element that the prosecution must prove is that the accused made an agreement with other people to commit a criminal act, and that the agreement remained in existence when the offence of NOO was committed.
+
+There are two parts to this element. First, you must be satisfied that the accused came to an understanding or arrangement amounting to an agreement with at least one other person to commit a criminal act together.
+
+Such an agreement, understanding or arrangement may be expressly stated, or it may be inferred from the surrounding circumstances. You will recall what I have told you about inferences.
+
+[If the content of the agreement, or the parties’ understanding of the content, is in issue, add the following shaded section.]
+
+The agreement must have been to commit a criminal act. This element will not be satisfied if the accused agreed to pursue some other form of wrongdoing that is not criminal. However, you do not need to find that the parties to the agreement knew that the relevant act would be criminal. This element will be satisfied as long as they agreed to do something which was, in fact, criminal.
+
+Similarly, you do not need to find that all of the parties had the same purpose or intention when forming that agreement, or were all aware of the consequences of their actions. You do not even have to find that they all agreed on the precise terms of the agreement. For this element to be satisfied, you only need to find that they agreed to commit a particular criminal act together.
+
+In this case, the prosecution alleged that [specify parties] made an agreement to [specify foundational crime]. They alleged that this agreement was made [insert prosecution evidence about the formation of the agreement].
+
+[If the defence denies that there was an agreement to commit a criminal act, add the following shaded section.]
+
+The defence denied this, arguing [insert defence evidence and/or arguments].
+
+[If the defence does not deny that there was an agreement, contesting liability on other grounds, add the following shaded section.]
+
+The defence does not deny that such an agreement was made, but argues [outline defence arguments, e.g. "that the accused did not foresee that NO3P would commit NOO"].
+
+The second part of this element requires the prosecution to prove that the agreement remained in existence when the offence was committed. If there is a possibility that the agreement had been called off prior to that time, or that NOA had withdrawn from that agreement, then this first element will not be met.
+
+[If withdrawal from the agreement is in issue, add the following shaded section.]
+
+In this case, the defence argued that, [while/even if] NOA had made an agreement to commit a criminal act, s/he had withdrawn from that agreement by the time the offence was committed. It is for the prosecution to prove that s/he had not done so.
+
+The law says that if a person is going to withdraw from an agreement to commit a criminal act, his/her withdrawal must be timely and effective. That is, s/he must do everything that s/he can reasonably do to undo the effect of his/her previous agreement, in sufficient time for his/her actions to be effective.
+
+Whether the accused has taken all reasonable steps to undo the effect of his/her previous agreement is a question for you. You must apply your common sense and experience. For example, in some cases it will be sufficient for the accused to take back any tools he or she has provided for the commission of the crime, and to make it clear to the other parties that if they continue with the offence, they do so without his or her approval or support. In other cases it may be necessary for the accused to inform the police of the plan.
+
+It is important to emphasise that it is not for the defence to prove that the accused did everything reasonably possible to withdraw from the agreement. It is the prosecution who must prove that the accused did not withdraw from the agreement in a timely and effective manner.
+
+In this case, the prosecution argued that the accused had not done everything s/he reasonably could to withdraw from the agreement. [Insert prosecution evidence and/or arguments.] The defence denied this, arguing that NOA’s withdrawal was timely and effective. [Insert defence evidence and/or arguments.]
+
+[If it is alleged that the agreement had been cancelled or completed, add the following shaded section.]
+
+In this case, the defence argued that, while NOA did make an agreement to commit a criminal act, that agreement had been [completed/cancelled] by the time the offence of NOO was committed. [Insert defence evidence and/or arguments.] The prosecution disputed this, alleging that the agreement remained in existence at the relevant time. [Insert prosecution evidence and/or arguments.]
+
+It is important to emphasise that it is not for the defence to prove that the agreement had been [completed/cancelled]. It is the prosecution who must prove that the agreement had not been [completed/cancelled] by the time the offence was committed.
+
+[If the continuing existence of the agreement is not in issue, add the following shaded section.]
+
+In this case, it is not disputed that, if there was an agreement to commit a criminal act, that agreement remained in existence at the time the offence was committed. The main issue is [outline main issue[s], e.g. *"whether or not there was such an agreement"].
+
+It is only if you are satisfied, beyond reasonable doubt, that the accused made an agreement with other people to commit a criminal act, and that the agreement remained in existence when the offence of NOO was committed, that this first element will be met.
+
+Commission of the Offence
+
+The second element that the prosecution must prove is that, when carrying out the agreement, understanding or arrangement, a party committed an offence.
+
+In this case, the prosecution alleged that NO3P committed the offence of NOO in the course of carrying out the agreement. So for this element to be met, you must be satisfied that NO3P committed all of the acts necessary for the commission of NOO with the necessary mental state.
+
+I must therefore [direct/remind] you about those matters. A person commits NOO if s/he:
+
+[Describe and explain all the elements of the offence charged, including any necessary state of mind and any relevant defences, and relate to the facts.]
+
+If you are satisfied, based on all of the evidence, that NO3P committed the offence of NOO, then this second element will be met.
+
+Foresight of Accused
+
+The third element that the prosecution must prove is that NOA foresaw the possibility that a party to the agreement would commit NOO. That is, s/he realised that someone might commit that offence in the course of carrying out the agreement.
+
+For this element to be met, NOA does not need to have intended that NOO be committed, nor does s/he have to have thought that it was likely or probable that someone would commit that offence. It is sufficient if s/he thought it was possible.
+
+In particular, s/he must have foreseen the possibility that:
+
+[Again describe all the elements of the offence charged, including the relevant mental state and any defences.]
+
+In reaching your conclusion, you will need to draw an inference about NOA’s state of mind. You will recall what I have told you about inferences.
+
+The prosecution argued that NOA did foresee the possibility that NOO would be committed when the agreement was carried out. [Describe relevant prosecution evidence and/or arguments.] The defence denied that, arguing [describe relevant defence evidence and/or arguments].
+
+Summary
+
+To summarise, before you can find NOA guilty of NOO by extended common purpose, the prosecution must prove to you beyond reasonable doubt:
+
+One – That NOA was a party to an agreement to commit a criminal act, and that the agreement remained in existence when the offence of NOO was committed; and
+
+Two – That, in the course of carrying out the agreement, a party to the agreement committed the offence; and
+
+Three – That NOA foresaw the possibility that, in the course of carrying out the agreement, a party to the agreement would commit the offence of NOO.
+
+If you find that any of these elements have not been proven beyond reasonable doubt, then you must find NOA not guilty of committing NOO by extended common purpose.
+
+Last updated: 1 November 2014

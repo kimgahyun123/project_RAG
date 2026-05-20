@@ -1,0 +1,10 @@
+4.9 Calling a Psychiatrist After Mental Impairment Is Raised
+
+[Subsection A – Burden and General Rule]
+When the defence raises mental impairment, the defence bears the onus of establishing it. Under the general rule, that burden usually means the defence is responsible for arranging the evidence it wants to advance. For that reason, a court would not begin by assuming that the prosecution must call every doctor or psychiatrist who examined the accused. If looked at only from the perspective of burden allocation, the prosecution might appear to have no immediate requirement to call the psychiatrist.
+
+[Subsection B – Limits of the General Rule]
+That general approach is not conclusive. The prosecution remains under a duty to assist the court and to ensure that material evidence relevant to a live issue is not left out of the trial merely because it is inconvenient or associated with the defence case. If the psychiatrist examined the accused on the very question of mental impairment, then the psychiatrist’s findings are capable of becoming material evidence on a contested issue. Once the evidence reaches that level of relevance, the burden carried by the defence does not by itself displace the prosecution’s responsibilities.
+
+[Subsection C – Result Where the Evidence Is Material]
+Accordingly, where a psychiatrist has examined the accused and holds findings that directly relate to the asserted mental impairment, the prosecution would ordinarily be required to call that psychiatrist or otherwise ensure the evidence is before the jury. In practical terms, if the defence raises mental impairment, bears the onus of proving it, and the psychiatrist’s examination is materially relevant to that issue, the prosecution would generally be expected to call the psychiatrist as a witness.

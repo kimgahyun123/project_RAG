@@ -1,0 +1,47 @@
+4.21.1 Charge: Unreliable Evidence Warning
+
+This is a generic charge that can be adapted for use in cases where:
+
+i) A party has requested a Jury Directions Act 2015 s 32 unreliability warning; and
+
+ii) The evidence in question is "of a kind that may be unreliable"; and
+
+iii) No specific warning addressing the dangers presented by that type of evidence has been included in the Charge Book (see below).
+
+This charge may be adapted where the witness is a child. See Child Witnesses for guidance.
+
+Introduction
+
+I have already told you the general rules for assessing witnesses’ evidence. I must now warn you about the need for caution when considering the evidence of NOW. I must give you this warning because [identify bases of unreliability, e.g. "NOW’s evidence may have been affected by her history of drug use"].
+
+Significant matters that may cause unreliability
+
+My warning to you is as follows. It is the experience of the law that the evidence of a witness [identify basis of unreliability, e.g. "who was drug affected at the time of the events"] may be unreliable. This unreliability can arise due to [list significant reasons for potential unreliability, e.g. "the effects drug use can have on the user’s perceptions and recollections"].
+
+[If necessary, explain the grounds of potential unreliability in further detail, and relate to the facts and arguments in the case.]
+
+Warning
+
+The law says that every jury must take this potential unreliability into account when considering the [type of evidence given by NOW/evidence of a witness such as NOW]. You must take it into account in determining whether you accept NOW’s evidence at all, and if you do accept it, in whole or in part, in deciding what weight to give to that evidence.
+
+Supporting evidence
+
+[If there is evidence capable of "supporting" the witness’s evidence, add the following shaded section.]
+
+In considering whether it is safe to rely upon NOW’s evidence, you should have regard to any supporting evidence led in this trial that you accept. By "supporting evidence" I mean evidence from a source that is independent of NOW, and that tends to show the truth of NOW’s evidence of the accused’s guilt.
+
+In this case the prosecution relied upon [insert number] items of evidence as supporting NOW’s evidence. These were [identify evidence capable of supporting the unreliable witness’s evidence].
+
+[If there is a danger that the jury might mistakenly believe certain evidence to be supportive, add the following darker shaded section.]
+
+There was other evidence given in this case that you might have thought at first glance could support NOW’s evidence. This includes the evidence [broadly identify non-supporting evidence].
+
+I direct you that this other evidence is not capable of supporting NOW’s account, because [explain why the evidence is not capable of supporting, e.g. "it does not come from an independent source".]
+
+[If the issue of mutual support has arisen, and there is a possibility of joint fabrication, add the following darker shaded section.]
+
+You will see that the prosecution relies upon the evidence of [two/a number of] [allegedly] unreliable witnesses to support each other. The law accepts that unreliable witnesses can support each other in this way.
+
+However, you may only accept their evidence as mutually supporting if you accept that their accounts are truly independent of each other. That is, you must accept that they did not put their heads together and fabricate their evidence.
+
+Last updated: 9 March 2017

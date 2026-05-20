@@ -1,0 +1,229 @@
+5.5 Aiding, Abetting, Counselling or Procuring (Pre-1/11/14)
+
+1. This topic examines the principle of aiding, abetting, counselling and procuring prior to 1 November 2014. On 1 November 2014, those principles were replaced by the Crimes Amendment (Abolition of Defensive Homicide) Act 2014. For offences committed on or after 1 November 2014, see 5.2 Statutory Complicity (From 1/11/14).
+
+General Principles
+
+Liability of a Person who Aids, Abets, Counsels or Procures
+
+2. A person may be tried as a principal offender if s/he aids, abets, counsels or procures the commission of an indictable offence (Crimes Act 1958 s 323).
+
+3. A person who aids, abets, counsels or procures the commission of an offence commits that substantive offence. S/he does not commit a distinct offence of being an accessory (R v Wong [2005] VSC 96).
+
+Meaning of "Aid, Abet, Counsel or Procure"
+
+4. In Australia, the words "aid, abet, counsel or procure" may be read collectively, to describe a person who assists or encourages someone to commit an offence (Giorgianni v R (1985) 156 CLR 473; R v Wong [2005] VSC 96; Likiardopoulos v R (2010) 30 VR 654; [2010] VSCA 344; Arafan v R (2010) 31 VR 82; [2010] VSCA 356; R v Russell [1933] VLR 59; but c.f. Attorney-General's Reference (No 1 of 1975) [1975] QB 773).
+
+5. This requires the accused to be linked in purpose with the person who commits the offence (the "principal offender"), and to act to bring about or render more likely the commission of the offence (Giorgianni v R (1985) 156 CLR 473; R v Russell [1933] VLR 59; R v Wong [2005] VSC 96; R v Phan (2001) 53 NSWLR 480).
+
+6. The prosecution does not need to prove that there was any agreement between the accused and the principal offender. The lack of an agreement is what distinguishes aiding, abetting, counselling or procuring from other forms of complicity (e.g. Acting in Concert, Joint Criminal Enterprise, Extended Common Purpose) (R v Lam & Ors (Ruling No 20) (2005) 159 A Crim R 448; R v Lowery & King (No 2) [1972] VR 560; R v Nguyen [2010] VSCA 23; Arafan v R* (2010) 31 VR 82; [2010] VSCA 356).
+
+Not Available for All Offences
+
+7. Liability for aiding, abetting, counselling or procuring will be available in relation to all offences, unless specifically excluded or excluded as a matter of necessary implication (Mallan v Lee (1949) 80 CLR 198; Giorgianni v R (1985) 156 CLR 473).
+
+8. This type of liability will not necessarily be excluded by the fact that a particular offence may only be committed by a prescribed class of offenders. A person may aid, abet, counsel or procure an offence even s/he is incapable of committing that offence as the principal offender (Mallan v Lee (1949) 80 CLR 198; R v Goldie; Ex parte Picklum (1937) 59 CLR 254).
+
+9. However, this type of liability may not be available where the accused is a member of a class the legislation is designed to protect (see, e.g. R v Whitehouse [1977] QB 868).
+
+10. This type of liability may also not be available where there is a separate and specific offence that deals with accessorial liability for a given offence (see, e.g. Ellis v Guerin [1925] SASR 282).
+
+Elements
+
+1. To establish liability by way of aiding, abetting, counselling or procuring, the prosecution must establish:
+
+1. That the principal offence was committed;
+
+1. That the accused knew the essential circumstances that establish the principal offence; and
+
+2. That the accused intentionally assisted or encouraged the principal offender to commit that offence (Giorgianni v R (1985) 156 CLR 473).
+
+2. The second and third elements may overlap. A person generally cannot intentionally assist or encourage a person to commit an offence unless s/he is aware of the essential facts that constitute the offence (Giorgianni v R (1985) 156 CLR 473).
+
+3. The judge must clearly explain all of the principles involved in proving this form of liability, and relate them to the evidence. It is not sufficient to simply direct the jury that the accused must have intentionally aided, abetted, counselled or procured the commission of the offence (R v Abbouchi & Allouche *[2008] VSCA 171).
+
+Commission of the Principal Offence
+
+4. The first element requires the prosecution to prove, using evidence admissible against the accused, that the principal offence was committed (Giorgianni v R (1985) 156 CLR 473; R v Hewitt [1997] 1 VR 301; R v Demirian [1989] VR 97; R v Jensen and Ward [1980] VR 194; R v Tamme [2004] VSCA 165).
+
+5. This requires the prosecution to prove that the principal offender committed the relevant criminal acts with the necessary criminal intention (R v Jensen and Ward [1980] VR 194).
+
+6. If the accused and the principal offender are tried together, and the evidence against them is the same, the accused generally cannot be found guilty unless the principal offender is also found guilty (Osland v R (1998) 197 CLR 316).
+
+7. However, different verdicts between a principal offender and an accessory will not always be inconsistent. For example, there may be sufficient evidence to prove that the accessory assisted someone to commit the principal offence, but insufficient evidence to establish the identity of the principal offender (Osland v R (1998) 197 CLR 316; R v King (1986) 161 CLR 423; Likiardopoulos v R (2010) 30 VR 654; [2010] VSCA 344).
+
+8. If the accused and the principal offender are not tried together:
+
+- The prosecution does not need to prove that someone has been convicted as the principal offender (Giorgianni v R (1985) 156 CLR 473); and
+
+- Evidence that another person has been convicted is not admissible against the accused (R v Kirkby [2000] 2 Qd R 57; Evidence Act 2008 s 91);
+
+- It is not an abuse of process for the prosecution to charge the accused with aiding, abetting, counselling or procuring an offence which is more serious than the one to which the principal offender pleaded guilty (or was convicted at trial) (Likiardopoulos v R (2010) 30 VR 654; [2010] VSCA 344; Hui Chi-ming v R [1992] 1 AC 34).
+
+9. In some cases, the prosecution may not be able to prove which of several co-accused performed the relevant criminal acts. In such a case, the jury may convict all of the co-accused of the offence if satisfied, by evidence admissible against each co-accused, that one (or more) of them committed the offence and the others were accessories. The jury does not need to decide which of them was the principal offender and which were accessories (R v Lowery & King (No 2) [1972] VR 560).
+
+Knowledge
+
+10. The second element requires the prosecution to prove that the accused knew of, or believed in, the essential circumstances that establish the principal offence (Giorgianni v R (1985) 156 CLR 473).
+
+11. The "essential circumstances" of an offence are the facts that will go to satisfying the elements of the offence (Giorgianni v R (1985) 156 CLR 473; Likiardopoulos v R (2010) 30 VR 654; [2010] VSCA 344).
+
+12. For mens rea offences, this includes knowledge of, or belief in, the principal offender’s state of mind (R v Stokes & Difford (1990) 51 A Crim R 25; R v Lam & Ors (Ruling No 20) (2005) 159 A Crim R 448; Likiardopoulos v R (2010) 30 VR 654; [2010] VSCA 344; R v Phan (2001) 53 NSWLR 480; c.f. R v Le Broc (2000) 2 VR 43).
+
+13. Where the offence requires a particular result to have been caused (e.g. death or serious injury), the accused does not need to know that this result will be achieved. It is sufficient if s/he knew that the principal offender was going to commit the acts which ultimately caused that result, and that s/he knew the principal offender would have the requisite state of mind when committing those acts (Giorgianni v R (1985) 156 CLR 473; R v Stokes & Difford (1990) 51 A Crim R 25; Likiardopoulos v R (2010) 30 VR 654; [2010] VSCA 344).
+
+14. The jury must consider what the accused knew at the time s/he assisted or encouraged the principal offender, rather than at the time the principal offender committed the offence (R v Stokes & Difford* (1990) 51 A Crim R 25).
+
+15. The accused must have actual knowledge or belief of the essential circumstances. It is not sufficient that s/he should have known of those circumstances, or failed to inquire about them (Giorgianni v R (1985) 156 CLR 473).
+
+16. However, the failure of a person to make inquiries about the circumstances may be evidence that s/he was aware of the relevant facts (Giorgianni v R (1985) 156 CLR 473).
+
+17. The accused does not need to know that the principal offence is a criminal offence. It is sufficient if s/he is aware of all the facts that constitute the offence (Johnson v Youden [1950] 1 KB 544; Giorgianni v R (1985) 156 CLR 473).
+
+18. An employee’s knowledge cannot necessarily be imputed to an employer (Ferguson v Weaving *[1951] 1 KB 814).
+
+Assistance or Encouragement
+
+19. The third element requires the accused to have intentionally assisted or encouraged the principal offender to commit the offence charged (Giorgianni v R (1985) 156 CLR 473).
+
+20. For this to be the case, the accused must have been linked in purpose with the principal offender, and spoken words or performed acts designed to bring about the commission of the offence (R v Tamme [2004] VSCA 165; R v Wong [2005] VSC 96).
+
+21. It is not necessary (or sufficient) to show that the accused exerted control over the principal offender. In cases of aiding, abetting, counselling or procuring, the principal offender will have acted voluntarily, breaking the causal link between the accused’s alleged control of the principal offender and the commission of the offence (R v Franklin (2001) 3 VR 9).
+
+22. The accused also does not need to have reached an agreement with the principal offender about the commission of the crime. S/he merely needs to have provided encouragement or assistance to the principal offender (R v Oberbilig [1989] 1 Qd R 342; R v Nguyen [2010] VSCA 23).
+
+23. Where it is alleged that the accused "assisted" the principal offender, it is not necessary to prove that the principal offender was aware of the accused’s assistance (R v Lam & Ors (Ruling No 20) (2005) 159 A Crim R 448).
+
+24. Where it is alleged that the accused "encouraged" the principal offender, it is also not necessary to prove that the principal offender was aware of the accused’s encouragement, nor is it necessary to prove that s/he was actually encouraged by the accused’s words or actions (R v Lam & Ors (Ruling No 20) (2005) 159 A Crim R 448).
+
+25. However, in "encouragement" cases the prosecution must prove that the encouragement was communicated to the principal offender in circumstances such that s/he could have been aware of that encouragement (R v Lam & Ors (Ruling No 20)* (2005) 159 A Crim R 448).
+
+26. When considering this element, a distinction is sometimes drawn between assistance or encouragement which is offered before the offending ("counselling or procuring"), and assistance or encouragement offered at the time of the offending ("aiding or abetting"). These are discussed in turn below.
+
+27. The jury are not, however, required to unanimously agree on the exact form of assistance. The jury only need to be collectively satisfied that the accused aided, abetted, counselled or procured the offence (R v Wong [2005] VSC 96).
+
+Counselling or Procuring (Assistance Before the Offence)
+
+28. The accused may provide assistance or encouragement prior to the commission of the relevant offence by either:
+
+1. Urging, advising or soliciting the principal offender to commit the offence ("procuring"); or
+
+1. Encouraging or supporting the principal offender to commit the offence ("counselling") (Chai v R (2002) 187 ALR 436; Stuart v The Queen (1976) 134 CLR 426; R v Oberbilig [1989] 1 Qd R 342).
+
+29. A person will not have "counselled" the principal offender by merely suggesting that the offence be committed. S/he must have done more than simply instigate its commission (Hutton v R (1991) 56 A Crim R 211).
+
+30. An accessory may "counsel" the principal offender by supplying equipment used in the offending (R v Lam & Ors (Ruling No 20) (2005) 159 A Crim R 448; National Coal Board v Gamble [1959] 1 QB 11).
+
+31. It is not necessary to show that the assistance or encouragement caused the offending. The accused may counsel the principal offender to commit an offence that s/he intended to commit even without the accused’s assistance or encouragement (Howell v Doyle [1952] VLR 128).
+
+Aiding or Abetting (Assisting at the Time of the Offence)
+
+32. There are three ways in which a person may aid or abet the principal offender at the time of the offending:
+
+1. By intentionally helping the principal offender to commit the offence;
+
+2. By intentionally encouraging the principal offender to commit the offence; or
+
+3. By intentionally conveying to the principal offender that s/he assents to and concurs in the commission of the offence (R v Lowery & King (No 2) [1972] VR 560; R v Dardovski Vic CCA 18/5/1995).
+
+33. As with counselling or procuring, the focus here is on whether the accused assisted or encouraged the principal offender in some way. To this end, conveying assent (the third method of aiding or abetting) is seen as an indirect form of encouragement (R v Makin (2004) 8 VR 262).
+
+34. For the accused to have aided or abetted the principal offender, s/he must have actually provided encouragement or assistance in some form. It is not sufficient that s/he secretly held an intention to assist, but did not actually provide any assistance or encouragement (R v Allan [1965] 1 QB 130).
+
+35. However, the accused’s conduct does not need to have caused the offending in any way. An aider or abettor generally does not physically participate in the offending (Osland v R (1998) 197 CLR 316; R v Lam & Ors (Ruling No 20) (2005) 159 A Crim R 448).
+
+36. In cases where the prosecution cannot prove which of several possible co-accused was the principal offender, it will be sufficient to prove that the co-accused all assisted or encouraged each other in some way (R v Phan (2001) 53 NSWLR 480; R v Clough (1992) 28 NSWLR 396; R v Mohan [1967] 2 AC 187).
+
+Conveying Assent
+
+37. As noted above, a person can aid or abet the principal offender by conveying assent to, and concurrence in, the commission of the offence (R v Lowery & King (No 2) [1972] VR 560; R v Dardovski Vic CCA 18/5/1995).
+
+38. This test will not be satisfied by simply proving that the accused was present at the commission of the crime, and assented to and concurred in its commission. The prosecution must prove that the accused’s acquiescence or assent amounted to assistance or encouragement in some way (R v Phan (2001) 53 NSWLR 480; R v Al Qassim [2009] VSCA 192).
+
+39. This requires the prosecution to prove that the accused, directly or indirectly, expressed a willingness to assist the principal offender if required (R v Makin (2004) 8 VR 262).
+
+40. The accused does not need to have actually provided assistance for this test to be satisfied. The focus of this test is on the accused’s willingness to assist the principal offender if required (R v Makin (2004) 8 VR 262).
+
+41. The accused’s willingness to assist may be inferred from the way in which s/he conveyed his/her assent to commission of the crime (R v Makin (2004) 8 VR 262; R v Phan (2001) 53 NSWLR 480).
+
+42. It is not necessary to consider the principal offender’s response to the accused’s offer of assistance. The issue is simply whether the accused conveyed his or her support (R v Makin* (2004) 8 VR 262).
+
+Presence at the Commission of the Crime
+
+43. While historically an aider or abettor had to be present at the commission of the crime, this is no longer the case. A person may aid and abet a crime even if s/he is not physically present at the time it is committed (R v Morgan [1994] 1 VR 567; R v Wong [2005] VSC 96. See also Arafan v R (2010) 31 VR 82; [2010] VSCA 356).
+
+44. Conversely, a person may be present at the commission of the crime, and not be an aider and abettor. Mere presence at a crime is not sufficient by itself to found liability (R v Al Qassim [2009] VSCA 192; R v Makin (2004) 8 VR 262; R v Lam (2008) 185 A Crim R 453; R v Nguyen [2010] VSCA 23; Arafan v R (2010) 31 VR 82; [2010] VSCA 356; Al-Assadi v R [2011] VSCA 111).
+
+45. This is because, to be liable, a person must have assisted or encouraged the principal offender in some way. A person who is simply present at the commission of a crime will usually not have offered such assistance or encouragement (R v Makin (2004) 8 VR 262).
+
+46. In some cases, however, the accused may assist or encourage the commission of a crime by being present. For example, by choosing to be present at the crime scene, the accused may provide moral support to the principal offender, or demonstrate a willingness to assist if required (R v Lowery & King (No 2) [1972] VR 560; R v Conci [2005] VSCA 173; R v Panozzo [2007] VSCA 245).
+
+47. For the accused’s presence to constitute assistance or encouragement, he or she must have done something more than simply be at the scene of the crime. The accused must, at some point, have said or done something which showed that he or she was linked in purpose with the principal offender, and thus contributed to the crime (R v Al Qassim [2009] VSCA 192; R v Nguyen [2010] VSCA 23).
+
+48. The accused must have done something of a kind that can reasonably be seen as intentionally adopting and contributing to what was taking place in his or her presence (Al-Assadi v R [2011] VSCA 111).
+
+49. Where it is alleged that the accused aided or abetted by being present at the scene of the crime, the judge should therefore tell the jury that mere presence is not sufficient. It should be made clear that something more is required (R v Al Qassim [2009] VSCA 192; Al-Assadi v R [2011] VSCA 111).
+
+50. The judge should clearly identify the additional matters said to constitute assistance or encouragement (R v Al Qassim [2009] VSCA 192).
+
+51. In determining whether the accused’s presence aided or abetted the principal offender, the accused’s conduct relating to the offence should be viewed as a whole. Things that the accused said or did prior to the commission of the principle offence may warrant the conclusion that the accused’s presence made him or her complicit in the offence, by helping or encouraging the principal offender to commit the crime, or conveying assent to and concurrence in the commission of that crime (R v Al Qassim [2009] VSCA 192).
+
+52. It may be possible for the jury to infer from the accused’s intentional presence at the crime that he or she aided or abetted the principal offender. For example, if the criminal offending was designed to be a public spectacle (such as an illegal prize fight), and drew support from the presence of observers, the accused’s presence may be seen as having provided encouragement to the principal offender (See R v Coney (1882) 8 QBD 534).
+
+Intention to Assist
+
+53. The third element requires the prosecution to not only prove that the accused assisted or encouraged the commission of the crime in some way, but that s/he intended to do so (R v Stokes & Difford (1990) 51 A Crim R 25; R v Lam & Ors (Ruling No 20) (2005) 159 A Crim R 448).
+
+54. The accused’s state of mind must be assessed at the time s/he gave the relevant support or assistance, rather than at the time of the offence (White v Ridley (1978) 140 CLR 342).
+
+55. The state of mind the prosecution must prove in relation to an accessory differs from the state of mind required for the principal offender:
+
+- For the principal offender, the prosecution must prove that, at the time of the offence, s/he acted with the state of mind necessary for that offence;
+
+- For the accessory, the prosecution must prove that, at the time s/he offered assistance or encouragement to the principal offender, s/he intended to assist or encourage him/her (R v Stokes & Difford (1990) 51 A Crim R 25; R v Lam & Ors (Ruling No 20) (2005) 159 A Crim R 448).
+
+56. The accused must have intended to encourage or assist the principal offender to commit offence charged. It is therefore not sufficient for the prosecution to prove that:
+
+- The accused had a general intention to assist crime (R v Clarkson [1971] 3 All ER 344; Giorgianni v R (1985) 156 CLR 473; R v Tamme [2004] VSCA 165); or
+
+- That the accused intended to assist or encourage a significantly different offence (Giorgianni v R (1985) 156 CLR 473; Chai v R (2002) 187 ALR 436; R v Conci [2005] VSCA 173).
+
+57. Where criminal liability attaches to conduct that produces a particular result (e.g. death or serious injury), it is not necessary that the accused intended to produce that result. It is only necessary that s/he intended to assist or encourage the conduct that ultimately produced that result (Giorgianni v R (1985) 156 CLR 473).
+
+58. Even if the principal offence is one that does not require the principal offender to have had a particular state of mind when it was committed (i.e., a strict liability offence), the accused must still be shown to have intended to encourage or assist the principal offender to commit that offence (Giorgianni v R (1985) 156 CLR 473; R v Tamme [2004] VSCA 165; R v Dardovski Vic CCA 18/5/1995).
+
+59. In cases where it is alleged that the accused provided assistance or encouragement by conveying approval of the offending (see above), the prosecution must prove that, by conveying that approval, the accused intended to assist or encourage the principal offender (R v Makin (2004) 8 VR 262; R v Phan (2001) 53 NSWLR 480).
+
+60. Where it is suggested that the accused’s presence at the crime assisted or encouraged its commission, it is for the jury to assess whether his/her presence was intended to have this effect (R v Beck (1989) 43 A Crim R 135; R v Lam & Ors (Ruling No 20) (2005) 159 A Crim R 448).
+
+61. The accused’s conduct prior to the commission of the offence may be evidence of whether s/he intended to provide encouragement or assistance at the time of the offence (R v Lam & Ors (Ruling No 20) (2005) 159 A Crim R 448).
+
+62. In some cases, the accused’s conduct after the offending may also be evidence of his/her state of mind at an earlier time (R v Ngo [2002] VSCA 188; R v Kitchin* [2001] VSCA 66).
+
+Failure to Act
+
+63. Ordinarily, the fact that the accused failed to act in a particular way will not be sufficient to prove that s/he assisted or encouraged the principal offender to commit the crime (R v Russell [1933] VLR 59).
+
+64. However, where the accused is under a legal or ethical duty to act, a failure to do so may be evidence of encouragement or assent to the offending (see, e.g. R v Russell [1933] VLR 59; Ex parte Parker: Re Brotherson (1957) SR (NSW) 326).
+
+65. A duty to act may arise where the accused is in loco parentis to the victim (R v Russell [1933] VLR 59; R v Clarke and Wilton [1959] VR 645).
+
+66. Where a person has a duty to act, s/he may be seen to have assisted or encouraged the principal offender if s/he fails to offer any protest to his/her conduct, or fails to offer any effective dissent (R v Russell* [1933] VLR 59).
+
+Withdrawing Assistance or Encouragement
+
+1. A person who aids, abets, counsels or procures the commission of an offence may avoid liability if s/he expressly withdraws his/her assistance or encouragement before the offence is committed (White v Ridley (1978) 140 CLR 342; R v Croft [1944] KB 295).
+
+2. The withdrawal must be accompanied by all action the accused can reasonably take to undo the effect of his/her previous encouragement or assistance. This may include informing the police (White v Ridley (1978) 140 CLR 342; R v Tietie (1988) 34 A Crim R 438; R v Jensen and Ward [1980] VR 196).
+
+3. It is usually more difficult for an accused to withdraw at the time of the offence, as this will usually require greater conduct on the accused’s behalf to undo the effect of his/her previous assistance or encouragement (see R v Becerra* (1976) 62 Cr App R 212).
+
+4. For further information about withdrawal, see the section on Withdrawal of Agreement in 5.3 Joint Criminal Enterprise (Pre-1/11/14).
+
+Terminology
+
+1. A judge should not refer to aiding and abetting as a "less formal" method of proving involvement in a crime than acting in concert. Such an expression may suggest that the inference of guilt might be more easily drawn (R v Abbouchi & Allouche [2008] VSCA 171).
+
+2. A judge should also not refer to the accused being "simply" an aider and abettor (rather than a principal acting in concert). The word "simply" in this context carries the connotation of a less significant involvement inherent in the role, and a diminished seriousness in the finding by the jury that the accused was implicated in this way (R v Abbouchi & Allouche [2008] VSCA 171).
+
+Last updated: 1 November 2014

@@ -1,0 +1,53 @@
+4.12.2 Charge: Photographic Identification
+
+If the accused has been identified from a photograph, add this section where indicated in the primary charge.
+
+In this case, as NOA was [initially] identified from a photograph, I need to give you an additional warning about photographic identification evidence.
+
+This sort of evidence may be unreliable due to the differences between photographs and real life. For example, photographs are two-dimensional, and do not show the way a person moves, the range of their facial expressions, their body shape, or many of the other characteristics that can help you to identify a person.
+
+The photograph used to identify the accused may also have been taken in very different circumstances from those in which the offender was observed. For example, the light in the photograph may be much better than it was at the time of the crime.
+
+These factors can increase the risks of misidentifying the offender, who may look like the accused as seen in a photograph, but may look different when viewed face-to-face. You should therefore treat photographic identification evidence with special care.
+
+Lack of Witnesses
+
+[If the conduct of the identification process is in issue, the following shaded section may be added.]
+
+There is an additional problem with photographic identification. As the accused was not present during the identification process, s/he is unlikely to have any first-hand information about the way in which his/her photograph was selected. Instead, s/he can only rely on the cross-examination of the people who were present to gain any information about the conditions in which the identification took place, and what safeguards against error were taken. You should take this disadvantage into account when considering the evidence.
+
+The "Displacement Effect"
+
+[If the displacement effect is in issue, add the following shaded section.]
+
+I must also warn you about what is known as the "displacement effect". This effect can occur when a person is shown a photograph of a suspect before identifying them in a parade. The witness’s memory of the person observed committing the crime can be effectively replaced by a memory of that photograph. In any later face-to-face identification, there is a risk that the witness might unintentionally identify the accused because his/her appearance matches the remembered photograph, rather than matching the person originally seen. In other words, the witness will have identified the person previously seen in the photograph, instead of the person seen committing the crime.
+
+Because of this risk, it may be dangerous for you to treat the identification parade evidence as having any significant value.
+
+Section 115 Direction (The "Rogues’ Gallery Effect")
+
+[If a request for a s 115 direction has been made by the defence, or the jury has become aware that the accused was identified by reference to a photograph held by police and the judge finds it necessary to address any possible prejudice, one of the following directions should be given.]
+
+[If the photograph was taken before the accused was taken into custody, add the following shaded section.]
+
+You may have noticed that NOA was identified from a photograph held by the police. You are not to attach any significance to this fact. The police have photographs of many different people for a variety of reasons. You must not assume that, because the police had a photograph of NOA, s/he has a criminal record or has previously been charged with an offence. In fact, you must not draw any conclusions from the fact that the police had a photograph of NOA.
+
+[If the photograph was taken after the accused was taken into custody, add the following shaded section.]
+
+You may have noticed that NOA was identified from a photograph held by the police. You are not to attach any significance to this fact. That photograph was made after NOA was taken into custody. It was not a photograph that the police already held.
+
+If an Identification Parade Could Reasonably Have Been Held
+
+[If the judge finds that an identification parade could reasonably have been held instead of identifying the accused from photographs, add the following shaded section.]
+
+In this case, it would have been possible for the police to hold an identification parade instead of having NOW identify NOA from a photograph.
+
+In an identification parade, a witness is asked whether they can identify the offender from a selection of people resembling the accused. This process has two main advantages over identification from photographs.
+
+First, the witness is identifying an actual person, rather than a two-dimensional representation of that person. S/he is able to see all of the accused’s physical characteristics, such as the way s/he moves and his/her facial expressions. This makes it more likely that the witness will accurately identify the offender.
+
+Secondly, as the accused is present at an identification parade, s/he is able to obtain first-hand information about how it is carried out. S/he will be able to see what steps are taken to make sure that it is conducted fairly, rather than having to rely on cross-examination of the people present.
+
+In this case, NOA was deprived of these benefits. S/he may also have lost any advantage s/he might have gained if an identification parade was inconclusive. You should take these disadvantages into account when assessing the evidence against NOA.
+
+Last updated: 1 July 2013

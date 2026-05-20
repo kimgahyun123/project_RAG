@@ -1,0 +1,93 @@
+4.22.1 Charge: Criminally Concerned Witnesses
+
+This charge may be used where:
+
+i) A party has requested a s 32 unreliability warning; and
+
+ii) The witness in question might reasonably be supposed to be criminally concerned in the events giving rise to the trial; and
+
+iii) The evidence in question is "of a kind that may be unreliable".
+
+Introduction
+
+I have already told you the general rules for assessing witnesses’ evidence. I must now warn you about the need for caution when considering the evidence of NOW.
+
+I must give you this warning because of the evidence [suggesting] that NOW [was/may have been] criminally concerned in the events giving rise to these proceedings.
+
+[Briefly describe the basis upon which the witness was asserted to be criminally concerned in the relevant events.]
+
+Matters that may cause unreliability
+
+My warning to you is as follows. It is the experience of the law that the evidence of witnesses who were criminally concerned in the events before the court may be unreliable. This is because [inform jury of the significant matters which make the evidence potentially unreliable, such as:
+
+- There is a risk that such witnesses will seek to shift the blame for the offending, in whole or in part, from themselves onto others. In the process, the witnesses may construct untruthful stories, which tend to excuse the guilty and incriminate the innocent.
+
+- The evidence of such witnesses may seem plausible because of the witness’s detailed knowledge of the circumstances in which the crime was committed. This plausibility may add undeserved weight to what the witness says about the part played by the accused.
+
+- Such witnesses may initially give a false version of events to the police, and may then feel locked in to that account. The risk of the witness feeling locked in may be increased where [as here] the witness committed to the initial version in a document that could attract criminal penalties if admitted to be false.
+
+- Such witnesses may make false claims about the involvement of others out of motives of revenge or feelings of dislike or hostility.
+
+- People who are involved in criminal activities may be of bad character, and may therefore be considered to be less trustworthy than other people.]
+
+Associated cautions
+
+Sentencing benefit
+
+[If the witness has received a sentencing benefit, and, in the circumstances of the case, this is a significant matter which may cause the evidence to be unreliable, add the following shaded section.]
+
+The reliability of NOW’s evidence may also be affected by the fact that, in return for assisting the prosecution in these proceedings, s/he received a less severe sentence than s/he otherwise would have.
+
+[Summarise evidence relevant to the witness’s undertaking to the prosecution and the sentencing benefit received.]
+
+I must inform you that, while it is common and proper for judges to give sentencing benefits to co-operating witnesses, the receipt of a benefit is a circumstance that you must take into account in assessing the reliability of a benefiting witness.
+
+This is because the desire to receive a sentencing benefit may motivate a witness to give false evidence in order to qualify for a reduction in his or her own sentence.
+
+In addition, once a sentencing benefit has been received, it may provide a strong incentive for a witness to stand by a false, mistaken or misleading account. This is because the Director of Public Prosecutions can go to the Court of Appeal and seek to take back that benefit if s/he considers that the witness has failed wholly or partly to fulfil his or her undertaking to assist the prosecution.
+
+Indemnity from prosecution
+
+[If the witness has received an indemnity from prosecution, and, in the circumstances of the case, this is a significant matter which may cause the evidence to be unreliable, add the following shaded section.]
+
+The reliability of NOW’s evidence may also be affected by the fact that, in return for assisting the prosecution in these proceedings, s/he was granted an indemnity from prosecution.
+
+This means, according to the indemnity document you have received as exhibit [identify exhibit] that the Director of Public Prosecutions has undertaken that s/he will not prosecute NOW for his/her participation in the offences that are the subject matter of this trial. The only condition placed on that indemnity is that NOW must give evidence truthfully and frankly, withholding nothing of relevance.
+
+[Summarise evidence relevant to the indemnity.]
+
+I must inform you that, while there are often good reasons for prosecutorial authorities to indemnify co-operating witnesses, the witness’s interest in the receipt of an indemnity is a circumstance that you must take into account in assessing the reliability of an indemnified witness.
+
+This is because the desire to avoid prosecution may motivate a witness to give false evidence in order to qualify for the indemnity.
+
+[Inform the jury of any other risks that arise from the indemnity in the circumstances of the case, having regard to counsel’s arguments and the form of the indemnity. For example:
+
+In addition, once an indemnity has been received, it may provide a strong incentive for a witness to stand by a false, mistaken or misleading account. This is because of the risk to the witness of losing the benefit of the indemnity if he or she does not maintain the original account.]
+
+Warning
+
+The law says that every jury must take the potential unreliability of the evidence a witness who was criminally concerned in the events before the court [and who has received a sentencing benefit/indemnity from prosecution] into account when considering that evidence.
+
+You must take this potential unreliability into account in determining whether you accept NOW’s evidence at all, and if you do accept it, in whole or in part, in deciding what weight to give to that evidence.
+
+Supporting evidence
+
+[If there is evidence capable of "supporting" the witness’s evidence, add the following shaded section.]
+
+In considering whether it is safe to rely upon NOW’s evidence, you should have regard to any supporting evidence led in this trial that you accept. By "supporting evidence" I mean evidence from a source that is independent of NOW, and that tends to show the truth of NOW’s evidence of the accused’s guilt.
+
+In this case the prosecution relied upon [insert number] items of evidence as supporting NOW’s evidence. These were [identify evidence capable of supporting the unreliable witness’s evidence].
+
+[If there is a risk that the jury might mistakenly believe certain evidence to be supportive, add the following darker shaded section.]
+
+There was other evidence given in this case that you might have thought at first glance could support NOW’s evidence. This includes the evidence [broadly identify non-supporting evidence].
+
+I direct you that this other evidence is not capable of supporting NOW’s account, because [explain why the evidence is not capable of supporting, e.g. "it does not come from an independent source".]
+
+[If the issue of mutual support has arisen, and there is a possibility of joint fabrication, add the following darker shaded section.]
+
+You will see that the prosecution relies upon the evidence of [two/a number of] [allegedly] unreliable witnesses to support each other. The law accepts that unreliable witnesses can support each other in this way.
+
+However, you may only accept their evidence as mutually supporting if you accept that their accounts are truly independent of each other. That is, you must accept that they did not put their heads together and fabricate their evidence. Otherwise, you must not rely on their evidence as providing any support for each other’s accounts.
+
+Last updated: 9 March 2017

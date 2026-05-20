@@ -1,0 +1,83 @@
+5.6 Assist Offender
+
+Overview
+
+1. The offence of assisting an offender is created by Crimes Act 1958 s 325.
+
+2. The offence is available as an alternative to all serious indictable offences (Crimes Act 1958 s 325(2)).
+
+3. It is for the trial judge to determine whether or not to leave this offence to the jury. This determination does not need to be made until the close of the evidence (Crimes Act 1958 s 325(2); R v Taylor & Ors 22/6/1989 Vic CCA).
+
+Elements
+
+1. The offence has the following five elements:
+
+1. A person (the "principal offender") committed a serious indictable offence (the "principal offence");
+
+1. The accused performed a positive act after the completion of that offence;
+
+2. When the accused performed that act, s/he knew or believed that the principal offender had committed the principal offence, or any other serious indictable offence;
+
+3. The accused acted with the purpose of impeding the apprehension, prosecution, conviction or punishment of the principal offender; and
+
+4. The accused had no lawful authority or reasonable excuse for his/her actions (Crimes Act 1958 s 325).
+
+Serious Indictable Offence
+
+2. The first element requires the prosecution to prove that the principal offender committed a "serious indictable offence" (Crimes Act 1958 s 325; R v Morton [2001] VSC 16).
+
+3. A "serious indictable offence" is defined as an indictable offence that "is punishable on first conviction with imprisonment for life or for a term of five years or more" (Crimes Act 1958 s 325(6)).
+
+4. The principal offender does not need to have committed the offence personally. His/her liability may be derivative, or the result of a legal doctrine, such as acting in concert (R v Welsh [1999] 2 VR 62).
+
+5. A record of conviction of the principal offender is prima facie evidence that the principal offence was committed. It is not, however, necessary or sufficient. An accused may lead evidence to rebut the record of conviction (R v Dawson [1961] VR 773; R v Welsh [1999] 2 VR 62; R v Kirkby [2000] 2 Qd R 57).
+
+6. If the principal offender and the accused are tried at the same time, the judge must give a separate consideration direction to the jury. S/he must make it clear that evidence that is admissible only against the principal offender (such as out of court admissions that were not made in the presence of the accused) cannot be used to establish, for the purpose of the offence of assisting an offender, that the principal offence has been committed (R v Welsh [1999] 2 VR 62) See 1.8 Separate Consideration for further information.
+
+Accused’s Actions
+
+7. The second element requires the prosecution to prove that the accused performed a positive act (Crimes Act 1958 s 325; R v Taylor & Ors 22/6/1989 Vic CCA; R v Hurley & Murray [1967] VR 526; R v Ready & Manning [1942] VLR 85).
+
+8. The accused’s act must have been performed after the principal offence was completed (R v Taylor & Ors 22/6/1989 Vic CCA).
+
+9. The accused simply needs to have performed a positive act. His/her act does not need to have actually assisted the principal offender (R v Tevendale [1955] VLR 95; R v Levy [1912] 1 KB 158).
+
+10. Concealing evidence, or laying a false trail, may be a positive act (R v Levy [1912] 1 KB 158; R v Taylor & Ors 22/6/1989 Vic CCA).
+
+11. However, the accused does not perform a positive act if s/he only instructs others not to give evidence, or refuses to give evidence him/herself (R v Ready & Manning [1942] VLR 85; Ready & Manning v R [1942] ALR 138).
+
+12. Failing to inform the police of the principal offender’s whereabouts is not a positive act. However, it can be relevant, in conjunction with other acts of assistance, to demonstrate that the accused intended to assist the principal offender (R v Hurley & Murray [1967] VR 526).
+
+Knowledge or Belief
+
+13. The third element requires the prosecution to prove that, when the accused performed the relevant act, s/he knew or believed that the principal offender had committed the principal offence, or any other serious indictable offence (Crimes Act 1958 s 325).
+
+14. The accused does not need to have known the precise offence that the principal offender committed. It is sufficient for him/her to have known, or believed, that the principal offender had committed some serious indictable offence (Crimes Act 1958 s 325; R v Taylor & Ors 22/6/1989 Vic CCA; c.f. R v Stone [1981] VR 737; R v Tevendale [1955] VLR 95; Middap v R (1992) 63 A Crim R 434).
+
+15. The accused must have had the requisite state of knowledge at the time s/he performed the relevant act. This element will not be satisfied if s/he acquired the necessary knowledge after completing the act (R v Kawicki (1995) 82 A Crim R 191).
+
+Purpose
+
+16. The fourth element requires the prosecution to prove that the accused performed the relevant act for the purpose of impeding the apprehension, prosecution, conviction or punishment of the principal offender (Crimes Act 1958 s 325; R v Hurley & Murray [1967] VR 526; Middap v R (1992) 63 A Crim R 434).
+
+17. It is not sufficient for the accused to have performed that act knowing that its probable result would be to impede the apprehension, prosecution, conviction or punishment of the principal offender. S/he must have been motivated by a subjective desire to impede the principal offender’s apprehension, prosecution, conviction or punishment (R v Hurley & Murray [1967] VR 526).
+
+18. It will usually only be necessary to explain the difference between desiring a result, and acting with the knowledge that that result will probably occur, if the defence argues that the accused did not subjectively desire the foreseen consequences of his/her action (Middap v R (1992) 63 A Crim R 434).
+
+19. It is best to avoid directing the jury that the accused must "intend" to impede the apprehension, prosecution, conviction or punishment of the principal offender, as the word "intend" is ambiguous, covering both knowledge of probable consequences and a desire for those consequences (R v Hurley & Murray [1967] VR 526).
+
+20. The accused’s conduct does not need to have been solely motivated by a desire to protect the principal offender. This element may be satisfied even if s/he had other motivations for acting, such as seeking to conceal his/her own wrongdoing (Middap v R (1992) 63 A Crim R 434; R v Tevendale [1955] VLR 95).
+
+21. While a desire to protect the principal offender does not need to have been the accused’s sole purpose for acting, the jury must be satisfied beyond reasonable doubt that it was at least one his/her motivations. If the jury are unable to exclude the possibility that the accused was solely motivated by another desire (e.g. to conceal his/her own involvement in the crime), then this element will not be met (R v Taylor & Ors 22/6/1989 Vic CCA; R v Jones (1948) 33 Cr App R 230; Middap v R (1992) 63 A Crim R 434).
+
+22. The accused must have had this purpose at the time s/he performed the relevant act. This element will not be satisfied if this desire arose after s/he had completed the act (R v Kawicki (1995) 82 A Crim R 191).
+
+23. It is not necessary to show that the accused was successful in impeding the apprehension, prosecution, conviction or punishment of the principal offender (R v Dawson [1961] VR 773).
+
+Lawful Authority or Excuse
+
+24. The prosecution must disprove any defences that are open on the evidence (R v Hurley & Murray [1967] VR 526; Middap v R (1992) 63 A Crim R 434).
+
+25. A married person cannot be convicted of assisting his/her spouse (Crimes Act 1958 s 338).
+
+Last updated: 23 April 2008

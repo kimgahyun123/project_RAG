@@ -1,0 +1,59 @@
+4.13.3 Fingerprint Evidence
+
+What is Fingerprint Evidence
+
+1. "Fingerprint evidence" refers to a type of expert evidence in which the characteristics and patterns of two sets of fingerprints (such as the ridges, furrows and minutiae points) are compared by an expert witness.
+
+2. As fingerprint evidence is a type of expert evidence, the principles outlined in 4.13.1 General Principles of Opinion Evidence apply (subject to any modifications noted below).
+
+What does Fingerprint Evidence Establish?
+
+1. A fingerprint is a unique quality of an individual (R v Lawless [1974] VR 398; R v O’Callaghan [1976] VR 676; R v Parker [1912] VLR 152).
+
+2. Due to the uniqueness of fingerprints, if the characteristics and patterns of two fingerprint samples are found to match at a sufficient number of points, it is possible to say that the samples came from the same person.
+
+3. However, it will not always be possible to compare the characteristics and patterns of two samples at a sufficient number of points to state with certainty that they came from the same person. In such cases, although the characteristics and patterns may match at the points at which they have been compared, one of the samples may have come from a different person who happens to have the same features at those points (but different features elsewhere in his or her prints).
+
+4. In such cases, a "match" between the two samples only establishes that they could have come from the same person. That is, the evidence does not exclude the possibility that the same person was responsible for both samples.
+
+5. For fingerprint evidence to have any further probative force in such cases, evidence must also be given about the probability of a match with a random member of the population. See 4.13.2 DNA Evidence for a discussion of principles concerning such evidence.
+
+Use of Expert Evidence
+
+1. The identification of the characteristics and patterns of fingerprints is a matter calling for expert evidence, as the detection of similarities between sets of fingerprints is often beyond the capacity of a lay person (R v Lawless [1974] VR 398; R v O’Callaghan [1976] VR 676; Bennett v Police [2005] SASC 415 (Perry ACJ)).
+
+2. An expert is not required to identify every similarity that s/he observed between the two sets of fingerprints. S/he may explain the process used to compare the fingerprints and state that, by using that process, s/he determined that the two sets of fingerprints matched. The lack of detail in the expert’s evidence is merely a matter that affects the weight of the evidence (Bennett v Police [2005] SASC 167; Bennett v Police [2005] SASC 415).
+
+Jury Use of Fingerprint Images
+
+1. The images of the fingerprint samples may be admitted as exhibits. The jury may examine the exhibits to help them understand and evaluate the expert evidence (R v Lawless [1974] VR 398; R v O’Callaghan [1976] VR 676).
+
+2. However, the images of the fingerprint samples do not need to be tendered in all cases. The expert’s evidence of his or her examination of the fingerprints can provide the basis for his or her opinion (Bennett v Police [2005] SASC 167; Bennett v Police [2005] SASC 415).
+
+Jury Directions
+
+1. The need for a direction about fingerprint evidence depends on whether a direction is sought or whether there are substantial and compelling reasons for giving a direction in the absence of a request (Jury Directions Act 2015 ss 14–16). See 3.1 Directions Under Jury Directions Act 2015 for information on when directions are required.
+
+2. If the judge directs the jury about fingerprint evidence, the following issues should usually be addressed:
+
+- The jury’s role in determining whether or not there is a match between the samples;
+
+- The consequences of finding that the fingerprint samples match.
+
+Is there a Match?
+
+3. The judge should tell the jury that it is a question of fact for them whether there is a match between the fingerprint samples. The expert evidence is admitted only to assist the jury to make this determination (R v Lawless [1974] VR 398; R v O’Callaghan [1976] VR 676; R v Parker [1912] VLR 152).
+
+4. In making this determination, the jury should consider whether the comparison was accurate and reliable (see 4.13.2 DNA Evidence).
+
+What Are the Consequences of the Jury’s Findings?
+
+5. The judge should explain to the jury the consequences of finding that the samples match. This will differ depending on the evidence that has been presented.
+
+6. If the characteristics and patterns of two fingerprint samples have been found to match at a sufficient number of points that it is possible to say with certainty that the samples came from the same person, the jury should be directed that, if accepted, the evidence can be used to find that the fingerprints came from that person (see, e.g. R v Lawless [1974] VR 398; R v O’Callaghan [1976] VR 676). The consequences of that finding should also be explained.
+
+7. If the characteristics and patterns of two fingerprint samples have not been found to match at a sufficient number of points that it is possible to say with certainty that the samples came from the same person, the judge should explain that the evidence only establishes that the prints could have come from the same person.
+
+8. If evidence of the probability of a match with a random member of the population is also given, the jury should be told that (if accepted) the evidence indicates the likelihood that another person could also be responsible for the forensic sample. See 4.13.2 DNA Evidence for further explanation of this issue.
+
+Last updated: 29 June 2015

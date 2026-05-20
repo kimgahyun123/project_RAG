@@ -1,0 +1,35 @@
+4.14.2 Charge: Prior Inconsistent Statements
+
+This charge is designed to be used in cases where:
+
+i) Evidence of a prior inconsistent statement has been admitted under Evidence Act 2008 ss 103 or 106; and
+
+ii) That evidence can be used for both a hearsay and non-hearsay purpose.
+
+If the judge has limited the use of the evidence under Evidence Act 2008 s 136 the charge should be modified accordingly.
+
+The judge should discuss the proposed charge with counsel before instructing the jury. See 3.1 Directions Under Jury Directions Act 2015 for information on when the direction is required.
+
+Introduction
+
+In this case you heard evidence that [insert details of evidence given in court]. In response, the [prosecution/defence] alleged that NOW had previously given a different version of events. [Describe prior inconsistent statement and identify the alleged inconsistencies.]
+
+If you accept that NOW made this statement, there are two ways you can use it.
+
+First, you can use the contents of the statement as evidence in the case. For example, you could use NOW’s statement that [describe part of the statement] as evidence that [describe relevant asserted fact].
+
+Secondly, if you find that NOW’s statement is inconsistent with his/her account in court, you may use the statement when assessing his/her credibility and reliability. You may find that the fact that NOW had previously given an inconsistent account means that the evidence s/he gave in court is less likely to be truthful or accurate. You may therefore be less willing to accept his/her evidence. It is for you to determine whether or not to draw this conclusion from any inconsistencies you find.
+
+You should keep in mind the fact that a witness who gives inconsistent accounts is not necessarily lying. While dishonest witnesses are more likely to introduce inconsistencies in their stories, truthful witnesses may make mistakes about details.
+
+If you do find that NOW’s statement is inconsistent with his/her evidence in court, you will have two different accounts from the same witness. It is for you to determine which account, if any, to believe.
+
+Differences in complainant’s account
+
+[In sexual offence matters, where the judge, after hearing submissions, considers there is evidence that suggests there is a gap, inconsistency or difference in the complainant’s account of the offence charged that is relevant to the complainant’s credibility or reliability, the judge must give a direction about that gap, inconsistency or difference. See 7.3.1.5.1 Charge: Differences in Complainant’s Account.]
+
+Section 32 Unreliability Warning
+
+[In some cases it will be necessary to warn the jury about the potential unreliability of the evidence under Jury Directions Act 2015 s 32. See 4.14.1 Charge: Unreliability of Hearsay Evidence for an example of such a warning.]
+
+Last updated: 2 October 2017

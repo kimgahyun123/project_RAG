@@ -1,0 +1,165 @@
+5.3 Joint Criminal Enterprise (Pre-1/11/14)
+
+Overview
+
+1. This topic examines the common law principle of joint criminal enterprise. On 1 November 2014, that principle was abolished by the Crimes Amendment (Abolition of Defensive Homicide) Act 2014. For offences committed on or after 1 November 2014, see 5.2 Statutory Complicity (From 1/11/14).
+
+2. When two or more people commit an offence by pursuing a joint criminal enterprise, each person will be liable for the criminal acts of the others (R v Clarke & Johnstone [1986] VR 643; Gillard v R (2003) 219 CLR 1; R v Cox & Ors [2005] VSC 255).
+
+3. To establish liability by way of pursuing a joint criminal enterprise, the prosecution must prove:
+
+1. That two or more people reached an agreement to pursue a joint criminal enterprise that remained in existence at the time the offence was committed;
+
+1. That the accused participated in that joint enterprise in some way;
+
+2. That, in accordance with the agreement, one or more parties to the agreement performed all of the acts necessary to commit the offence charged, in the circumstances necessary for the commission of that offence; and
+
+3. That the accused had the state of mind required for the commission of the relevant offence at the time of entering into the agreement (R v Clarke & Johnstone [1986] VR 643; Johns v R (1980) 143 CLR 108; McAuliffe v R (1995) 183 CLR 108; R v Taufahema (2007) 228 CLR 232; Likiardopoulos v R (2010) 30 VR 654; Arafan v R (2010) 31 VR 82).
+
+4. Liability under this basis is direct and is not affected by the prosecution accepting pleas to lesser offences from other parties to the enterprise (Likiardopoulos v R (2012) 247 CLR 265).
+
+Difference Between Joint Criminal Enterprise and "Acting in Concert"
+
+1. Previously, it was thought that “Joint Criminal Enterprise” and “Acting in Concert” were discrete forms of liability. The difference was said to be that “Concert” required proof of presence while “Joint Criminal Enterprise” required proof of participation. It is now recognised that the difference is only one of nomenclature and that there is no requirement to prove that an accused is present through the whole of the offending (Likiardopoulos v R (2012) 247 CLR 265; McAuliffe v R (1995) 183 CLR 108. See also R v Morgan [1994] 1 VR 567; R v Franklin (2001) 3 VR 9; R v Lao & Nguyen (2002) 5 VR 129; R v Tangye (1997) 92 A Crim R 545; R v Cavkic [2005] VSC 182; Johns v R (1980) 143 CLR 108. C.f Likiardopoulos v R (2010) 30 VR 654; Smith, Garcia & Andreevski v R [2012] VSCA 5).
+
+Agreement to Pursue a Joint Enterprise to Commit a Crime
+
+1. For the first element to be met, the prosecution must prove:
+
+- That the accused reached an agreement with others to pursue a joint criminal enterprise; and
+
+- That the agreement remained in existence at the time the offence was committed (R v Clarke & Johnstone [1986] VR 643; R v Lao & Nguyen (2002) 5 VR 129).
+
+2. The agreement need not be express. It may be inferred from the surrounding circumstances (R v Tangye (1997) 92 A Crim R 545; R v Clarke and Wilton [1959] VR 645; R v Jensen and Ward [1980] VR 196; Guthridge v R (2010) 27 VR 452).
+
+3. This element will also be met if there is an understanding or arrangement between the parties that amounts to an agreement (R v Tangye (1997) 92 A Crim R 545; R v Clarke and Wilton [1959] VR 645; R v Jensen and Ward [1980] VR 196; R v Lowery & King (No 2) [1972] VR 560; R v Nguyen [2010] VSCA 23).
+
+Content of the Agreement
+
+4. The agreement must be to commit a criminal offence. This element will not be satisfied if the accused agreed to pursue some form of wrongdoing that is not criminal (R v Taufahema (2007) 228 CLR 232).
+
+5. The parties to the agreement do not need to have realised that their acts would be criminal. This element will be satisfied if they agreed to perform acts which, in fact, are criminal (Osland v R (1998) 197 CLR 316; R v Cox & Ors [2005] VSC 255).
+
+6. The parties only need to have agreed to pursue a criminal enterprise. They do not need to have had the same intention, nor do they need to have had the same awareness of the consequences of those acts (R v Matusevich & Thompson [1976] VR 470).
+
+7. The parties do not need to have precisely agreed on the scope of the agreement. This element will be satisfied if they shared an understanding of a criminal act, even if they disagreed on the purpose of that act (Gillard v R (2003) 219 CLR 1; R v Zappia (2002) 84 SASR 206; c.f. Collie, Kranz & Lovegrove v R (1991) 56 SASR 302).
+
+8. Where the prosecution alleges a criminal enterprise between more than two accused, it may not be necessary to prove that all of the accused were parties to the same agreement. It may be sufficient for the prosecution to prove that there are relationships between the various accused which form a chain of agreements over a common subject matter (see, e.g. R v Lao & Nguyen (2002) 5 VR 129).
+
+9. The prosecution must precisely identify the offence to be pursued, as this may influence the course of the trial and the inferences that may be drawn about the scope of the agreement (R v Taufahema (2007) 228 CLR 232).
+
+Timing of the Agreement
+
+10. The agreement need not have been formed far in advance of the offence. It may have been formed moments before the offence was committed (R v Tangye (1997) 92 A Crim R 545; R v Jensen and Ward [1980] VR 196; Guthridge v R (2010) 27 VR 452).
+
+11. The fact that two people spontaneously decided to pursue the same course of action does not necessarily prove that they were acting pursuant to an agreement to commit a particular crime (R v Taufahema (2007) 228 CLR 232).
+
+12. Two or more people may form an agreement that gives one of them the right to decide whether to commit a criminal act on any given occasion. Such an agreement will make all of the parties liable, even though they are not certain when the act will be committed (Miller v R (1980) 32 ALR 321). See also 5.4 Extended Common Purpose (Pre-1/11/14).
+
+Mentally Impaired Parties
+
+13. A person who is mentally impaired because s/he does not realise that his/her acts are wrongful may still be able to participate in an agreement to commit a criminal act, as long as s/he is able to understand the nature and quality of the act to be performed (Matusevich v R (1977) 137 CLR 633; Osland v R (1998) 197 CLR 316).
+
+14. The doctrine of innocent agent may also apply if the accused persuades a mentally impaired person to commit an offence (Matusevich v R (1977) 137 CLR 633).
+
+Cancellation or Completion of Agreement
+
+15. The prosecution must prove that the agreement had not been called off before the offence was completed (R v Heaney & Ors [1992] 2 VR 531).
+
+16. In some cases, the acts agreed to by the parties may be completed without achieving the intended purpose of the agreement. In this situation, a party to the agreement will not be liable for the later completion of that purpose by any of the other parties to the agreement (unless s/he agreed to such a variation of the original agreement) (R v Heaney & Ors [1992] 2 VR 531).
+
+Withdrawing From an Agreement
+
+17. A person is not responsible for the acts of other parties to an agreement if s/he withdrew from the agreement prior to its completion (R v Lowery & King (No 2) [1972] VR 560).
+
+18. The withdrawal must ordinarily have been expressly communicated to the other members of the enterprise. However, in exceptional circumstances it may be possible for an accused to have implicitly withdrawn from the agreement (White v Ridley (1978) 140 CLR 342).
+
+19. The withdrawal must be accompanied by all action the accused can reasonably take to undo the effect of his/her previous encouragement or assistance. This may include informing the police (White v Ridley (1978) 140 CLR 342; R v Tietie (1988) 34 A Crim R 438; R v Jensen and Ward [1980] VR 196).
+
+20. An accused who seeks to withdraw from an agreement must make a timely and effective withdrawal. An accused will not escape liability merely by leaving the scene shortly before the offence is completed, or by attempting to withdraw when it is too late to stop the offence (White v Ridley (1978) 140 CLR 342; R v Whitehouse [1941] 1 DLR 683; R v Rook [1993] 1 WLR 1005).
+
+21. Similarly, a person is not taken to have withdrawn from an agreement merely because s/he has private feelings of regret, or wishes that s/he could stop the offence (R v Lowery & King (No 2) [1972] VR 560).
+
+22. Where the accused has set in motion a chain of events leading to the commission of an offence, any attempts to withdraw from participation must be capable of effectively stopping the offending (White v Ridley (1978) 140 CLR 342).
+
+23. In some cases, the accused may reasonably believe that once s/he withdraws from the agreement, the other members will not pursue the original criminal act. In those circumstances, the accused may not need to take any additional steps beyond countermanding his/her original instructions or agreement (R v Truong NSW CCA 22/06/1998).
+
+24. It is usually more difficult to withdraw from an agreement at the time of the offending than beforehand. Withdrawal at the time of the offending will usually require greater conduct to undo the effect of the previous agreement (see R v Becerra (1976) 62 Cr App R 212).
+
+25. It is not necessary to consider the issue of withdrawal using principles of causation. While a principal who continues to offend despite the timely withdrawal from the agreement by other parties may be treated as an intervening cause, it is not necessary to do so. Such an approach is likely to lead to confusion (White v Ridley (1978) 140 CLR 342; R v Tietie (1988) 34 A Crim R 438; R v Menniti [1985] 1 Qd R 250).
+
+26. The issue of withdrawal only needs to be addressed if the defence has pointed to some evidence that shows that the accused unequivocally countermanded or revoked his/her previous agreement. The prosecution will then bear the onus of disproving this withdrawal (White v Ridley (1978) 140 CLR 342; R v Croft [1944] KB 295; R v Rook [1993] 1 WLR 1005).
+
+Jury Directions
+
+27. As this area of law is complex, the judge should usually give an example when explaining the first element to the jury (R v Tangye (1997) 92 A Crim R 545).
+
+Participation in the Joint Enterprise
+
+1. For the second element to be met, the prosecution must prove that the accused participated in the joint enterprise in some way (R v Clarke & Johnstone [1986] VR 643; R v Lao & Nguyen (2002) 5 VR 129; Likiardopoulos v R (2010) 30 VR 654; Arafan v R (2010) 31 VR 82).
+
+2. This requires the accused to take some steps to further the criminal enterprise (R v Clarke & Johnstone [1986] VR 643; R v Lao & Nguyen (2002) 5 VR 129; Likiardopoulos v R (2010) 30 VR 654; Arafan v R (2010) 31 VR 82).
+
+3. It is thus not sufficient for the prosecution to simply prove that there was an agreement reflecting a common purpose. While proof of an agreement may be sufficient to prove conspiracy to commit an offence (see 6.1 Conspiracy to Commit an Offence (Victoria)), liability through joint criminal enterprise requires proof that the accused actually participated in the enterprise (Arafan v R (2010) 31 VR 82. See also Likiardopoulos v R (2010) 30 VR 654; R v Clarke & Johnstone [1986] VR 643).
+
+4. It is not necessary that the accused acted illegally in furtherance of the criminal enterprise. A person may participate in a criminal enterprise by taking legal actions, such as purchasing property (see, e.g. R v Clarke & Johnstone [1986] VR 643; Arafan v R (2010) 31 VR 82).
+
+Performance of the Necessary Acts
+
+1. For the third element to be met, the prosecution must prove that:
+
+- In accordance with the agreement;
+
+- One or more of the parties to the agreement;
+
+- Performed all of the acts necessary to commit the offence charged;
+
+- In the circumstances necessary for the commission of that offence (R v Clarke & Johnstone [1986] VR 643; Johns v R (1980) 143 CLR 108; McAuliffe v R (1995) 183 CLR 108; R v Taufahema (2007) 228 CLR 232).
+
+2. The actions of all members of a joint criminal enterprise will be attributed to all other members of that enterprise (R v Clarke & Johnstone [1986] VR 643; Gillard v R (2003) 219 CLR 1).
+
+3. The accused will only be liable for offences that were within the scope of the agreement. The jury must therefore determine whether the agreement extended to the commission of the offence charged (McAuliffe v R (1995) 183 CLR 108; R v PDJ (2002) 7 VR 612; R v Johns (1980) 143 CLR 108).
+
+Acts Must have been Within the Scope of the Agreement
+
+4. In some cases, in the course of pursuing the agreed crime a different offence will be committed. For the accused to be liable for that offence, the prosecution must prove that it was within the scope of the agreement (R v Jensen and Ward [1980] VR 196; R v PDJ (2002) 7 VR 612; R v Anderson [1966] 2 QB 110; R v Heaney & Ors [1992] 2 VR 531).
+
+5. The scope of the agreement must be determined by considering the subjective beliefs of the participants at the time the agreement was formed, or at the time the parties agreed to vary the original agreement (R v Johns (1980) 143 CLR 108; R v McAuliffe (1995) 183 CLR 108).
+
+6. If the participants’ beliefs about the scope of the agreement differed, its scope will be confined to those beliefs that all of the participants shared (see, e.g. Gillard v R (2003) 219 CLR 1; R v Zappia (2002) 84 SASR 206).
+
+7. The scope of the agreement includes any contingencies that are planned as part of the agreed criminal enterprise (R v Becerra (1976) 62 Cr App R 212).
+
+8. The liability of the accused is based on his/her authorisation (express or implied) of the criminal acts. Even if the accused did not believe that those acts were likely to be committed, s/he will be liable if they were within the scope of the agreement (Johns v R (1980) 143 CLR 108; Chan Wing-Siu v R [1985] AC 186; Britten v R (1988) 49 SASR 47).
+
+9. In some cases the parties will have differed in their understanding of how the agreed crime was to be carried out, leading to arguments that the accused had not agreed to participate in the particular offence that was committed. In such cases, the jury must consider whether the use of the means adopted placed the offence outside the scope of the agreement, or whether the use of those means was no more than an unexpected incident of carrying out the common agreement (Varley v R (1976) 12 ALR 347; R v Heaney & Ors [1992] 2 VR 531).
+
+10. Where the agreement involves the use of violence, the jury may need to consider whether the perpetrator acted outside the scope of the agreement by unexpectedly using a weapon. This will depend on the facts of the case, the understanding of the parties, and the difference between the weapon used and the manner of violence intended (see Varley v R (1976) 12 ALR 347; R v Anderson [1966] 2 QB 110; Markby v R (1978) 140 CLR 108; Wooley v R (1989) 42 A Crim R 418; R v Heaney & Ors [1992] 2 VR 531).
+
+Accused’s Mental State
+
+1. The fourth element requires the prosecution to prove that the accused had the state of mind required for the commission of the relevant offence (Osland v R (1998) 197 CLR 316; Likiardopoulos v R (2010) 30 VR 654).
+
+2. The law is not entirely clear on when the accused must have this required state of mind. The better view appears to be that the accused must have the required state of mind at the time s/he entered into the agreement (Osland v R (1998) 197 CLR 316; Hui Chi-Ming v R [1992] 1 AC 34; R v O’Flaherty, Ryan & Toussaint [2004] 2 Cr App R 20).
+
+3. This is because the joint criminal enterprise principles only attribute criminal acts to the parties to the agreement, not criminal intentions. The jury must therefore separately assess the state of mind of each accused (R v Stewart; R v Schofield [1995] 3 All ER 159; Osland v R (1998) 197 CLR 316; R v Clarke & Johnstone [1986] VR 643; but c.f. R v Jensen & Ward [1980] VR 194).
+
+4. In homicide cases, this can allow the jury to convict one party of murder and another party of manslaughter (Osland v R (1998) 197 CLR 316; R v Howe [1987] AC 417; R v Stewart; R v Schofield [1995] 3 All ER 159).
+
+5. Under this view of the law, the state of mind at the time of forming the agreement is deemed to continue unless the accused withdraws from the agreement. It is not enough that the accused has private feelings of regret or wishes that s/he could stop the offence (R v Lowery & King (No 2) [1972] VR 560; R v Becerra (1976) 62 Cr App R 212).
+
+Defences
+
+1. The prosecution must disprove any defences that are open on the evidence (Osland v R (1998) 197 CLR 316).
+
+2. Defences must be separately disproved for each accused (Osland v R (1998) 197 CLR 316).
+
+3. This may legitimately lead to a result whereby one party to the agreement is found not guilty of an offence (e.g. due to self defence), while another party is found guilty of the same offence (e.g. because s/he could not rely on self-defence) (see, e.g. Osland v R (1998) 197 CLR 316).
+
+Joint Criminal Enterprise and Attempt
+
+1. The law recognises that a person cannot attempt to conspire or attempt to be a secondary party to an offence (whether under the principles of statutory complicity or common law complicity) (Franze v R (2014) 46 VR 856).
+
+2. Conversely, it is possible for a person to be a secondary party to an attempted offence. This occurs, for example, when the person enters into an agreement to complete an offence and that agreement only produces an attempt at the contemplated offence. The distinction lies between a joint attempt, which is legally possible, and an attempt to agree, which is not (Franze v R (2014) 46 VR 856).
+
+Last updated: 2 March 2015

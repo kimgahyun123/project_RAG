@@ -1,0 +1,19 @@
+5.10.1 Charge: Commission by Proxy
+
+This charge should be inserted into a charge for the substantive offence after the judge lists the elements and before the judge explains the elements.
+
+The judge will then need to adapt the directions on the elements of the offence, depending on the type of element in question.
+
+If a physical element of consisting of conduct is in issue, the question will be “Did NOA cause NO3P to do this?”
+
+If a physical element consisting of circumstance or result is in issue, the question will be “Did this circumstance or result exist (if relevant, in relation to NOA)?”
+
+If a fault element is in issue, the question will be “Did NOA have this fault element?”
+
+In this case, the prosecution has not alleged that NOA committed the offence him/herself. Instead, the prosecution has alleged that s/he committed it by using a proxy, NO3P.
+
+The law says that if the accused causes another person to commit criminal acts, the accused is legally responsible for those acts.
+
+So when I direct you about the elements, you will notice that the question for some elements is whether NOA caused NO3P to engage in certain conduct.
+
+Last updated: 12 April 2018

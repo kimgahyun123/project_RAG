@@ -1,0 +1,123 @@
+4.8.3 Delay Risking Honest but Erroneous Memory
+
+Scope
+
+1. Two separate risks may arise where there is a delay in making a complaint:
+
+1. The accused may suffer a significant forensic disadvantage; and
+
+1. The complainant’s recollection of what happened may be honest but erroneous (Longman v R (1989) 168 CLR 79; R v MBX [2014] 1 Qd R 438).
+
+2. This topic only addresses the risk of honest but erroneous memory. See 4.8.1 Delay Causing Forensic Disadvantage for information concerning the risk of forensic disadvantage.
+
+Grounds for Giving a Warning
+
+1. The need for a direction about the risk of honest but erroneous memory may arise under s 32 of the Jury Directions Act 2015.
+
+2. Alternatively, where a direction is not sought, the judge may need to give a direction if there are substantial and compelling reasons to do so in the absence of a request (Jury Directions Act 2015 ss 14–16). See 3.1 Directions Under Jury Directions Act 2015.
+
+3. An “honest but erroneous memory” warning is a particular form of an unreliable evidence warning. This topic should therefore be read in conjunction with 4.21 Unreliable Evidence Warning.
+
+Section 32 Unreliability Warning
+
+When must a s 32 unreliability warning be given?
+
+1. A judge must give a s 32 unreliability warning if:
+
+1. A party requests such a warning;
+
+1. The evidence in question is "of a kind that may be unreliable";
+
+2. The party specifies the significant matters that may make the evidence unreliable; and
+
+3. There are no good reasons for not doing so (Jury Directions Act 2015 s 32).
+
+2. This topic focuses on the second requirement. See 4.21 Unreliable Evidence Warning for information concerning the first and fourth requirements.
+
+"Evidence of a kind that may be unreliable"
+
+3. Section 32 applies to “evidence of a kind that may be unreliable”. While this includes the eight categories of evidence listed in s 31, it is not restricted to those categories. A s 32 warning may be required for any evidence which is “of a kind that may be unreliable” (see R v Stewart (2001) 52 NSWLR 301; R v Covill (2000) 114 A Crim R 111).
+
+4. At common law, evidence given by a complainant after a lengthy delay was seen to be potentially unreliable, due to the risk that his or her recollection of what happened may be honest but erroneous (Longman v R (1989) 168 CLR 79; Crampton v R (2000) 206 CLR 161.See “Risk factors identified at common law” below for further information).
+
+5. Although not yet decided, it seems likely that, for the reasons identified at common law, evidence given by a complainant after a lengthy delay will also be treated as evidence that is “of a kind that may be unreliable” for the purposes of Jury Directions Act 2015 s 32.
+
+6. However, the mere fact that there has been a delay in making a complaint does not mean that any evidence given will necessarily be “evidence of a kind that may be unreliable”. In some circumstances there may be no risk that such evidence is unreliable, and so s 32 will not apply (see R v Clark (2001) 123 A Crim R 506; R v Fowler (2003) 151 A Crim R 166; R v Harbulot [2003] NSWCCA 141; Derbas v R [2007] NSWCCA 118. Cf R v Stewart* (2001) 52 NSWLR 301).
+
+7. This means that even if there has been a delay in making a complaint, a judge must still consider whether the specific evidence given in the trial in question is “of a kind that may be unreliable” (R v Clark (2001) 123 A Crim R 506; R v Fowler (2003) 151 A Crim R 166; R v Harbulot [2003] NSWCCA 141; Derbas v R [2007] NSWCCA 118. Cf R v Stewart (2001) 52 NSWLR 301).
+
+8. This is a test of “possibility”. The question is whether the evidence is of a kind that “may be” unreliable (R v Flood [1999] NSWCCA 198).
+
+9. In determining whether the evidence in a particular case is “of a kind that may be unreliable”, judges may take into account the risks of unreliability identified at common law (see “Risk factors identified at common law” below) (Papakosmas (1999) 196 CLR 297; R v Stewart (2001) 52 NSWLR 301; Robinson v R* (2006) 162 A Crim R 88).
+
+Risk factors identified at common law
+
+10. Where there has been a lengthy delay in making a complaint, there is a risk that false recollections will have been converted into honestly and strongly held beliefs. This risk makes the evidence given in such circumstances potentially unreliable (Longman v R (1989) 168 CLR 79; Crampton v R (2000) 206 CLR 161).
+
+11. Judges should warn the jury about this risk, because of the chance that the jury will merely focus upon whether the complainant seems to be a truthful witness, without taking into account the possibility that the delay has affected the reliability of his or her honest recollection (Longman v R (1989) 168 CLR 79).
+
+12. In the common law cases, the length of the delay was seen to be a significant factor in creating the risk of honest but erroneous memory (see R v GTN (2003) 6 VR 150 for an analysis of the periods of delay in a number of appellate cases). However, the cases do not identify any minimum period of delay necessary for this risk to arise.
+
+13. As the delay in question must be capable of transforming fantasy into false memory, it is possible that the requisite period of delay will be longer than the short periods deemed capable of producing a forensic disadvantage (see 4.8.1 Delay Causing Forensic Disadvantage).
+
+14. The risk that the complainant’s recollection will be honest but erroneous must be assessed in all the relevant circumstances. It will be strongest in cases where:
+
+- The offence was discovered while the complainant was half-asleep;
+
+- There is evidence suggesting that the complainant was suggestible;
+
+- There is a combination of substantial delay and during the intervening period the complainant has experienced mental illness which has affected the complainant’s memory (Longman v R (1989) 168 CLR 79, Robinson v R (1999) 197 CLR 162; Crampton v R (2000) 206 CLR 161; Wade v The Queen [2019] VSCA 168).
+
+Doubts about the assumptions
+
+15. Commentators and judges have doubted the validity of the law’s assumptions about child psychology that underlie the asserted need for directions about honest but erroneous memory (JJB v R [2006] NSWCCA 126, [3]–[8] (Spigelman CJ); R v MBX [2014] 1 Qd R 438 (Applegarth J). Cf Crampton v R (2000) 206 CLR 161; R v BWT (2002) 54 NSWLR 241; JJB v R [2006] NSWCCA 126 (Kirby J)).
+
+16. Doubts have also been expressed as to whether these directions are truly mandated by authority (JJB v R [2006] NSWCCA 126, [3]–[8] (Spigelman CJ); R v MBX [2014] 1 Qd R 438 (Applegarth J). Cf Crampton v R (2000) 206 CLR 161; R v BWT (2002) 54 NSWLR 241; JJB v R [2006] NSWCCA 126 (Kirby J)).
+
+17. In 2019 the Victorian Court of Appeal affirmed the need for an honest but erroneous memory direction in a case where there was a substantial delay in complaint, evidence of an intervening mental illness, and evidence of how the complainant tried to reconstruct his memories to distinguish fact from fantasy. The Court held that the trial judge had erred in finding that the degree of cross-examination and the absence of any latent danger constituted good reasons for not giving a requested direction as the risk of confabulation may not have been fully appreciated by the jury. In circumstances where the complainant’s reliability was critical to the prosecution case, the Court found that a tailored direction on honest but erroneous memory was necessary (Wade v The Queen [2019] VSCA 168, [36]–[38]).
+
+Content of the s 32 warning
+
+18. A s 32 unreliability warning must:
+
+1. Warn the jury that the evidence may be unreliable;
+
+4. Inform the jury of the significant matters that the trial judge considers may cause it to be unreliable; and
+
+5. Warn the jury of the need for caution in determining whether to accept the evidence and the weight to be given to it (Jury Directions Act 2015 s 32(3)).
+
+19. See 4.21 Unreliable Evidence Warning for information concerning the first and third requirements.
+
+20. In informing the jury about the significant matters that may cause the evidence to be unreliable (the second requirement), it is often appropriate for the judge to refer to the risk factors identified at common law (see above) (Kanaan v R [2006] NSWCCA 449; Robinson v R (2006) 162 A Crim R 88).
+
+21. It follows that where a s 32 warning is required because of a delay in making a complaint, the charge should include instructions to the effect that:
+
+- Experience has shown that human recollection may be erroneous and liable to distortion due to various factors; and
+
+- That the likelihood of error increases with delay (Longman v R (1989) 168 CLR 79).
+
+Judge must not warn the jury that it is "dangerous to convict"
+
+22. The judge must not warn the jury, or suggest to them in any way, that it would be dangerous or unsafe to find the accused guilty because of the delay (Jury Directions Act 2015 s 51(2). See also JJB v R (2006) 161 A Crim R 187).
+
+23. These provisions expressly prohibit judges from charging juries in the common terms of a Longman warning (R v IAB [2009] VSCA 229).
+
+Do not breach the prohibitions in ss 33 and 51(1)(a)
+
+24. Section 51(1) of the Jury Directions Act 2015 states that the judge must not warn the jury, or suggest in any way, that the law regards complainants in sexual cases as an unreliable class of witness or that complainants who delay in making a complaint are, as a class, less credible or require more careful scrutiny than other complainants.
+
+25. Any directions given in relation to the risk of honest but erroneous memory must not be expressed in terms that undermine this provision (e.g. by suggesting a stereotyped view that complainants in sexual assault cases are unreliable, or that delay in making a complaint about an alleged sexual offence is invariably a sign that the complainant’s evidence is false) (R v Crofts (1996) 186 CLR 427; R v Rodriguez [1998] 2 VR 167).
+
+26. Similarly, section 33 of the Jury Directions Act 2015 prohibits the judge from saying or suggesting that children as a class are unreliable witnesses or that the evidence of children as a class is inherently less credible or reliable, or requires more careful scrutiny, than the evidence of adults.
+
+27. For this reason, it may be prudent to avoid any suggestion that the risk of an honest but erroneous memory is greater for memories of events said to have occurred in childhood. Instead, the direction should focus on the length of the delay.
+
+Associated Directions
+
+1. Where there has been a delay, judges are commonly also asked to warn the jury about the forensic disadvantages to the accused caused by that delay. See 4.8.1 Delay Causing Forensic Disadvantage. Where it is appropriate to give both warnings, it will generally be convenient to combine them in the one direction.
+
+2. Where the complainant has failed to make a timely complaint, the judge may also be required to give the jury the statutory directions on the relevance of delay on credit. See Effect of Delayed Complaint on Credit for further information.
+
+3. Where the complainant has given inconsistent or incomplete accounts, the judge may be required to direct the jury about how to assess those inconsistencies. See Differences in a Complainant’s Account for further information.
+
+Last updated: 28 August 2019

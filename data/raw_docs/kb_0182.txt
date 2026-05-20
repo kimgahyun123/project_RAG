@@ -1,0 +1,63 @@
+5.3.2 Checklist: Joint Criminal Enterprise
+
+Four elements the prosecution must prove beyond reasonable doubt:
+
+1. The accused made an agreement with other people to pursue a joint criminal enterprise, and that agreement remained in existence when the offence was committed; and
+
+1. The accused participated in the joint criminal enterprise; and
+
+2. In accordance with the agreement, the parties to the agreement between them performed all the acts necessary to commit the offence; and
+
+3. The accused had the state of mind necessary to commit the offence.
+
+1. Criminal Agreement
+
+1. 1.1 Did the accused make an agreement with other people to pursue a joint criminal enterprise?
+
+1. If Yes, then go to Question 1.2
+
+2. If No, then the accused is not guilty of committing the offence charged by pursuing a joint enterprise
+
+2. 1.2 Did that agreement remain in existence at the time the offence was committed?
+
+1. Consider – Have the prosecution proved that the accused did not withdraw from the agreement in a timely and effective manner? Have they established that the accused had not done everything reasonably possible to withdraw from the agreement?
+
+3. If Yes, then go to Question 2
+
+4. If No, then the accused is not guilty of committing the offence charged by pursuing a joint enterprise
+
+2. Participation
+
+3. 2. Did the accused participate in the joint criminal enterprise in some way?
+
+2. Consider – Did the accused contribute to the commission of the offence?
+
+5. If Yes, then go to Question 3.1
+
+6. If No, then the accused is not guilty of committing the offence charged by pursuing a joint enterprise
+
+3. Performance of Agreement
+
+4. 3.1 Did the parties to the agreement between them, or a party to the agreement, other than the accused, perform all of the acts needed to commit the offence?
+
+7. If Yes, then go to Question 3.2
+
+8. If No, then the accused is not guilty of committing the offence charged by pursuing a joint enterprise
+
+5. 3.2 Was the offence within the scope of the agreement?
+
+3. Consider – What beliefs did the parties hold at the time they made the agreement? Did they believe that the offence would or could be committed in the course of carrying out the agreement?
+
+9. If Yes, then go to Question 4
+
+10. If No, then the accused is not guilty of committing the offence charged by pursuing a joint enterprise
+
+4. State of Mind
+
+6. 4. Did the accused have the state of mind necessary to commit the offence, at the time s/he entered into the agreement?
+
+11. If Yes, then the accused is guilty of the offence charged (as long as you have also answered Yes to questions 1.1, 1.2, 2, 3.1 and 3.2)
+
+12. If No, then the accused is not guilty of committing the offence charged by pursuing a joint enterprise
+
+Last updated: 1 November 2014

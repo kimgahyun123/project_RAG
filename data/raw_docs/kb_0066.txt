@@ -1,0 +1,35 @@
+3.12 Taking Verdicts
+
+Alternative Charges
+
+1. Unless expressly provided for by law, an accused must not be punished more than once for the same act or omission (Interpretation of Legislation Act 1984 (Vic) s 51; R v Sessions [1998] 2 VR 304).
+
+2. This means that when alternative charges are left to the jury, the accused must not be convicted of the lesser offence if found guilty of the major offence (R v Sessions [1998] 2 VR 304; R v Weeding [1959] VR 298. See also Crimes Act 1958 s 421(2)).
+
+3. When alternative charges of differing gravity are left to the jury, the verdicts should be taken in descending order of gravity. The judge should discharge the jury from returning a verdict on the lesser offence once the jury has returned a verdict of guilty of the major offence (R v Sessions [1998] 2 VR 304; R v Weeding [1959] VR 298).
+
+4. Where the alternative charges are of equal gravity or are inconsistent (e.g. theft or receiving stolen goods), the jury should be asked whether they have found the accused guilty on any charge. If they have, the charge should be identified, the verdict taken, and the jury discharged without verdict on the other charge (R v Seymour (1954) 38 Cr App R 68).
+
+Multiple Accused
+
+5. If multiple accused are tried jointly, it is usual for the judge to charge the jury in respect of all of the accused and all of the charges at the one time, before allowing the jury to deliberate about all of the matters together (R v Houssein (1980) 70 Cr App R 267; R v Wooding (1980) 70 Cr App R 256).
+
+6. However, in a trial of unusual complexity it is open to the trial judge to vary the procedure. For example, a judge may:
+
+- Direct and take a verdict in respect of each accused separately; or
+
+- Direct and take a verdict in respect of each charge separately in respect of each accused (see, e.g. R v Newland (1953) 37 Cr App R 154; R v Mitchell [1971] VR 46).
+
+7. Although the trial judge has a discretion to adopt such alternative procedures, the risk to a fair trial is such that this course should not be adopted unless the case really demands it (R v Houssein (1980) 70 Cr App R 267; R v Wooding (1980) 70 Cr App R 256).
+
+8. If the trial judge is contemplating adopting an alternative procedure, it would be desirable to discuss the matter with counsel as soon as possible. The discussions should include submissions about whether the jury is to be kept together throughout their deliberations or permitted to separate under s 50 of the Juries Act 2000 (Vic).
+
+Persistent sexual abuse of a child under 16
+
+9. In Chiro v R [2017] HCA 37, the High Court held that for offences such as persistent sexual abuse of a child (see Crimes Act 1958 s 49J) where there is an extended unanimity requirement concerning proof of constituent acts, the judge should ask the jury to specify the acts proved.
+
+10. When sentencing, a judge must sentence consistently with the jury’s verdict. For this kind of offence, that requires information from the jury on the basis for its verdict. Without that information, the judge must sentence on the assumption that the jury were satisfied of the minimum number and the least serious offences that were available to prove the offence charged.
+
+11. For information on asking the jury to identify the basis for its verdict, see Persistent sexual abuse of a child (From 1/7/17).
+
+Last updated: 23 October 2019

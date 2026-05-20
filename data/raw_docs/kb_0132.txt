@@ -1,0 +1,39 @@
+4.18.1 Charge: Coincidence Evidence
+
+This charge may be given where a direction has been requested regarding coincidence evidence called by the prosecution.
+
+A short direction based on this charge should be given at the time the evidence is led.
+
+Members of the jury, the prosecution has led evidence that [identify relevant coincidence evidence].
+
+Using Coincidence Evidence to bolster credit
+
+[If the evidence is used to bolster the credit of witnesses or complainants, add the following shaded section.]
+
+The prosecution says that this evidence is relevant because it is most unlikely that several [witnesses/complainants], each of whom seems to be independent of the other, would give such similar accounts unless those accounts were both truthful and accurate. In other words, the prosecution says that it is most unlikely that several such [witnesses/complainants] would independently have told the same lie.
+
+I direct you that it is open to you to reason in this way. However, before you can do so, you must first accept that such similarities as you find in the witness’ evidence are not the product of any collusion on their part, or of innocent contamination.
+
+Using Coincidence Evidence to Prove a Voluntary Act
+
+[If the evidence is used to prove that the accused acted voluntarily, add the following shaded section.]
+
+The prosecution say that this evidence is relevant to prove that the accused acted voluntarily when s/he [describe relevant act]. The prosecution argues that there is such a similarity between [describe relevant coincidence evidence] and the evidence of [identify relevant act] that it is most unlikely that the accused was not acting voluntarily when [describe relevant acts].
+
+Using Coincidence Evidence to Rebut a Defence Argument
+
+[If the evidence is used to rebut a defence argument, add the following shaded section.]
+
+The prosecution say that this evidence is relevant because it allows you to conclude that [describe relevant defence argument in the negative, e.g. “the deceased did not die of natural causes”]. The prosecution argues that there is such a similarity between this evidence and the evidence of [identify relevant evidence] that it is most unlikely that [describe relevant defence argument in the positive, e.g. that the deceased died of natural causes]. Remember that, while the accused raised this matter as a defence, the onus of proof rests on the prosecution.
+
+Using Coincidence Evidence to Prove the Identity of the Offender
+
+[If evidence of several separate offences is used to prove the identity of the offender, add the following shaded section.]
+
+The prosecution say the similarities between [identify similarly committed offence] and the [describe charged offence] are so great that you should find that the same person is responsible for each offence. The prosecution then say that if you find NOA committed [identify similarly committed offence], then you can use that to conclude that s/he also committed [identify charged offence].
+
+[Identify relevant prosecution and defence evidence and arguments on whether the jury should use the coincidence evidence.]
+
+You must keep this evidence in perspective. It is only one part of the prosecution’s case. As I have told you, you must not decide the case on the basis of feelings of sympathy or prejudice because of what you learn about the accused. The evidence has been led for the limited purpose of showing that [describe relevant purpose]. You must not use the evidence for any other purpose.
+
+Last updated: 9 March 2017

@@ -1,0 +1,197 @@
+4.12.1 Charge: Identification Evidence
+
+When to Use this Charge
+
+This charge may be used where:
+
+i) A witness gave identification evidence; and
+
+ii) The prosecution or defence counsel has requested a direction regarding the identification evidence and there are no good reasons for not doing so; or
+
+iii) Despite the fact that neither party has requested a direction, there are substantial and compelling reasons for giving the direction
+
+Introduction
+
+Identification is an important issue in this case. The case against NOA depends, to a significant extent, on evidence claiming to identify [outline the nature of the identification evidence in the case].
+
+Before you decide whether to accept this evidence, I must give you some warnings about identification evidence.
+
+How are People Identified?
+
+Before I give you these warnings, and to help you understand the reason why I am giving you these warnings, I will briefly explain how people are identified.
+
+Positive identification evidence/similarity evidence
+
+[If the identification evidence comprises positive identification evidence or similarity evidence, add the following shaded section.]
+
+There are three stages that are involved whenever a positive identification is made and a witness may make an error at each stage. First, the witness must have observed somebody [insert relevant act]. Second, the witness must have retained an image of that person in his or her mind until the time of the identification. Third, the witness must have later seen NOA, or a picture of NOA, and identified him or her as being the person seen [insert relevant act].
+
+Recognition evidence
+
+[If the identification evidence is a form of recognition evidence, add the following shaded section.]
+
+There are two stages that are involved whenever a person claims to recognise another person and a witness may make an error at each stage. First, the witness must have observed somebody [insert relevant act]. Second, the witness must have accurately recognised that person as someone the witness knew.
+
+Comparison evidence
+
+[If the identification evidence constitutes comparison evidence, add the following shaded section.]
+
+There are three stages that are involved whenever a comparison is made and a witness may make an error at each stage. First, the witness must have heard somebody [insert evidence relating to the initial recording]. Second, the witness must have retained an impression of that person’s voice in his or her mind until the time of the identification. Third, the witness must have later heard the voice of NOA, or a recording of the voice of NOA, and identified him or her as being the voice heard in the original recording.
+
+Negative identification evidence
+
+[If the identification evidence constitutes negative identification evidence, add the following shaded section.]
+
+There are three stages that are involved whenever an identification of this nature is made and a witness may make an error at each stage. First, the witness must have observed somebody [insert relevant act]. Second, the witness must have retained an image of that person in his or her mind until the time of the identification. Third, the witness must have later seen NOA, or a picture of NOA, and stated that he or she was not the person seen [insert relevant act].
+
+General Dangers of Identification Evidence
+
+Identification evidence is potentially unreliable. For that reason, you must exercise caution in determining whether to accept the evidence and, if you do accept it, the weight that you accord to that evidence.
+
+One of the reasons that identification evidence is potentially unreliable is that while a witness may honestly believe that his or her evidence is accurate when he or she is actually mistaken. And the mistaken evidence of a witness may be convincing.
+
+[If there are multiple identification witnesses, add the following shaded section.]
+
+You should also realise that a number of different witnesses may all be mistaken in their identification.
+
+[If the risk of mistaken identification evidence leading to an innocent person being convicted is relevant, add the following shaded section. Note that this will not be relevant in the case of negative identification evidence.]
+
+The experience of the law has shown that witnesses have given mistaken identification evidence which has resulted in innocent people being convicted.
+
+I will now turn to discuss the significant matters in this case which may make the identification evidence unreliable.
+
+Significant Matters that May Make the Evidence Unreliable
+
+Having given you that general warning about identification evidence, I now want to look at some of the specific factors that may affect the reliability of the evidence in this case.
+
+Here, there are [insert number of significant factors] that may be relevant to your assessment of the reliability of the identification evidence. These are [insert significant factors affecting reliability, e.g. the circumstances in which the offender was observed; the characteristics of the witness who gave evidence; and the way in which the accused was identified].
+
+You should examine each of these factors closely when deciding whether to accept the identification evidence.
+
+I will now look at these factors in more detail.
+
+Circumstances of Observation
+
+[If the circumstance in which the witness made his or her observation is a significant matter which may make the evidence unreliable, add the following shaded section.]
+
+You should examine the circumstances in which the offender was observed. You should consider what opportunity for accurate observation existed. Some of the questions you should ask yourself include:
+
+[Isolate and identify the significant matters raised by counsel regarding the observation which may make the evidence unreliable, or which are otherwise necessary to include.]
+
+- For how long did the witness observe the person?
+
+- How far away was the witness from what s/he was observing?
+
+- What was the angle of observation? For example, did the witness see the person’s face or only his/her back?
+
+- Had the witness ever seen the person s/he was observing before?
+
+- What was the light like?
+
+- Did anything get in the way of the witness’s view, such as passing people or traffic?
+
+- Did the witness have a reason for trying to observe the person involved and to remember his/her characteristics?
+
+- Did the person observed have any distinguishing features or characteristics which would make it likely that the witness would remember him/her? For example, did s/he have a scar or a tattoo?
+
+Factors Concerning the Witness
+
+[If there are significant matters concerning the witness who made the identification which may make the evidence unreliable, add the following shaded section.]
+
+You must also consider the characteristics of the witness who gave the identification evidence. In that context, some of the questions you should ask yourself include:
+
+[Isolate and identify any significant witness-related factors raised by counsel that may make the evidence unreliable, or which are otherwise necessary to include.]
+
+- Is it possible to assess the quality of this witness as an observer?
+
+- Was the witness stressed or fearful at the time of the observation? If so, what effect would this stress have had on him/her? For some people, their powers of observation increase under stress. Others "black out" and their powers of observation diminish. You need to decide how the witness is likely to have reacted in this case.
+
+- Were there any other factors that could have affected the witness’s powers of observation, such as drugs or alcohol consumption, or fatigue?
+
+Factors Concerning the Identification
+
+[If the way in which the accused was identified raises significant matters which may make the evidence unreliable, add the following shaded section.]
+
+You must consider the way in which NOA was identified/similarities between the person observed and NOA were noted. Some of the questions you should ask yourself include:
+
+[Isolate and identify any significant factors about the identification process raised by counsel that may make the evidence unreliable, or which are otherwise necessary to include.]
+
+- Did the witness give a description of the offender before identifying the accused? If so, does the description match the accused?
+
+- Is the witness relying too heavily on a particular memorable feature or characteristic of the accused in identifying him/her?
+
+- How long was there between the incident and the identification? Was it likely that the witness’s memory was affected by any delay?
+
+- Was the identification process conducted fairly? For example, did the other people in the [parade/photoboard] look sufficiently similar to the accused?
+
+- Did the witness hear a description or see a picture of the accused before attempting to identify the offender? [If this occurred, and the risk of the "displacement effect" occurring is significant, the judge will need to warn the jury about that effect. See 4.12.2 Charge: Photographic Identification for an example of such a warning.]
+
+- Was the witness influenced in any other way to identify the accused – for example, by the behaviour of the police?
+
+Familiarity with the Accused
+
+[If there are matters concerning the familiarity of the witness who made the identification with NOA, and these are significant matters which may make the evidence unreliable, add the following shaded section.]
+
+You must consider how well the witness knew the accused. Some of the questions you should ask yourself include:
+
+[Isolate and identify any significant factors about the witness’s familiarity with the accused raised by counsel that may make the evidence unreliable, or which are otherwise necessary to include.]
+
+- How did the witness know the accused?
+
+- How often and in what circumstances had the witness previously seen the accused? Was s/he very familiar with the accused’s appearance?
+
+- When had the witness last seen the accused? Had the accused’s appearance changed since that time?
+
+Quality of the Material
+
+[If the identification involves a non-expert giving comparison evidence, and the quality of the material being compared is a significant factor which may make the evidence unreliable, include the following shaded section.]
+
+You must consider the quality of the material which the witness was comparing. Some of the questions you should ask yourself include:
+
+[Isolate and identify any significant factors raised by counsel about the comparison made that may make the evidence unreliable, or which are otherwise necessary to include.]
+
+- [If two recordings are being compared] In what circumstances were the recordings made? Were those circumstances very different?
+
+- [If one recording is being compared with a live voice] Does the fact that the witness compared a recording with a live voice affect his/her ability to make an accurate comparison?
+
+- Was there enough material to enable the witness to make a proper comparison?
+
+Nature of the Voices
+
+[If the identification involves a non-expert giving comparison evidence, and the nature of the voices being compared is a significant matter which may make the evidence unreliable, include the following shaded section.]
+
+You must consider the nature of the voices that were compared by the witness. Some of the questions you should ask yourself include:
+
+[Isolate and identify any significant factors raised by counsel about the comparison made that may make the evidence unreliable, or which are otherwise necessary to include.]
+
+- Are the voices particularly distinctive?
+
+- Did the voices use similar words? Did they have a similar manner of speaking?
+
+- Is it possible that either or both of the speakers were trying to disguise their voice?
+
+- [If the voices spoke with a foreign accent] Did the witness rely too heavily on the fact that both voices spoke with a foreign accent? It can be very difficult to distinguish between two unfamiliar voices that speak with a similar accent.
+
+Limitations of Similarity Evidence
+
+[If the identification evidence involved the witness saying that the accused appeared to be similar to the relevant person, include the following shaded section.]
+
+You must consider the limitations of what NOW said. S/he has not given evidence actually identifying NOA as the person who [insert relevant act]. Instead, s/he has given evidence that NOA resembles the person who [insert relevant act].
+
+Even if you accept this evidence as true, it only shows that NOA’s [appearance/voice/other characteristic] is consistent with that of the offender. It does not show that s/he is the offender. You must not conclude from this evidence alone that NOA was the person who [insert relevant act].
+
+I am not saying that you should ignore this evidence of similarity between NOA and the offender. You can use it together with the other evidence in the case to help you determine whether or not NOA is the person who [insert relevant act]. However, by itself this evidence is not enough to identify NOA as the offender.
+
+Miscellaneous Factors
+
+[If there are any other significant factors that do not fall within categories already discussed, add the following shaded section.]
+
+Finally, you should consider any other significant factors that may affect the reliability of the identification evidence. In this case, [insert evidence about any other significant factors raised by counsel that may reasonably be regarded as undermining the reliability of the evidence, or which are otherwise necessary to include].
+
+Summary
+
+To summarise, it is important that you take care in determining whether you accept identification evidence, and if you do accept it, in deciding what weight to give to that evidence.
+
+If, after careful examination of the identification evidence, and in light of all of the circumstances and other evidence given in the case, you find that the accused was correctly identified, then you can use the evidence in reaching your verdict.
+
+Last updated: 29 June 2015

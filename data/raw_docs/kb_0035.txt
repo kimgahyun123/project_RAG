@@ -1,0 +1,19 @@
+1.9 Alternative Charges
+
+1. The prosecution is entitled to include charges in an indictment that are presented in the alternative. Where this occurs, the jury cannot return a verdict on an alternative charge until it returns a verdict on the principal charge (LLW v R (2012) 35 VR 372; [2012] VSCA 54; Medici v R (2013) 39 VR 350; [2013] VSCA 111).
+
+2. The judge must ensure that the jury understands this rule. If the jury cannot agree on the principal charge, any agreement on an alternative charge would involve impermissible compromise (LLW v R (2012) 35 VR 372; [2012] VSCA 54; Medici v R (2013) 39 VR 350; [2013] VSCA 111).
+
+3. Where there are alternative charges on the indictment, the judge, at the start of the trial, should inform the jury that:
+
+- The indictment contains charges in the alternative;
+
+- The alternative charges all relate to the same factual allegations, but will require the jury to consider different legal tests;
+
+- At the end of the trial, the judge will need to take verdicts on each charge sequentially.
+
+4. For information on the obligation to leave alternative charges, see 3.10 Alternative Verdicts.
+
+5. For information on taking verdicts to alternative charges, see 3.12 Taking Verdicts.
+
+Last updated: 11 July 2018

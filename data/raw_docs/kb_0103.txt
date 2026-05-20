@@ -1,0 +1,9 @@
+4.12.4 Charge: Court Identification
+
+If the accused was identified in the precincts of the court, add this section when the identification evidence is given, and again where indicated in the primary charge.
+
+In this case, NOA was identified [insert circumstances of identification].
+
+This type of evidence is extremely unreliable, due to the risk that a witness will leap to the conclusion that the person they are being asked to identify must have been involved in the crime, because otherwise they would not have been at the court. Instead of comparing the person seen at the court with their memory of the person observed committing the crime, there is a danger that the witness may identify the accused on the basis of this false assumption. It may therefore be dangerous to rely on an identification made in these circumstances.
+
+Last updated: 1 July 2013

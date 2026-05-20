@@ -1,0 +1,45 @@
+6.1.2 Checklist: Conspiracy to Commit an Offence (Victoria)
+
+Three elements the prosecution must prove beyond reasonable doubt:
+
+1. The accused made an agreement with at least one other person to commit an offence (the "principal offence"); and
+
+1. The accused intended to make that agreement; and
+
+2. The parties intended that the principal offence would be committed.
+
+1. Agreement
+
+1. 1. Did the accused make an agreement with at least one other person to commit the principal offence?
+
+1. 1.1 Did the accused and at least one other person make an agreement to commit certain acts?
+
+1. If Yes, then go to Question 1.2
+
+2. If No, then the accused is not guilty of conspiracy to commit the principal offence
+
+2. 1.2 Under that agreement, was a person supposed to commit the principal offence?
+
+1. Consider – What are the elements of the principal offence?
+
+3. If Yes, then go to Question 2
+
+4. If No, then the accused is not guilty of conspiracy to commit the principal offence
+
+2. Intention to Agree
+
+2. 2. At the time the agreement was made, did the accused intend to enter into that agreement?
+
+5. If Yes, then go to Question 3
+
+6. If No, then the accused is not guilty of conspiracy to commit the principal offence
+
+3. Intention
+
+3. 3. When the parties made the agreement, did they intend that the principal offence would be committed?
+
+7. If Yes, then the accused is guilty of conspiracy to commit the principal offence (as long as you have also answered Yes to questions 1.1, 1.2 and 2)
+
+8. If No, then the accused is not guilty of conspiracy to commit the principal offence
+
+Last updated: 5 October 2012

@@ -1,0 +1,115 @@
+4.23 Prison Informer Warnings
+
+Overview
+
+1. A judge may be required to warn the jury about the potential unreliability of evidence that has been given by a "prison informer".
+
+2. The duty to warn the jury about the potential unreliability of such evidence may arise under s 32 of the Jury Directions Act 2015.
+
+3. This topic examines the need for a warning under s 32 and the content of such a warning.
+
+4. A "prison informer" warning is a particular form of an unreliable evidence warning. This topic should therefore be read in conjunction with 4.21 Unreliable Evidence Warning.
+
+Section 32 Unreliability Warning
+
+When must a s 32 unreliability warning be given?
+
+1. A judge must give a s 32 unreliability warning if:
+
+- A party in a jury trial requests such a warning;
+
+- The evidence in question is "of a kind that may be unreliable"; and
+
+- There are no good reasons for not doing so (Jury Directions Act 2015 s 32).
+
+2. See Unreliable Evidence Warning for information concerning the first and third requirements.
+
+3. In relation to the second requirement, Jury Directions Act 2015 s 31(d) states that evidence may be "of a kind that may be unreliable" if it is given by a "prison informer".
+
+Who is a "prison informer"?
+
+4. The term "prison informer" is not defined in the Jury Directions Act 2015. In cases considering the statutory predecessor to s 31(d), Evidence Act 2008 s 165(1)(e), the term was given its common law meaning (see, e.g. R v Ton (2002) 132 A Crim R 340, [34], [70]).
+
+5. At common law, a "prison informer" is a prisoner who gives evidence of an oral confession or admission made by another prisoner while in custody (Pollitt v R (1991) 174 CLR 558; R v Ton (2002) 132 A Crim R 340, [34]).
+
+6. The following witnesses were identified at common law as falling outside the "prison informer" category:
+
+- Prisoners who witness events that occur in prison ("prisoner witnesses") (R v Ton (2002) 132 A Crim R 340 (NSWCCA); R v Ali (No.2) (2005) 13 VR 257);
+
+- Prisoners who give exculpatory evidence of a confession or admission made by a person other than the accused (R v Ayoub [2004] NSWCCA 209);
+
+- Former prisoners who, after their release from prison, give evidence of a confession or admission made by the accused in prison (Marlow & Kelly v R (2001) 129 A Crim R 51 (Tas SC)).
+
+7. Even though the witnesses listed above may not be "prison informers" (and thus not fall within the scope of s 31(d)), if their evidence is "of a kind that may be unreliable" a s 32 unreliability warning may nevertheless be required. See the discussion of "Non-Listed Categories" in 4.21 Unreliable Evidence Warning for further information.
+
+Being a prison informer is not conclusive
+
+8. In rare and exceptional cases, a judge may have good reasons for not giving a warning despite the fact that the witness is a "prison informer" (R v Clark (2001) 123 A Crim R 506 (Heydon JA); Pollitt v R (1991) 174 CLR 558; R v Clough (1992) 28 NSWLR 396).
+
+Content of the s 32 unreliability warning
+
+9. A Jury Directions Act 2015 s 32 unreliability warning must:
+
+- Warn the jury that the evidence may be unreliable;
+
+- Inform the jury of matters that may cause it to be unreliable; and
+
+- Warn the jury of the need for caution in determining whether to accept the evidence and the weight to be given to it (Jury Directions Act 2015 s 32).
+
+10. See Unreliable Evidence Warning for information concerning the first and third requirements.
+
+11. In informing the jury about the matters that may cause s 31(d) evidence to be unreliable (the second requirement), the judge should, where appropriate, refer to the risk factors identified in the common law cases (see below) (Robinson v R (2006) 162 A Crim R 88, [7]).
+
+12. In doing so, care must be taken if the accused is also a prisoner. In such cases the judge must avoid undermining the benefit of the presumption of innocence by portraying the accused as an unreliable witness (R v Ton (2002) 132 A Crim R 340 (NSWCCA); R v Robinson (No. 2) (1991) 180 CLR 531).
+
+Risk factors identified at common law
+
+13. At common law, a prison informer’s evidence was regarded as inherently unreliable for the following reasons:
+
+- Prison informers (if convicted criminals) are of bad character;
+
+- Evidence of an oral confession or admission is easily concocted;
+
+- Prisoners may have a motive to concoct evidence if they believe that, in return for giving evidence, they are going to receive a benefit in terms of sentence, treatment or release on parole;
+
+- The pressures of the prison environment may also create a motive to concoct evidence; and
+
+- Where evidence is concocted, there will usually be no possibility of corroborating the accused’s denial (Pollitt v R (1991) 174 CLR 558; R v Clough (1992) 28 NSWLR 396).
+
+14. In addition, in some cases a prison informer may actually receive a benefit from giving evidence against the accused. This may affect the reliability of his or her evidence (R v Stewart (2001) 52 NSWLR 301; Kanaan v R [2006] NSWCCA 109; R v Sullivan [2003] NSWCCA 100).
+
+15. Any identifiable benefit a prison informer has received or will receive from testifying will usually be a ‘significant matter that may make the evidence unreliable’ (see R v Stewart (2001) 52 NSWLR 301; Kanaan v R [2006] NSWCCA 109; R v Sullivan [2003] NSWCCA 100).
+
+16. A prison informer warning must be adapted to address the true dangers of the situation (Pollitt v R (1991) 174 CLR 558; Orman v R [2010] VSCA 246R).
+
+17. It will normally not be sufficient to simply direct the jury to look for evidence from some other acceptable source which implicates the accused. Even if such evidence exists (which it usually will), its mere existence does not address the dangers posed by relying on the evidence of prison informers (Pollitt v R (1991) 174 CLR 558; Orman v R [2010] VSCA 246R).
+
+Supporting evidence and informers
+
+18. At common law, judges were generally required to warn the jury about the dangers of convicting on the uncorroborated or unsupported evidence of a prison informer (Pollitt v R (1991) 174 CLR 558).
+
+19. It is now the case that a judge must not warn the jury about the dangers of convicting on the uncorroborated evidence of a prison informer (Evidence Act 2008 s 164(4)).
+
+20. If a "supporting evidence" warning is to be of real use in this context, it must direct the jury to look for evidence which confirms the fact that the accused made a confession or admission to the witness (Pollitt v R (1991) 174 CLR 558).
+
+21. An example of this would be evidence that establishes that the disputed material in the alleged confession is accurate, and that that material would not have been known to the witness if the alleged confession had not been made (Pollitt v R (1991) 174 CLR 558; R v Kuster (2008) 21 VR 407).
+
+22. It is only in exceptional cases that a fellow prisoner can support the evidence of a prison informer (Pollitt v R (1991) 174 CLR 558).
+
+Other directions about confessions and admissions
+
+23. A s 32 prison informer warning is a warning about the reliability of alleged confessions or admissions.
+
+24. In some cases, the jury may also need to be directed about the circumstances in which they can use evidence of alleged confessions or admissions (see 4.5 Confessions and Admissions).
+
+25. If a judge directs the jury on the use of a confession or admission allegedly made to a prison informer, it will often be appropriate to incorporate the s 32 warning into that direction.
+
+Residual Duty to Warn
+
+26. Under Jury Directions Act 2015, a judge must give a warning in the absence of a request if there are ‘substantial and compelling’ reasons to do so.
+
+27. This may occur where neither party has requested a warning pursuant to s 32, but the judge considers that there are ‘substantial and compelling’ reasons for giving the warning (R v Stewart (2001) 52 NSWLR 301, [86],[94]; Singh v DPP (NSW) (2006) 164 A Crim R 284, [39]]; Kanaan v R [2006] NSWCCA 109, [130]; Robinson v R (2006) 162 A Crim R 88, [5]).
+
+28. At common law, it was considered that a warning was required whenever a prison informer had given oral evidence of a confession or admission and that it was only in exceptional cases that a warning was not required (Pollitt v R (1991) 174 CLR 558).
+
+Last updated: 29 June 2015

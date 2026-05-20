@@ -1,0 +1,37 @@
+4.13.4 Handwriting Evidence
+
+What is Handwriting Evidence?
+
+1. "Handwriting evidence" refers to a type of expert evidence in which a sample of a person’s handwriting is compared with the handwriting in a document about which authorship is disputed.
+
+2. As handwriting evidence is a type of expert evidence, the principles outlined in 4.13.1 General Principles of Opinion Evidence apply (subject to any modifications noted below).
+
+Handwriting Comparison Evidence
+
+1. A handwriting expert may give evidence on the similarities and differences between a handwriting sample and a disputed document, and give an opinion on whether the sample and the document were written by the same person (Evidence Act 1958 s 148; R v Mazzone (1985) 43 SASR 330).
+
+2. A non-expert witness who is familiar with the handwriting of the alleged author may also give evidence on whether s/he believes the disputed document was written by the alleged author. This is an exception to the rule prohibiting opinion evidence from non-expert witnesses (R v Mazzone (1985) 43 SASR 330; W v R (2006) 16 Tas R 1).
+
+Provision of Original Documents to the Jury
+
+1. The jury should generally be given original documents so that they can compare the handwriting. Copies may be used if providing original documents is not possible or necessary in the circumstances of the case (R v Burns & Collins (2001) 123 A Crim R 226).
+
+Jury Directions
+
+1. The authorship of disputed documents is a question of fact for the jury to determine (Adami v R (1959) 108 CLR 605; R v Knight (2001) 160 FLR 465; Jeans v Cleary [2006] NSWSC 647; R v Burns & Collins (2001) 123 A Crim R 226; R v Doney (2001) 126 A Crim R 271).
+
+2. Consequently, the jury may itself compare the sample and disputed writings to determine whether the documents were written by the same person. This comparison may be undertaken even without the assistance of expert evidence (Adami v R (1959) 108 CLR 605; Grayden v R [1989] WAR 208; R v Knight (2001) 160 FLR 465; Jeans v Cleary [2006] NSWSC 647; R v Burns & Collins (2001) 123 A Crim R 226; R v Doney (2001) 126 A Crim R 271).
+
+3. The need for any directions depends on whether a direction is sought or whether there are substantial and compelling reasons for giving a direction in the absence of a request (Jury Directions Act 2015 ss 14–16). See 3.1 Directions Under Jury Directions Act 2015 for information on when directions are required.
+
+4. Where expert evidence has been led, the judge should ensure that the jury does not allow the expert’s opinion to dictate their conclusions. The jury must consider all of the evidence, including any circumstantial evidence that may support or cast doubt on the expert’s opinion (Jeans v Cleary [2006] NSWSC 647; R v Doney (2001) 126 A Crim R 271; R v Leroy [1984] 2 NSWLR 441; Gawne v Gawne (1979) 2 NSWLR 449; Grayden v R [1989] WAR 208).
+
+5. While the jury must not allow an expert’s opinion to dictate their conclusions, they should be guided by the expert evidence (R v Leroy [1984] 2 NSWLR 441; Grayden v R [1989] WAR 208; R v Medina (1990) 3 WAR 21; R v Mazzone (1985) 43 SASR 330).
+
+6. In some cases, the process of comparing handwriting samples will be particularly difficult. The judge may warn the jury about the need to exercise care, especially where no expert evidence has been led. This need may arise when there are significant differences between the writing samples, such as when one sample is a photocopy and the other is an original (see Grayden v R [1989] WAR 208).
+
+7. If the authorship of the sample document is itself disputed, the judge should emphasise that the jury must be satisfied that the sample document was written by the alleged author. The authorship of the sample document is a question of fact that will affect the probative value of the evidence regarding the disputed document (R v Browne–Kerr [1990] VR 78).
+
+8. The jury may be warned to act with caution when a non-expert witness compares the handwriting between two samples. This warning is not mandatory, but may be given as a matter of prudence (R v Burns & Collins (2001) 123 A Crim R 226; R v Leroy [1984] 2 NSWLR 441; Grayden v R [1989] WAR 208; Medina v The Queen (1990) 3 WAR 21).
+
+Last updated: 25 June 2024

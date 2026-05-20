@@ -1,0 +1,119 @@
+6.2.1 Charge: Conspiracy (Commonwealth)
+
+This charge is designed for cases where the parties agree that a member of the conspiracy will commit the substantive offence. The direction must be modified if the conspiracy contemplates a third party committing the substantive offence.
+
+I must now direct you about the crime of conspiracy to commit NOO. To prove this crime, the prosecution must prove the following three elements beyond reasonable doubt:
+
+One – The accused conspired with another person to commit NOO;
+
+Two – The accused intended to conspire with that other person to commit NOO;
+
+Three – The accused or another party to the conspiracy committed an ‘overt act’ to advance the agreement.
+
+I will now explain each of these elements in more detail
+
+Conspiracy
+
+The first element looks at what the accused did. The prosecution must prove that the accused conspired with another person to commit NOO. This requires you to be satisfied of three matters beyond reasonable doubt.
+
+First, the prosecution must prove that NOA and [identify alleged co-conspirator(s)] entered into an agreement. Was there an agreement between the accused and at least one other person?
+
+Second, you must look at the content of the agreement. Was it an agreement to commit NOO? For this part of the element, the prosecution must prove that there was an agreement to:
+
+[identify and explain all physical elements of the substantive offence]
+
+Third, the accused and at least one other party to the agreement must have intended that NOO be committed. This means that they must have intended that:
+
+[identify all physical elements of the substantive offence, except for any elements which are subject to a special liability provision. See 6.2 Conspiracy (Commonwealth) for guidance]
+
+[If there are any elements subject to a special liability provision, add the following shaded section]
+
+You will have noticed a difference in what I said the prosecution must prove about the scope of the agreement, and the intentions of the accused and at least one other party. To prove this offence, the prosecution must prove there was an agreement to [identify relevant special liability element], but they do not need to prove the parties intended that [identify relevant special liability element]. Let me explain the difference. To prove there was an agreement to [identify relevant special liability element], the prosecution must prove the agreement related to the [identify factual basis for the relevant element] and not to some other [insert relevant term, e.g. substance / container / object]. But the prosecution does not have to prove the parties knew, believed or intended that the [identify factual basis for the relevant element] was [identify relevant special liability element].
+
+[If there any no relevant special liability provisions, add the following shaded section]
+
+In other words, the prosecution must prove both that the accused agreed to the planned offence and intended the planned offence be committed.
+
+When considering this element, you must consider precisely what NOA knew at the time he allegedly agreed to commit NOO.
+
+You must be satisfied that NOA knew he was [forming / joining] an agreement to commit a criminal offence. S/he must have known the nature of the offence planned. However, s/he did not need to know details of how the offence was going to be carried out. [Where relevant, add: S/he also does not need to have known the identity of the proposed victims].
+
+[Where it is possible that the accused did not know the identity of some of the alleged co-conspirators, add the following shaded section]
+
+NOA did not need to know the identity of the other parties to the agreement. However, s/he must know that there were other parties. He must have agreed with them to commit the offence. It is impossible to form an agreement with yourself.
+
+[If it is alleged that the accused’s agreement should be inferred from his/her involvement in a criminal enterprise, add the following shaded section]
+
+In making your decision, you must consider what each party knew and agreed to. Do not assume that a person agreed to commit an offence simply because s/he knew it was likely s/he was part of a criminal enterprise that involved the commission of NOO. To convict the accused of conspiracy to commit NOO, you must find s/he intentionally agreed to commit NOO.
+
+[Refer to relevant evidence and arguments of prosecution and defence]
+
+For this element to be met, you must be satisfied that there was an agreement between NOA and [at least one of] [identify alleged co-conspirators*], in the terms alleged by the prosecution. You must also be satisfied that NOA and another co-conspirator intended to commit NOO. If you are not satisfied of any of the three matters I have identified, then this element will not be met.
+
+Intention to Agree
+
+The second element is that NOA intended to enter the agreement. You must be satisfied that NOA really meant to make the agreement and did not just appear to agree.
+
+The prosecution argued that NOA meant to make the agreement. [Refer to relevant prosecution evidence and/or arguments]. The defence denied this, arguing [describe relevant defence evidence and/or arguments].
+
+An Overt Act
+
+The third element is that a party to the agreement committed an ‘overt act’ to advance the agreement.
+
+The first element looked at whether there was an agreement. This element looks at what was done as part of the agreement.
+
+In this case, the prosecution has identified [number] of overt acts they say were performed as part of the agreement. These are [identify alleged overt acts].
+
+In relation to each of these alleged overt acts, ask yourself two questions.
+
+One – Am I satisfied beyond reasonable doubt that this act occurred?
+
+Two – Am I satisfied beyond reasonable doubt that this act was performed with the intention of advancing the agreement?
+
+In other words, one – did the act occur and two – why was the act performed?
+
+Remember, an overt act can be committed by any party to the agreement. The prosecution does not have to prove that NOA committed the overt act.
+
+To prove this element, you must all agree that a particular overt act was performed as part of the agreement. It is not enough that half of you are satisfied about [insert one overt act] and half of you are satisfied about [insert another overt act]. You must all agree.
+
+[Refer to relevant prosecution and defence evidence and/or arguments]
+
+Withdrawal
+
+[If the evidence raises the defence of withdrawal, add the following shaded section]
+
+The law allows a person to withdraw from a conspiracy and avoid conviction in certain circumstances. The defence argues that these circumstances exist in this case.
+
+The accused does not need to prove that s/he withdrew from the conspiracy. As I have told you, the prosecution must prove all matters beyond reasonable doubt. The prosecution must therefore prove that NOA did not withdraw from the conspiracy.
+
+There are three parts to withdrawal.
+
+One – The accused withdrew from the agreement;
+
+Two – The accused took all reasonable steps to prevent the commission of the offence;
+
+Three – The withdrawal was complete before the commission of an overt act as part of the agreement.
+
+The prosecution will prove that NOA did not withdraw from the conspiracy if it can disprove one or more of these three matters.
+
+The prosecution argues that [identify relevant arguments and evidence]. The defence disputes this, and argues that [identify relevant arguments and evidence].
+
+Summary
+
+To summarise, you can only convict NOA of conspiracy to commit NOO if you are satisfied, beyond reasonable doubt:
+
+One – NOA conspired with another person to commit NOO;
+
+Two –NOA intended to conspire with another person to commit NOO;
+
+Three – NOA or another party to the conspiracy committed an ‘overt act’ to advance the agreement.
+
+If you find that any of these elements have not been proved beyond reasonable doubt, then you must find NOA not guilty of conspiracy to commit NOO.
+
+Inconsistent verdicts
+
+[If there is a risk of inconsistent verdicts, add the following shaded section]
+
+It is important to note that the evidence concerning this offence is identical for both NOA and [identify co-accused]. If you decide that [identify co-accused] is not guilty of conspiracy to commit NOO, you must also find NOA not guilty of that offence.
+
+Last updated: 14 May 2024

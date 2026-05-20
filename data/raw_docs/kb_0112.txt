@@ -1,0 +1,33 @@
+4.13.3.1 Charge: Fingerprint Evidence
+
+This charge is for use in conjunction with 4.13.1.1 Charge: Uncontested Expert Evidence in cases where:
+
+i) The fingerprint evidence inculpates the accused;
+
+ii) That evidence is given by a single witness; and
+
+iii) The features of the relevant fingerprint samples have been found to match at a sufficient number of points that it is possible to say with certainty that the samples came from the same person.
+
+See 3.1 Directions Under Jury Directions Act 2015 for information on when directions are required.
+
+If the features of the relevant fingerprint samples have not been found to match at a sufficient number of points that it is possible to say with certainty that the samples came from the same person, the charge will need to be modified. In such circumstances, 4.13.2.1 Charge: DNA Evidence may provide some assistance.
+
+If the evidence exculpates the accused, or conflicting evidence is given by expert witnesses, the charge will also need to be modified. In such circumstances, 4.13.1 General Principles of Opinion Evidence may provide some assistance.
+
+Use of Images
+
+[If images of the two sets of fingerprints have been admitted as exhibits, add the following shaded section:]
+
+To help you to understand and evaluate NOW’s evidence, you have been given copies of the images s/he compared. [Identify relevant exhibits].
+
+When you look at these exhibits, remember that you are not fingerprint experts. Comparing fingerprints is a task that calls for specialised skills. While you may look at the exhibits, you should be guided by NOW’s evidence. You should not reject that evidence just because you cannot see the similarities s/he described.
+
+Use of Evidence
+
+If you accept NOW’s opinion, you can use that evidence to find that [describe permissible use of the evidence, e.g. "the fingerprints found at the crime scene belonged to NOA].
+
+However, you should keep in mind the fact that the fingerprint evidence is just one piece of circumstantial evidence, and must be considered in the light of the other evidence in the case. You will remember what I have told you about circumstantial evidence.
+
+[Summarise and explain any prosecution and defence arguments in relation to the fingerprint evidence that have not yet been addressed.*]
+
+Last updated: 29 June 2015

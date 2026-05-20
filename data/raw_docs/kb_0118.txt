@@ -1,0 +1,55 @@
+4.14.1 Charge: Unreliability of Hearsay Evidence
+
+This is a generic charge that can be adapted for use in cases where:
+
+i) Evidence of a previous representation has been admitted; and
+
+ii) A party in a jury trial requests a warning under Jury Directions Act 2015 s 32 or a warning is necessary under Jury Directions Act 2015 s 16; and
+
+iii) The evidence in question is "of a kind that may be unreliable"; and
+
+iv) There are no good reasons for not giving a warning.
+
+Where the requirements of s 32 have been met, this warning should be inserted into the following charges where indicated:
+
+4.14.4 Charge: Complaint Evidence;
+
+4.14.2 Charge: Prior Inconsistent Statements;
+
+4.14.3 Charge: Prior Consistent Statements.
+
+Introduction
+
+In this case you heard evidence that [insert details of the previous representation].
+
+It is for you to determine whether NO3P made the alleged statement. If you find that s/he did, you can use that fact to [identify the asserted facts in the statement and how those facts are relevant in the case. If necessary, also describe any limitations on the use of the evidence, following a ruling under s 136].
+
+However, before you do so, I must warn you about the need for caution when considering NOW’s evidence about that statement.
+
+Matters that may cause unreliability
+
+I must give you this warning because NOW’s evidence was about a statement that was made out of court. It is the experience of the law that evidence of out-of-court statements may be unreliable, because [identify all of the risks of unreliability posed by the evidence in the case, such as:
+
+- NOW may not have accurately recalled or repeated NO3P’s statement and may have changed its meaning;
+
+- People sometimes cannot remember things they hear as well as they can remember things they see;
+
+- It was not possible for you to assess NO3P’s credibility at the time s/he made the representation, and so you cannot know whether or not s/he was being honest;
+
+- The process of repeating a statement compounds any weaknesses of the people involved, such as imperfect perception, memory or sincerity. Errors can occur when the original statement is made, when it is heard or when it is repeated in court. This means that even if you accept NOW’s evidence as truthful, it might not be an accurate representation of what happened – either because of problems in what NOW heard or remembered, or because NO3P’s statement itself was not accurate or truthful.
+
+- NO3P may have been subject to pressures that caused him/her to make a false statement, which you do not know about;
+
+- The statement was not made in a court environment, and so NO3P was not under the same obligation to tell the truth as s/he would have been if s/he gave evidence in court.]
+
+[The judge should also identify any other factors that may have a bearing on the reliability of the evidence in the case, such as:
+
+- Any inconsistencies that exist between different representations that have been made; or
+
+- The lack of opportunity to cross-examine* the person who made the original statement.]
+
+Warning
+
+The law says that every jury must take this potential unreliability into account when considering evidence of an out-of-court statement. You must take it into account in determining whether you accept NOW’s evidence at all, and if you do accept it, in deciding what weight to give to that evidence.
+
+Last updated: 29 June 2015

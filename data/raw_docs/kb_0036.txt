@@ -1,0 +1,15 @@
+1.9.1 Charge: Alternative Charges
+
+This charge should be given as part of the preliminary directions where the indictment contains alternatives. This model charge assumes that there is only one incident which involves alternatives. Where there are multiple incidents involving alternatives, this charge will need to be modified.
+
+Members of the jury, my tipstaff is now going to hand you a document called an “indictment”. This document lists the crimes that NOA is charged with. I will tell you more about what each crime involves at the end of the trial. However, there is one matter I want to draw to your attention now.
+
+Charges [identify relevant alternatives] are given to you as alternatives. The prosecution does not say that the accused should be convicted of [both/all] of these charges, but of one or the other. This is because they [both/all] relate to the same incident.
+
+At the end of the trial, when you are delivering your verdict[s], you will first be asked for your verdict on [insert principal offence], which is the more serious charge. If you reach a verdict of guilty in relation to that charge, you will not be asked for a verdict on [insert alternative charge].
+
+It is only if you unanimously reach a verdict of not guilty on [insert principal offence] that you will be asked to deliver a verdict on [insert alternative charge]. This is because the prosecution is entitled to your verdict on the most serious charge. It would be wrong to compromise and say “we cannot agree on a verdict on charge one, but we agree that the accused is at least guilty of charge two”.
+
+So when you are listening to the evidence, bear in mind that while there are [insert number of charges] charges on the indictment, there are actually only [insert number] of allegations that relate to different events because the other [insert number] charges are alternatives.
+
+Last updated: 11 July 2018

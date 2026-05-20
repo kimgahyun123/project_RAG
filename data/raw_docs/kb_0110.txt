@@ -1,0 +1,31 @@
+4.13.2.1 Charge: DNA Evidence
+
+[In most cases, DNA evidence provides such a high likelihood ratio that jurors can confidently use it to decide that the DNA material comes from the accused rather than another person. Instead, the forensic contest concerns the circumstances in which the DNA material was deposited. In other words, the case is fought on the issue of transference, rather than identity. This direction is designed for a transference case where the DNA evidence concerns the likelihood that the accused is a contributor. 
+
+Where the evidence involves a particularly low likelihood ratio, a different direction is required, which alerts the jury to the limited ability of the evidence to support a conclusion of identity and warns the jury against any overreliance on objectively weak forensic science evidence.
+
+Where the evidence is about the identity of a person other than the accused, the direction must be modified, based on the issues in dispute.
+
+This charge is designed to be used in conjunction with Charge: Uncontested Expert Evidence.]
+
+Limitations of Evidence
+
+Even if you accept NOW’s evidence, that does not necessarily mean that NOA must be guilty of the offence[s] charged.
+
+[If the witness only provided the likelihood ratio, use the following shaded section]
+
+You have heard NOW explain that the DNA evidence is estimated to be [identify likelihood ratio] times more likely to occur if the DNA originated from NOA than if it originated from an unknown and unrelated person randomly selected from the [identify relevant population group, e.g. Australian Caucasian”] population.
+
+[If the witness provided the verbal equivalent to the likelihood ratio, use the following shaded section]
+
+You have heard NOW explain that the DNA was analysed and provides [identify verbal equivalent expression, e.g. “very strong support”] to the proposition that the DNA originated from NOA rather than an unknown and unrelated person randomly selected from the [identify relevant population group, e.g. Australian Caucasian”] population.
+
+The parties accept that it was NOA’s DNA material which NOW identified on the [identify relevant item]. The real issue is when, how and why NOA’s DNA material was left there.
+
+[Refer to relevant evidence and arguments, including any opinion evidence about the likelihood of direct contact or secondary transfer].
+
+You must consider these matters when you are deciding what weight to put on NOW’s evidence.
+
+As I told you earlier in my directions, you can only convict the accused if you are satisfied that his/her/their guilt is the only reasonable conclusion to be drawn from the whole of the evidence. You must therefore consider whether the prosecution has satisfied you that NOA’s DNA was deposited on the [identify relevant item] when [refer to circumstances of offence]. In other words, you must consider whether the prosecution has satisfied you that NOA’s DNA was not deposited through some other means, such as [identify explanations for DNA evidence consistent with innocence].
+
+Last updated: 14 May 2024

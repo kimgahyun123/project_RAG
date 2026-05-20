@@ -1,0 +1,47 @@
+4.13.4.2 Charge: Handwriting Evidence (Non-Expert Witness)
+
+This charge is for use in cases where:
+
+i) Handwriting evidence inculpates the accused; and
+
+ii) That evidence is given by a non-expert witness who is familiar with the alleged author’s handwriting; and
+
+iii) A direction about the evidence is requested, or there are substantial and compelling reasons for giving a direction in the absence of any request. See 3.1 Directions Under Jury Directions Act 2015.
+
+If the evidence exculpates the accused, or conflicting evidence is given by expert witnesses, the charge will need to be modified. In such circumstances, 4.13.1 General Principles of Opinion Evidence may provide some assistance.
+
+I must now give you directions about the handwriting evidence that NOW gave. [Summarise evidence.]
+
+NOW was permitted to give this evidence because of his/her familiarity with NOA’s handwriting. [Describe reason for familiarity.]
+
+In the course of giving evidence, NOW expressed his/her opinion that [describe opinion, e.g. "NOA probably wrote document X"].
+
+Ordinarily, witnesses are not allowed to give their opinions in court. They must confine their evidence to their own observations. This is because it is you who are the judges of facts, and so usually it is only your opinion that is relevant.
+
+However, in limited circumstances the law allows people who have particular experience in an area to give their opinions, if it may assist you in making your decision. This is one of those circumstances.
+
+In this case, NOW’s evidence may assist you in determining [explain permissible uses of the expert evidence].
+
+Role of Jury
+
+You are not required to accept NOW’s opinion. You are the judges of fact in this case, and even though NOW is familiar with NOA’s handwriting, his/her opinion is merely a piece of evidence like any other, which you may accept or reject.
+
+When assessing NOW’s opinion, you should consider factors such as [describe any factors relevant to the assessment of NOW’s evidence, such as his/her degree of familiarity with the accused’s handwriting, objectivity, or responses to cross-examination. Summarise any evidence and/or arguments addressing these factors*].
+
+Use of Documents
+
+[If control documents are not available, this section should be omitted.]
+
+To help you to understand and evaluate NOW’s evidence, you have been given [copies of] a document written by the accused and the [describe relevant document]. [Identify relevant exhibits.]
+
+You are free to make your own comparison of the handwriting in these documents. While you may be guided by NOW’s evidence, you should be careful about doing so, as s/he is not a handwriting expert. Ultimately, it is for you to determine who wrote the [describe relevant document] by using your common sense and experience. However, I warn you that comparing handwriting is difficult, and you should not jump to conclusions.
+
+Use of Evidence
+
+If you accept NOW’s opinion, you can use that evidence in deciding whether [describe permissible use of the evidence, e.g. "NOA wrote the letter"].  If you find that [describe permissible use of the evidence], then [describe consequences of finding a handwriting match].
+
+You should keep in mind the fact that the handwriting evidence is just one piece of circumstantial evidence, and must be considered in the light of the other evidence in the case. You will remember what I have told you about circumstantial evidence.
+
+[Summarise and explain any prosecution and defence arguments in relation to the handwriting evidence that have not yet been addressed.]
+
+Last updated: 16 February 2017

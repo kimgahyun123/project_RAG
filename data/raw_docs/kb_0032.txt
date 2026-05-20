@@ -1,0 +1,59 @@
+1.8 Separate Consideration
+
+Multiple Accused
+
+1. If two or more accused stand trial together, the judge must direct the jury that they are to consider the case against each accused separately (R v Harbach (1973) 6 SASR 427; R v Nessel (1980) 5 A Crim R 374; R v Minuzzo and Williams [1984] VR 417; R v Mitchell 5/4/95 NSW CCA; Nicoletti v R 4/11/97 WA CCA).
+
+2. If evidence is given which is not admissible against each accused, the judge must also instruct the jury:
+
+- That evidence led in support of a count involving one accused does not provide proof of a count involving another accused; and
+
+- That they must decide the case against each accused solely on the evidence that is admissible in relation to that accused (R v Minuzzo and Williams [1984] VR 417; R v Taouk 17/12/92 NSW CCA; R v Mitchell 5/4/95 NSW CCA; T v R (1996) 86 A Crim R 293).
+
+3. The judge should usually tell the jury that a certain item of evidence is inadmissible against a particular accused at the time that evidence is tendered. However, whether or not such a direction is given at that stage, it must always be given in the judge’s summing up (R v Nessel (1980) 5 A Crim R 374; R v Towle (1955) 72 WN (NSW) 338).
+
+4. In the judge’s summing up, he or she must specify which evidence the jury may consider in relation to each accused, and which evidence is inadmissible against each accused. It is insufficient simply to rely on a direction that the jury are to consider the case against each accused separately (R v Towle (1955) 72 WN (NSW) 338; R v Minuzzo and Williams [1984] VR 417; R v Mitchell 5/4/95 NSW CCA; Nicoletti v R 4/11/97 WA CCA. See 3.9 Judge’s Summing Up on Evidence and Issues for further information).
+
+Multiple Counts
+
+1. If the presentment contains multiple counts, the judge must direct the jury that they have to consider each of the counts separately (R v PMT (2003) 8 VR 50; MFA v R (2002) 213 CLR 606; KRM v R (2001) 206 CLR 221; R v TJB [1998] 4 VR 621; R v Robertson [1998] 4 VR 30; R v J (No 2) [1998] 3 VR 602).
+
+2. Such a direction should be given even if all of the evidence is admissible in relation to each count, because a jury still needs to reach separate verdicts on the counts even if, in reaching those verdicts, it considers the totality of the evidence (R v Mitchell 5/4/95 NSW CCA).
+
+3. If evidence is given which is not admissible in relation to each count, the judge must also instruct the jury:
+
+- That evidence led in support of one count does not provide proof of any other count; and
+
+- That they must decide each count solely on the evidence that is admissible in relation to that count (R v PMT (2003) 8 VR 50; MFA v R (2002) 213 CLR 606; KRM v R (2001) 206 CLR 221; R v TJB [1998] 4 VR 621; R v Robertson [1998] 4 VR 30; R v J (No 2)* [1998] 3 VR 602).
+
+4. It is also customary to instruct the jury that:
+
+- Combining more than one count in the presentment is a procedure of convenience, but that such convenience should not be permitted to usurp a just outcome, which entitles the parties to have each count considered by reference only to the evidence which applies to that count; and
+
+- If they decide to convict or acquit the accused on one count, it is wrong to reason that he or she is therefore guilty or not guilty (as the case may be) of the other counts. Proof of guilt upon one count is irrelevant to the question of guilt upon any other counts, and jurors should put any decisions they have made in relation to one count out of their minds when considering other counts (R v Robertson [1998] 4 VR 30. See also R v FJB [1999] 2 VR 425; T v R (1996) 86 A Crim R 293; BRS v R (1997) 191 CLR 275; R v TJB [1998] 4 VR 621; R v J (No 2) [1998] 3 VR 602; R v Appleby (1996) 88 A Crim R 456).
+
+5. These directions will often be accompanied by a specific instruction that the evidence of a witness may be accepted in whole or in part (MFA v R (2002) 213 CLR 606).
+
+6. The jury should not be told that each count “must be given the same ultimate determination because you will ultimately be asked… your verdict in regard to each count”. Such a direction is likely to be confusing to a jury (R v Robertson [1998] 4 VR 30; R v Ev Costa 2/4/96 Vic CA).
+
+7. In the judge’s summing up, he or she must carefully explain which evidence relates to which count, and which evidence is inadmissible on each count. It is insufficient simply to rely on a direction that the jury are to consider each count separately (T v R (1996) 86 A Crim R 293; R v Mooseek (1991) 56 A Crim R 36. See 3.9 Judge’s Summing Up on Issues and Evidence for further information).
+
+8. Judges must not direct the jury that if they doubt the truthfulness or reliability of the complainant’s evidence in relation to one charge, then that doubt must be taken into account in their assessment of the truthfulness or reliability of the complainant’s evidence generally or in relation to other charges. This does not limit the ability of a party to make such an argument, or the obligation of the judge to refer to how the parties put their case (Jury Directions Act 2015 ss 44F–44G, as amended in 2017; see also R v PMT (2003) 8 VR 50; contra R v Markuleski (2001) 52 NSWLR 82).
+
+9. The fact that a complainant fails to give any evidence about a particular offence charged does not mean the tribunal of fact could decide that the complainant has made a prior inconsistent statement. The prosecution opening (which often includes statements about the evidence the prosecutor expects to call) and the indictment are not the complainant’s documents and cannot be used as evidence that the complainant previously gave a different account of the alleged offending. A jury could only find there was a prior inconsistent statement if the complainant was confronted with a previous statement (such as their witness statement to police) and the fact that the complainant omitted any mention of particular charges in their evidence-in-chief. However, undertaking that exercise is forensically risky, as it may provide the witness with an opportunity to give the missing evidence (Barton v The King [2025] VSCA 74, [45]-[50]).
+
+10. However, the defence can legitimately argue that an inconsistency between the prosecution’s opening and the evidence as presented demonstrates that the prosecution case lacks the strength the prosecution’s opening might have seemed to present, or is otherwise deficient. An argument pointing to a lack of strength in the case, or which highlights deficiencies, does not require reference to the credit of an individual witness (Barton v The King [2025] VSCA 74, [79], [136]).
+
+11. Section 44F also does not require or permit a judge to direct a jury that if it has a doubt about one aspect of a witness' evidence, then the jury should put that aspect to one side. A conclusion that a witness has lied on one matter may provide a basis for doubting the witness' truthfulness on other matters (Mathieson v The Queen [2021] VSCA 102, [51]–[55]).
+
+Related Matters
+
+Tendency Warning
+
+1. At common law, it was considered prudent to warn the jury against “tendency reasoning” in cases involving multiple counts, as well as the “separate consideration” direction (see R v J (No.2) [1998] 3 VR 602; R v TJB [1998] 4 VR 621).
+
+2. Under the Jury Directions Act 2015, evidence relevant only to other counts, or admissible on a limited, contextual, basis, will usually fall within paragraph (c) of the definition of “other misconduct evidence” (see Jury Directions Act 2015 s 26).
+
+3. Where evidence of other counts is “other misconduct evidence”, the judge does not need to give a warning against tendency reasoning, unless the direction is requested (see Jury Directions Act 2015 ss 15, 29, 30). See 4.17 Tendency Evidence.
+
+Last updated: 23 June 2025

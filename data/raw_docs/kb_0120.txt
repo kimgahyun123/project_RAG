@@ -1,0 +1,27 @@
+4.14.3 Charge: Prior Consistent Statements
+
+This charge is designed to be used in cases where:
+
+i) Evidence of a prior consistent statement has been admitted under Evidence Act 2008 s 108; and
+
+ii) That evidence can be used for both a hearsay and non-hearsay purpose.
+
+If the judge has limited the use of the evidence under Evidence Act 2008 s 136 the charge should be modified accordingly.
+
+The judge should discuss the proposed charge with counsel before instructing the jury. See 3.1 Directions Under Jury Directions Act 2015 for information on when the direction is required.
+
+Introduction
+
+When cross-examining NOW, the [defence/prosecution] [suggested/implied] that s/he had changed his/her evidence. [Summarise evidence and arguments concerning prior inconsistent statements or suggestions of fabrication or reconstruction.] In response, the [prosecution/defence] led evidence that [describe prior consistent statement].
+
+If you accept that NOW made this statement, there are two ways you can use it.
+
+First, you can use the contents of the statement as evidence in the case. For example, you can use NOW’s statement that [describe part of the statement] as evidence that [describe relevant asserted fact].
+
+Secondly, you can use this statement when assessing NOW’s credibility. If you accept that the statement is consistent with NOW’s evidence in court, you may find that this reinforces his/her credibility, because [summarise the way in which the evidence supports NOW’s credibility, e.g.* "it shows that s/he has given a consistent account since the alleged offence"].
+
+Section 32 Unreliability Warning
+
+[In some cases it will be necessary to warn the jury about the potential unreliability of the evidence under Jury Directions Act 2015 s 32. See 4.14.1 Charge: Unreliability of Hearsay Evidence for an example of such a warning.]
+
+Last updated: 29 June 2015

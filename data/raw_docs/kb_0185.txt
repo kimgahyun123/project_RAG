@@ -1,0 +1,45 @@
+5.4.2 Checklist: Extended Common Purpose
+
+Three elements the prosecution must prove beyond reasonable doubt:
+
+1. The accused made an agreement with other people to commit a criminal act, and that agreement remained in existence when the offence was committed; and
+
+2. While carrying out the agreement, a party to the agreement committed the offence charged; and
+
+3. The accused foresaw the possibility that one of the parties to the agreement would commit that offence.
+
+1. Criminal Agreement
+
+1. 1.1 Did the accused make an agreement with other people to commit a criminal act?
+
+1. If Yes, then go to Question 1.2
+
+2. If No, then the accused is not guilty of committing the offence charged by extended common purpose
+
+2. 1.2 Did that agreement remain in existence at the time the offence was committed?
+
+1. Consider – Have the prosecution proved that the accused did not withdraw from the agreement in a timely and effective manner? Have they established that the accused had not done everything reasonably possible to withdraw from the agreement?
+
+3. If Yes, then go to Question 2
+
+4. If No, then the accused is not guilty of committing the offence charged by extended common purpose
+
+2. Commission of Offence
+
+3. 2. Did a party to the agreement commit the offence charged while carrying out the agreement?
+
+5. If Yes, then go to Question 2
+
+6. If No, then the accused is not guilty of committing the offence charged by extended common purpose
+
+3. Foresight of Accused
+
+4. 3. Did the accused foresee the possibility that a party to the agreement would commit the offence charged?
+
+2. Consider – The accused does not need to have thought it was likely or probable that the offence would be committed. He or she only needs to have thought that it was possible that a party to the agreement would commit that offence in the course of carrying out the agreement.
+
+7. If Yes, then the accused is guilty of the offence charged (as long as you have also answered Yes to questions 1.1, 1.2, 2)
+
+8. If No, then the accused is not guilty of committing the offence charged by extended common purpose
+
+Last updated: 1 November 2014

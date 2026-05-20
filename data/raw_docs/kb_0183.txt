@@ -1,0 +1,53 @@
+5.4 Extended Common Purpose (Pre-1/11/14)
+
+Overview
+
+1. This topic examines the common law principle of extended common purpose. On 1 November 2014, that principle was abolished by the Crimes Amendment (Abolition of Defensive Homicide) Act 2014. For offences committed on or after 1 November 2014, see Statutory Complicity.
+
+2. The doctrine of "extended common purpose" applies to cases in which two or more parties reach an agreement to commit a crime (the "foundational crime"), and in the course of pursuing that agreement, one or more of the parties commit a different crime (the "charged offence"). The doctrine holds that any party to the agreement who foresaw the possibility that the charged offence would be committed when the agreement was carried out will be liable for that crime (Johns v R (1980) 143 CLR 108; McAuliffe v R (1995) 183 CLR 108; Hartwick, Clayton & Hartwick v R (2006) 231 ALR 500; R v Hartwick, Clayton & Hartwick (2005) 14 VR 125).
+
+3. This is a form of liability for reckless participation in a criminal enterprise (R v Powell; R v English [1997] 3 WLR 959). The liability of the accused is based on his/her continued participation in the criminal enterprise, despite foreseeing the risk that other crimes would be committed as part of that enterprise (Gillard v R (2003) 219 CLR 1; R v Panozzo [2007] VSCA 245).
+
+4. To establish liability by way of extended common purpose, the prosecution must prove:
+
+1. That two or more people reached an agreement to commit a crime (the foundational crime) that remained in existence at the time the charged offence was committed;
+
+1. That in the course of carrying out the agreement, one or more of the parties to the agreement, other than the accused, committed the charged offence; and
+
+2. That the accused foresaw the possibility that one or more parties to the agreement would commit the charged offence when the agreement was carried out (McAuliffe v R (1995) 183 CLR 108; Hartwick, Clayton & Hartwick v R (2006) 231 ALR 500; R v Hartwick, Clayton & Hartwick (2005) 14 VR 125; R v Taufahema (2007) 228 CLR 232; R v Jones (2006) 161 A Crim R 511).
+
+Agreement to Commit a Crime
+
+1. For the first element to be met, the prosecution must prove:
+
+- That the accused reached an agreement with others to commit a crime; and
+
+- That the agreement remained in existence at the time the charged offence was committed (Hartwick, Clayton & Hartwick v R (2006) 231 ALR 500; R v Taufahema (2007) 228 CLR 232; [2007] HCA 11).
+
+2. For information concerning this element (which is identical to the first element of joint criminal enterprise), see 5.3 Joint Criminal Enterprise (Pre-1/11/14).
+
+Performance of the Necessary Acts
+
+1. For the second element to be met, the prosecution must prove that, in the course of carrying out the agreement, one or more of the parties to the agreement, other than the accused, committed the offence charged (McAuliffe v R (1995) 183 CLR 108; Hartwick, Clayton & Hartwick v R (2006) 231 ALR 500; R v Hartwick, Clayton & Hartwick (2005) 14 VR 125; R v Taufahema (2007) 228 CLR 232; [2007] HCA 11; R v Jones (2006) 161 A Crim R 511).
+
+2. The principles of extended common purpose should generally not be used if the charged offence was also the foundational crime. In that situation, a different form of complicity should be used instead (R v Stokes & Difford (1990) 51 A Crim R 25. See 5.2 Statutory Complicity (From 1/11/14) (From 1/11/14) or 5.3 Joint Criminal Enterprise (Pre-1/11/14) to determine the most appropriate form of complicity to use in such a case).
+
+3. In some cases, it is permissible to direct using extended common purpose principles, even if the charged offence was the foundational crime (R v Mills, Sinfield & Sinfield (1985) 17 A Crim R 411; R v Mills (1986) 68 ALR 455).
+
+Foresight of Accused
+
+1. The third element requires the accused to have foreseen the possibility that one or more of the parties to the agreement would commit the charged offence when the agreement was carried out (McAuliffe v R (1995) 183 CLR 108; Hartwick, Clayton & Hartwick v R (2006) 231 ALR 500; R v Hartwick, Clayton & Hartwick (2005) 14 VR 125; R v Taufahema (2007) 228 CLR 232; [2007] HCA 11; R v Jones (2006) 161 A Crim R 511).
+
+2. The accused does not need to have intended that the charged offence be committed. The prosecution only needs to prove that s/he foresaw the commission of the charged offence as a possible result of carrying out the criminal enterprise (Hartwick, Clayton & Hartwick v R (2006) 231 ALR 500).
+
+3. The accused will be liable for crimes that s/he foresaw as possible. S/he does not need to have considered the commission of the charged offence to have been probable (Hartwick, Clayton & Hartwick v R (2006) 231 ALR 500).
+
+4. The judge may tell the jury that the accused must have foreseen that the charged offence might result. If it is necessary to explain this further, it is permissible to tell the jury that this means that there was a real or substantial possibility that it would result (R v Hartwick, Clayton & Hartwick (2005) 14 VR 125).
+
+5. It is not necessary to elaborate on the meaning of "possible" in every case (R v Hartwick, Clayton & Hartwick (2005) 14 VR 125).
+
+6. The accused must not only have foreseen the possibility that the perpetrator would commit the relevant acts, but also that s/he might act with the requisite state of mind and in the absence of any defences (Hartwick, Clayton & Hartwick v R (2006) 231 ALR 500; R v Hartwick, Clayton & Hartwick (2005) 14 VR 125; McAuliffe v R (1995) 183 CLR 108).
+
+7. This form of liability considers the foresight of an individual accused. It is not necessary to prove that the offence was within the joint contemplation of the parties or was an agreed contingency (McAuliffe v R (1995) 183 CLR 108).
+
+Last updated: 1 November 2014

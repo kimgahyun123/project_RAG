@@ -1,0 +1,163 @@
+1.5 Decide Solely on the Evidence
+
+1. The jury must be directed to base their verdict solely on the evidence given before them in the trial. In reaching their verdict they must disregard any knowledge they may otherwise have acquired about the case (Glennon v R (1992) 173 CLR 592; Murphy v R (1989) 167 CLR 94; R v VPH 4/3/94 NSW CCA; R v Vjestica [2008] VSCA 47).
+
+2. The jury should be told that the following matters constitute evidence:
+
+- The answers to questions asked in court;
+
+- Documents and exhibits admitted into evidence;
+
+- Formal Admissions.
+
+3. The jury should also be directed that the following matters do not constitute evidence:
+
+- Questions asked of witnesses (unless the witness agrees with the proposition) (R v Johnston [2004] NSWCCA 58; R v Lowe (1997) 98 A Crim R 300; Lander v R (1989) 52 SASR 424; R v Robinson [1977] Qd R 387);
+
+- Counsels’ addresses and arguments (R v Parsons [2004] VSCA 92; R v Lowe (1997) 98 A Crim R 300);
+
+- The judge’s addresses and comments (R v Boykovski and Atanasovski (1991) A Crim R 436. See 3.9 Judge’s Summing Up on Evidence and Issues for further information).
+
+4. The principle that questions asked of witnesses are not evidence must be approached with caution when applied to puttage by defence counsel to prosecution witnesses. It may unfairly undermine the defence case to say that if the witness rejected the puttage then there is no evidence to support that proposition. Such a direction would only be permissible if there is no other basis in the evidence which provides direct or inferential support for that proposition (Mathieson v The Queen [2021] VSCA 102, [31]).
+
+5. It may be desirable to tell the jury that if they disbelieve the answer of a witness, that does not amount to positive evidence of the opposite of that answer. Disbelief of a denial generally provides no evidence of the fact denied. For a matter to be sufficiently proven, there needs to be independent, positive evidence (Scott Fell v Lloyd (1911) 13 CLR 230; Edmunds v Edmunds [1935] VLR 177; Gauci v Cmr of Taxation (Cth) (1975) 135 CLR 81; Steinberg v FCT (1975) 134 CLR 640; R v Lowe (1997) 98 A Crim R 300).
+
+6. There may, however, be situations where disbelief of a witness allows the jury to draw a further inference, such as a conclusion that the truth would harm the witness, or that the witness is lying. For this reason, it can be dangerous to tell the jury to simply set aside any matter on which a witness is disbelieved, and give it no further consideration. Further, where there are only two possible states of fact, disbelief of one state of facts can support the conclusion that the other set of facts exists (see Steinberg v FCT (1975) 134 CLR 640; Mathieson v The Queen [2021] VSCA 102, [45]–[56]).
+
+7. The judge should tell the jury that if they are aware of any publicity concerning the case or the accused, this must be placed out of their minds. They must focus only on the evidence led in court (R v Skaf (2004) 60 NSWLR 86; R v Vjestica [2008] VSCA 47. See "Pre-trial Publicity" below for further information concerning pre-trial publicity).
+
+8. The judge should also tell the jury to disregard any feelings of prejudice or sympathy they may have in relation to the accused (Glennon v R (1992) 173 CLR 592).
+
+External Communications
+
+9. The jury should be told to avoid speaking to any people in the precincts of the court (R v Skaf (2004) 60 NSWLR 86).
+
+10. The jury should also be told not to discuss the case with anyone other than their fellow jurors, and to do that only in the privacy of the jury room (R v Skaf (2004) 60 NSWLR 86).
+
+11. This includes communicating about the case with court officials. All questions about the case should be directed to the judge (R v Stretton [1982] VR 251; R v Emmett (1988) 14 NSWLR 327; Jackson & Le Gros v R [1995] 1 Qd R 547; R v Briffa & Portillo 21/4/96 Vic CCA; R v GAE (2000) 1 VR 198. See 1.10 Trial Procedure for further information about juror questions).
+
+12. Jurors should be told not to bring mobile telephones or computers into the jury room (R v Skaf (2004) 60 NSWLR 86; R v McCluskey (1994) 98 Cr App R 216; R v Evans (1995) 79 A Crim R 66).
+
+13. It is useful to explain to the jury that one of the reasons for the prohibition against discussing the case is that most people will want to make observations about the case. Such observations will be of no value, since these people will not have heard or seen the evidence, or received directions which are binding upon them, and they will not be subject to the same oath or affirmation as the jurors (R v Skaf (2004) 60 NSWLR 86).
+
+Juror Enquiries
+
+1. It is an offence for a juror to "make an enquiry" for the purpose of obtaining information about a party to the trial or any matter relevant to the trial, except in the proper exercise of his or her functions as a juror (Juries Act 2000 (Vic) s 78A(1)).
+
+2. "Making an enquiry" is defined to include:
+
+- Consulting with another person or requesting another person to make an enquiry;
+
+- Conducting research by any means (including using the internet) (see "Independent Research" below); or
+
+- Viewing or inspecting a place or object that is relevant to the trial, or conducting an experiment (see Private Views and Experiments below) (Juries Act 2000 (Vic) s 78A(5)).
+
+3. This offence applies to all jurors from the time they are selected or allocated as part of the jury panel, until they are either excused from jury service, returned to the jury pool or discharged by the trial judge (Juries Act 2000 (Vic) s 78A(2)).
+
+4. Jurors are not prohibited from making an enquiry of the court, or another member of the jury, in the proper exercise of their functions as a juror (Juries Act 2000 (Vic) s 78A(3)).
+
+5. Although the Juries Act 2000 does not specify that judges must direct the jury about s 78A, this provision should be drawn to their attention (see, e.g. Martin v R (2010) 28 VR 579; DPP v Dupas [2010] VSC 409; R v Rich (Ruling No 7) [2008] VSC 437).
+
+Independent Research
+
+1. It is highly desirable for judges routinely to instruct the jury not to undertake any independent research (by internet or otherwise) concerning:
+
+- The parties to the trial;
+
+- Any other matter relevant to the trial; or
+
+- The law applicable to the case (Martin v R (2010) 28 VR 579; R v K (2003) 59 NSWLR 431. See also Juries Act 2000 (Vic) s 78A; Benbrika v R (2010) 29 VR 593).
+
+2. Judges should not avoid giving such a warning merely because they fear that it might place the idea in the mind of an inquisitive juror, and result in them conducting the kind of research the warning is intended to prevent (R v K (2003) 59 NSWLR 431).
+
+3. It is not sufficient merely to direct the jury that they must be true to their oath, to decide the case on the evidence and to identify the sanctions which apply to jurors who disobey the instructions. The judge must explain the reasons for the prohibition and how such conduct risks injustice and an unfair trial (SD v R (2013) 39 VR 487; R v Skaf (2004) 60 NSWLR 86; R v K (2003) 59 NSWLR 431).
+
+4. The main reasons for the prohibition are that:
+
+- Independent research may involve acting on information that is not tested and may be wrong or inaccurate;
+
+- Independent research will involve acting on information which is unknown to the parties, which would be unfair. It is not for the jury to add to the evidence called by the parties;
+
+- Independent research may lead the jury to take into account legal principles that do not apply in the jurisdiction.
+
+5. It is not inappropriate or improper for a jury to consult a dictionary about the meaning of an ordinary English word which they are told is a question for them (Benbrika v R (2010) 29 VR 593. See also R v Chatzidimitriou (2000) 1 VR 493 (Cummins AJA)).
+
+Private Views and Experiments
+
+1. The jury should be told they must not, either individually or as a group:
+
+- Make a private visit to the scene of the alleged offence;
+
+- Attempt any private experiment concerning any aspect of the case; or
+
+- Cause or request anyone else to do one of these things (R v Skaf (2004) 60 NSWLR 86. See also Juries Act 2000 (Vic) s 78A).
+
+2. The judge should tell the jury that to commit any of these acts would be to change their role from that of impartial jurors to investigators, and would lead them to take into account material that was not properly placed before them as evidence. Such material might require expertise in order to ensure that the inspection or experiment was properly conducted. In addition, the prosecution and the defence would be unaware of the material the jury were taking into account, and would be unable to test it (R v Skaf (2004) 60 NSWLR 86).
+
+3. The jury should also be told that it is only views or experiments which occur in the presence of all jurors, counsel and the judge that are permitted. This allows safeguards to be taken to replicate the conditions which existed at the time of the relevant events. It also allows any relevant differences in the crime scene or in the circumstances of the experiment to be pointed out (R v Skaf (2004) 60 NSWLR 86).
+
+4. See Views for further information concerning legitimate views, experiments, demonstrations and reconstructions.
+
+Jury Room Experiments
+
+1. As material objects produced in evidence and admitted as exhibits are part of the evidence in a trial, the jury are entitled to examine them and have regard to them in reaching their verdict. They may touch and handle them, and may engage in a limited amount of simple experimentation with them (Kozul v R (1981) 147 CLR 221).
+
+2. In conducting such simple experiments, the jury are doing no more than using their own senses to assess the weight and value of the evidence. The results do not stand in place of the evidence – they consist of the juror’s perceptions of the evidence itself (Kozul v R (1981) 147 CLR 221).
+
+3. While the jury may conduct simple experiments in the jury room, they must not conduct experiments in the absence of the parties that go beyond the mere examination and testing of the evidence, and become a means of supplying new evidence (Kozul v R (1981) 147 CLR 221; Hodge v Williams (1947) 47 SR (NSW) 489; Juries Act 2000 (Vic) s 78A).
+
+4. So while the judge may encourage the jury to examine exhibits with a view to testing the evidence given, they should not encourage the jury to conduct experiments which will generate new evidence in the jury room (Kozul v R (1981) 147 CLR 221).
+
+5. It may be necessary to warn the jury of the possible dangers of conducting even simple experiments in the jury room. For example, the present condition of the object experimented with may not be the same as its condition at the relevant time, or the fact to be observed may be such that a layperson might need to have their observation assisted by expert evidence (Kozul v R (1981) 147 CLR 221).
+
+Irrelevance of Sentence
+
+1. The judge should not tell the jury what the consequences of their verdict will be, unless required to do so by statute. This is because the question of sentence is the exclusive province of the trial judge, and is not relevant to the jury’s determination (Lucas v R (1970) 120 CLR 171; Kingswell v R (1985) 159 CLR 264; R v Costi (1987) 48 SASR 269. See Mental Impairment for a statutory exception to this rule).
+
+2. Counsel should also not refer to the penalty prescribed by law for the offence charged, or make any other reference to the consequences which will flow from the jury’s verdict. If they do, the judge should intervene immediately in order to stop counsel, and instruct the jury that such matters are not their concern and are completely irrelevant to any issues they have to determine (Attorney-General for South Australia v Brown [1960] AC 432; R v Costi (1987) 48 SASR 269).
+
+3. Counsel may, however, tell the jury that the accused faces an extremely serious charge, of which the law takes a serious view (R v Neal (1947) 53 ALR (CN) 616a).
+
+4. Neither the judge nor counsel should mention the jury’s right to add a rider to the verdict, or to make a recommendation for mercy (Lucas v R (1970) 120 CLR 171; R v Black [1963] 1 WLR 1311).
+
+5. The judge must not tell the jury that the accused will not be prosecuted again on any other charge related to the matter in issue (R v Morton [2001] QCA 240).
+
+Pre-trial Publicity
+
+1. Where there has been pre-trial publicity about a case, or the people involved in a case, the judge has a responsibility to avoid unfairness to either party (Glennon v R (1992) 173 CLR 592; R v Vjestica [2008] VSCA 47; R v Dupas (2009) 28 VR 380).
+
+2. In most cases, it will be possible to overcome any potential prejudice the accused might suffer due to pre-trial publicity by giving the jury appropriate and thorough directions designed to counteract such prejudice (Dupas v R (2010) 241 CLR 237; Glennon v R (1992) 173 CLR 592; R v Vjestica [2008] VSCA 47; R v Dupas (2009) 28 VR 380). See Dupas v R (2010) 241 CLR 237 for an example of such directions.
+
+3. In determining whether such a direction will be sufficient to counter the effects of pre-trial publicity, jurors should not be regarded as exceptionally fragile and prone to prejudice. It should be assumed that they approach their task in accordance with the oath they take to listen to the directions that they are given, and to determine guilt only on the evidence before them (Dupas v R (2010) 241 CLR 237; Glennon v R (1992) 173 CLR 592; John Fairfax Publications Pty Ltd v District Court of NSW (2004) 61 NSWLR 344; R v Vjestica [2008] VSCA 47; R v Dupas (2009) 28 VR 380).
+
+4. It is not necessary for a judge to be sure that any possible prejudice will be remediable by a warning, so long as they take all appropriate steps available to secure a fair trial (Glennon v R (1992) 173 CLR 592; Murphy v R (1989) 167 CLR 94).
+
+5. If a judge determines that a warning alone will be insufficient to counter the effects of pre-trial publicity, they may conduct the trial in whatever manner is appropriate to counter those effects, within the ordinary procedural constraints. This includes adjourning the trial until the influence of prejudicial publicity subsides (Glennon v R (1992) 173 CLR 592; R v Dupas (2009) 28 VR 380. See also DPP v Dupas [2010] VSC 409).
+
+6. The balancing of the legitimate interests of the accused and the prosecution will, in almost every case, mean that if the proceedings are to be stayed at all, they should only be stayed temporarily and for the minimum period necessary (Glennon v R (1992) 173 CLR 592; R v VPH 4/3/94 NSW CCA; R v Dupas (2009) 28 VR 380. See also DPP v Dupas [2010] VSC 409).
+
+7. However, there may be extreme cases in which a permanent stay may be granted (Dupas v R (2010) 241 CLR 237; Glennon v R (1992) 173 CLR 592).
+
+8. A permanent stay will only be necessary if there is a fundamental defect going to the root of the trial of such a nature that there is nothing the judge can do in the conduct of the trial to relieve against its unfair consequences (Dupas v R (2010) 241 CLR 237; Glennon v R (1992) 173 CLR 592).
+
+9. A permanent stay should not be granted simply because there has been extensive adverse pre-trial publicity about the accused. Any unfair consequences of prejudice or prejudgment arising out of such publicity can be protected against by thorough and appropriate directions to the jury (Dupas v R (2010) 241 CLR 237).
+
+10. In considering whether to grant a permanent stay, judges should take into account the substantial public interest of the community in having those who are charged with criminal offences brought to trial. Fairness to the accused is not the only consideration bearing on a court’s decision as to whether a trial should proceed (Dupas v R (2010) 241 CLR 237).
+
+Notifying the Judge About Irregularities
+
+1. The jury should be directed that if it becomes apparent to any of them, in the course of the trial, that another juror has made an independent inquiry in relation to any aspect of the case, that should be brought immediately to the attention of the judge. This includes discovering that a juror has:
+
+- Made an inquiry about the accused or the background to the offence, or caused someone else to do so;
+
+- Made a private inspection of a relevant site, conducted a private experiment, or caused someone else to do one of these things; or
+
+- Discussed the case with anyone other than the remaining members of the jury (R v Skaf (2004) 60 NSWLR 86).
+
+2. The jury should also be instructed that if it becomes apparent to any juror, in the course of the trial, that any matter which is not in evidence has found its way into the jury room, that should similarly be brought immediately to the attention of the trial judge (R v Skaf (2004) 60 NSWLR 86).
+
+3. The jury should be told that the reason why it is necessary for such matters to be brought to the immediate attention of the judge is that, unless it is known before the end of the trial, it may not be possible to put matters right. This may either lead to an injustice occurring or a retrial becoming necessary (R v Skaf (2004) 60 NSWLR 86).
+
+4. These directions should be expressed in specific terms, rather than simply instructing the jury to bring to the judge’s attention any behaviour among the jurors that causes concern (cf. R v Mirza [2004] 1 WLR 665). Such a general direction may lead to matters being brought to the judge’s attention which would involve inappropriate criticism of fellow jurors, or lead to the disclosure of jury deliberations (R v Skaf (2004) 60 NSWLR 86).
+
+Last updated: 14 May 2021

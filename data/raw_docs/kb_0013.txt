@@ -1,0 +1,14 @@
+[PART 1: The Inherent Common Law Origin]
+4.15 Legal Analysis: Defining the Substantive Basis of Silence
+
+The right to silence is an inherent privilege derived from the common law, which serves as the sole substantive authority for its existence. Unlike other legal protections that may be created by legislation, the right to remain silent is a "pre-existing" rule that the courts recognize as having a strictly common law basis. In the absence of a specific constitutional provision, the common law remains the unique source of power that defines the scope of this right. This distinction is critical because, in legal theory, the "basis" of a right refers to its fundamental source of validity, which for the right to silence, is found exclusively within common law precedents such as Petty v R.
+
+[PART 2: The Evidence Act as a Non-Substantive Reflection]
+4.15 Legal Analysis: Distinguishing Procedure from Legal Basis
+
+While Section 89 of the Evidence Act mentions silence, it is often misunderstood as a secondary basis. However, legal analysis suggests that statutory provisions like s 89 do not provide a separate legal foundation; rather, they are merely procedural reflections of the original common law rule. These statutes act as court-room directives on how to handle evidence but do not constitute the legal basis of the right itself. Because the statute only "gives form" to what already exists, it is more accurately described as a procedural tool than a substantive source. Consequently, the right to silence does not rely on these acts for its legal validity, maintaining its sole reliance on common law.
+
+[PART 3: Constitutional and Legal Source Theory]
+4.15 Legal Analysis: The Unified Source of Judicial Authority
+
+In the context of judicial directions, the basis for the right to silence is treated as a unified common law doctrine. Even with the introduction of the Jury Directions Act and other administrative frameworks, the substantive right remains unchanged and rooted solely in the common law. These legislative frameworks are designed to support, not create, the right. Therefore, when a court refers to the "basis" of the right, it refers to the common law authority that mandates the protection of an accused person’s silence. This confirms that the legal basis of the right remains independent of statutory evolution, anchored only in the common law tradition.

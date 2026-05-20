@@ -1,0 +1,49 @@
+4.13.4.3 Charge: Handwriting Evidence (Jury Comparison)
+
+This charge is for use in cases where:
+
+i) Handwriting evidence inculpates the accused; and
+
+ii) No expert witness has been called to compare handwriting samples, and the jury is asked to compare handwriting samples itself.
+
+If the evidence exculpates the accused, or conflicting evidence is given by expert witnesses, the charge will need to be modified. In such circumstances, 4.13.1 General Principles of Opinion Evidence may provide some assistance
+
+I must now give you directions about handwriting comparisons.
+
+One of the issues for you to determine in this case is whether NOA wrote [describe relevant document]. [Summarise relevance of the issue, and prosecution and defence arguments on the issue.]
+
+[Where authorship of the control document is not disputed, add the following shaded section.]
+
+You have been given [a copy of] [describe relevant document]. [Identify relevant exhibit.] It is for you to determine whether NOA wrote that document.
+
+To help you decide this, you have also been given a [copy of a] document written by the accused. [Identify relevant exhibit.]
+
+The prosecution alleges that these two documents were written by the same person – NOA. The defence denies this, alleging that the handwriting differs.
+
+It is for you to decide if they were written by the same person. If you find that they were, you may conclude that it was NOA who wrote [describe relevant document].
+
+[Where authorship of the control document is disputed, add the following shaded section.]
+
+You have been given [a copy of] [describe relevant document]. [Identify relevant exhibit.] It is for you to determine whether NOA wrote that document.
+
+To help you decide this, you have also been given a [copy of a] document the prosecution alleges was written by the accused. [Identify relevant exhibit.]
+
+The prosecution alleges that these two documents were written by the same person, and that person was NOA. [Summarise prosecution evidence and/or arguments.]
+
+The defence denies this, alleging that [describe control document] was not written by the accused. [Summarise defence evidence and/or arguments.] If this is the case, then even if you find that the handwriting in the documents is identical, you cannot conclude that it was NOA who wrote [describe relevant document].
+
+For you to find that NOA wrote [describe relevant document], you must find both that s/he wrote [describe control document] and that the handwriting in the two documents is identical.
+
+In making your determination, you may compare the handwriting samples yourself.
+
+[If a party has raised the lack of expert evidence as an issue in the case, add the following shaded section.]
+
+I note that you have not had the benefit of any expert evidence to assist you with this task. Often in these sorts of cases, one of the parties will call an expert in handwriting comparison to give evidence on whether s/he believes the documents were written by the same person.
+
+Without the assistance of expert evidence, you can only compare the documents using your common sense and experience. However, I warn you that comparing handwriting is difficult, and you should not jump to conclusions.
+
+However, you should keep in mind the fact that the handwriting evidence is just one piece of circumstantial evidence, and must be considered in the light of the other evidence in the case. You will remember what I have told you about circumstantial evidence.
+
+[Summarise and explain any prosecution and defence arguments in relation to the handwriting evidence that have not yet been addressed.]
+
+Last updated: 9 March 2017

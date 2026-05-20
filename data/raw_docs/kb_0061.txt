@@ -1,0 +1,79 @@
+3.11 Unanimous Verdicts and Extended Jury Unanimity
+
+When to Give the Charge
+
+1. It is appropriate to instruct the jury about the need for unanimity in all cases (R v Rajakaruna (2004) 8 VR 340).
+
+Issues
+
+1. An appropriate person, such as the judge’s associate, should question jurors prior to the judge receiving the verdict, to ensure the decision is unanimous (Milgate v R (1964) 38 ALJR 162; R v Sergi [1974] VR 1).
+
+Extended Jury Unanimity
+
+1. In some cases it may be necessary to direct the jury that they must be unanimous about a particular matter (in addition to being unanimous about whether or not the accused is guilty).
+
+2. In addressing this issue, a distinction is drawn between two types of cases:
+
+1. Those in which alternative bases of guilt are proposed by the prosecution; and
+
+1. Those in which one offence is charged, but a number of discrete acts is relied upon as proof, any of which would entitle the jury to convict (R v Walsh (2002) 131 A Crim R 299; R v Klamo (2008) 18 VR 644; R v Cramp (1999) 110 A Crim R 198; Zandipour v R [2017] VSCA 179).
+
+Alternative Bases of Guilt
+
+3. Where the prosecution has presented alternative bases for a finding of guilt, the need for an expanded direction about unanimity will depend on whether the case involves:
+
+1. Alternative factual bases of liability (e.g. where the accused is charged with culpable driving causing death due either to gross negligence or intoxication); or
+
+2. Alternative legal formulations of liability based on the same or substantially the same facts (e.g. where the accused is charged with unlawful and dangerous act manslaughter and/or manslaughter due to gross negligence) (R v Cramp (1999) 110 A Crim R 198).
+
+4. In the first type of case, the jury must be directed that they need to unanimously agree about at least one of the alleged bases of liability. It is not sufficient for some jurors to find the accused guilty of one basis (e.g. culpable driving due to gross negligence), while others find the accused guilty of the alternative (e.g. culpable driving due to intoxication (R v Beach (1994) 75 A Crim R 447).
+
+5. In the second type of case, there need only be unanimity as to the verdict (e.g. guilty of manslaughter). The basis upon which the accused is found guilty (e.g. due to having committed an unlawful or dangerous act or having been grossly negligent) is irrelevant (R v Clarke and Johnstone [1986] VR 643; R v Isaacs (1997) 41 NSWLR 374).
+
+6. Cases in which the prosecution has argued that the accused could be liable as either a principal or an accessory are an example of the second type of case. The jury therefore does not need to be in unanimous agreement about the capacity in which the accused committed the crime. They merely need to unanimously agree that the accused caused the result, and had the relevant mens rea (R v Giannetto [1997] 1 Cr App 1; R v Leivers and Ballinger [1997] 1 Qd R 649; Dhroso v The King [2024] VSCA 281, [73]-[92]).
+
+7. The key issue in determining which category a case falls into seems to be whether or not the alternative bases involve materially different issues or consequences:
+
+1. If the bases do involve materially different issues or consequences, the jury must be unanimously satisfied that the requirements of at least one of the bases have been met.
+
+3. If the bases do not involve materially different issues or consequences, the jury need only be unanimously satisfied of the verdict: (R v Leivers and Ballinger [1999] 1 Qd R 649; R v Cramp (1999) 110 A Crim R 198; Lanciana v The King [2023] VSCA 78).
+
+8. However, application of this principle can be case and fact specific. For a detailed discussion of this area, see R v Walsh (2002) 131 A Crim R 299 and Lanciana v The King [2023] VSCA 78.
+
+Multiple Discrete Acts
+
+1. When a number of discrete acts are committed, any of which would entitle a jury to convict, the jury may need to be unanimous in its view about at least one of those acts (R v Walsh (2002) 131 A Crim R 299; KBT v The Queen (1997) 191 CLR 417; R v Klamo (2008) 18 VR 644).
+
+2. This will depend on whether those discrete acts go to the proof of an essential ingredient of the crime charged, or merely provide a route by which the jury can find the accused guilty of the crime (R v Walsh (2002) 131 A Crim R 299; R v Klamo (2008) 18 VR 644).
+
+3. If the acts go to the proof of an essential ingredient of the crime, then the jury must be directed that they cannot convict unless they are unanimously agreed upon an act which, in their opinion, constitutes that essential ingredient (R v Klamo (2008) 18 VR 644).
+
+4. By contrast, if the acts do not go to the proof of an essential ingredient of the crime, but merely provide a route by which the jury can find the accused guilty of the crime, then the jury only needs to unanimously agree that the crime was committed (R v Walsh (2002) 131 A Crim R 299).
+
+5. Determining whether the acts go to the proof of an essential ingredient of the crime charged will depend upon the precise nature of the charge, the nature of the prosecution's case and the defence, and what the live issues are at the conclusion of the evidence (R v Walsh *(2002) 131 A Crim R 299).
+
+6. In determining whether acts are relevantly discrete, the judge must look at whether the acts are separated in time or circumstance. In the case of a violent assault measured in second, or even minutes, all of which occurs in the same area, the jury would be entitled to treat the assault as a single transaction and would not need to be unanimous about the parts of the assault which caused the harm alleged (Zandipour v R [2017] VSCA 179; R v McCarthy (2015) 124 SASR 190; R v Heaney (2009) 22 VR 164; Dookhea v R [2016] VSCA 67; Hope v The Queen [2018] VSCA 230, [31]–[33]; Bagster v The King [2024] NSWCCA 224).
+
+7. Even where the jury can treat an event as a continuous transaction, there may be evidence that the harm alleged was caused by a particular part of that transaction. In that situation, individual jurors may have two paths to verdict which do not require unanimity. First, a juror may be satisfied beyond reasonable doubt that the harm was caused by a particular part of the transaction, and that the necessary fault element existed at the moment of that part. Second, a juror may be satisfied that the harm was caused by the transaction as a whole, in which case the juror must find that the fault element existed for the whole of the transaction. The need for a direction on this issue will depend, in part, on whether the accused may have had a different state of mind at different stages of the transaction (see, e.g. Zandipour v R* [2017] VSCA 179).
+
+Cases Requiring Unanimity about Particular Acts
+
+8. Where the accused is charged with persistent sexual abuse of a child under 16 (Crimes Act 1958 s 49J), the prosecution must prove at least 3 separate sexual offences of the relevant kind (see Persistent Sexual Abuse of a Child (From 1/7/17). In such cases, if the prosecution provides evidence of more than 3 acts upon which the accused can be convicted, the jurors must unanimously agree that at least 3 particular acts were committed. It is not sufficient for each juror to find that the accused committed 3 of the alleged acts, if the 3 selected acts differ from juror to juror (see KBT v The Queen (1997) 191 CLR 417).
+
+9. Where the accused is charged with manslaughter by an unlawful and dangerous act, and the prosecution relies on two discrete acts, each of which is capable of constituting the crime charged, the jury must unanimously agree upon which act constitutes the crime (R v Klamo (2008) 18 VR 644). In contrast, where the prosecution relies on a continuing sequence of possible acts, all of which could have caused the death of the deceased, it may not be necessary for the jury to unanimously agree on which act caused death (Bagster v The King [2024] NSWCCA 224, [87]-[89]).
+
+10. In a case of fraudulently inducing investments, where the issue of whether the accused made a false statement (as identified in the particulars) as an inducement to invest was seen to be essential, it was held that the jury had to unanimously agree on a particular false statement (amongst several presented) in order to convict (R v Brown (1984) 79 Cr App R 115).
+
+11. In cases involving fraud (including obtaining financial advantage by deception), it will usually be necessary to direct the jury about the need for unanimity about the acts of fraud if the prosecution particularises multiple discrete acts of fraud (Ardrey v WA [2016] WASCA 154. See also R v Holmes [2006] VSCA 73; Magnus v R (2013) 41 VR 612).
+
+12. However, where there is only one relevant deception for each separate charge, a unanimity direction is not necessary (Magnus v R* (2013) 41 VR 612).
+
+Cases Not Requiring Unanimity About Particular Acts
+
+13. In relation to a charge of stalking (Crimes Act 1958 s 21A), the jury does not need to be unanimous as to the particular acts which constituted the "course of conduct". The requirement for unanimity will be met as long as the jury unanimously agrees that the accused engaged in a course of conduct which included any of the matters set out in the section (R v Hoang (2007) 16 VR 369).
+
+14. In relation to a charge of conspiracy to defraud, there does not need to be unanimous agreement about the particular representations the conspirators agreed to make. The agreement to make any particular representation is not an essential element of the crime, but merely a path to arriving at the objective of the conspirators – obtaining an advantage by fraud (R v Hancock [1996] 2 Cr App R 554; R v Walsh (2002) 131 A Crim R 299).
+
+15. In a case of procuring an advantage by deception by means of a fraudulent claim, where the essential issue was whether the accused made the fraudulent claim (and the particulars of the fraud were simply a matter of evidence), it was held that the jury only had to unanimously agree on the verdict and not on the particulars. Issues such as whether the accused had been fraudulent as to the amount of wages paid, the people employed or the hours worked, were seen to be only incidental, doing no more than providing the jury with alternative routes of arriving at the same result (R v Agbim [1979] Crim LR 171).
+
+Last updated: 4 April 2025

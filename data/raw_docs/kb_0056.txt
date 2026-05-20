@@ -1,0 +1,37 @@
+2.5 Witness Invoking Evidence Act 2008 s 128
+
+1. Evidence Act 2008 s 128 governs the exercise of the privilege against self-incrimination by witnesses. The section provides that:
+
+- a witness may object to giving evidence on the basis that the answer may tend to prove that the witness committed an offence or is liable to a civil penalty;
+
+- the court must determine whether there are reasonable grounds for the objection;
+
+- where the court finds there are reasonable grounds, it must inform the witness that the witness need not give evidence unless required to do so by the court, and that if the witness gives evidence either willingly or as required by the court, then the court will issue a s 128 certificate and the effect of a s 128 certificate
+
+- evidence covered by a s 128 certificate and evidence obtained as a direct or indirect consequence of such evidence cannot be used against the witness, except in proceedings regarding the falsity of the evidence (Evidence Act 2008 s 128)
+
+2. A s 128 certificate is different from an indemnity from prosecution. Witnesses who receive a certificate can still be prosecuted for offences disclosed during their evidence. The certificate merely provides use and derivative use immunity in respect of the witness’ evidence, except in proceedings regarding the falsity of the evidence (Spence v R [2016] VSCA 113, [68]).
+
+3. A judge should correct erroneous statements made by parties about the effect of a s 128 certificate, such as a suggestion that the certificate means the witness is immune from prosecution, or could give false evidence with impunity (Trudigan v WA (2006) 33 WAR 163, [29]–[30]).
+
+Procedure
+
+4. Where it appears to the court that a witness may have the right to claim the privilege against self-incrimination, the judge must satisfy him or herself, in the absence of the jury, that the witness is aware of that right (Evidence Act 2008 s 132).
+
+5. Witnesses who may have the right to claim the privilege against self-incrimination may need independent legal advice to decide whether to exercise that right, whether to volunteer answers under the protection of a s 128 certificate and matters that may be relevant to whether the court should compel an answer in the interests of justice.
+
+6. As a matter of practice, where the issue of self-incrimination arises, the court will need to consider what steps should take place in the presence of the jury and what should occur in the absence of the jury.
+
+7. It is not permissible to draw an adverse inference against a witness from the witness’ claim of the privilege against self-incrimination (R v Roberts (2004) 9 VR 295, [83]).
+
+8. It may therefore be appropriate in some cases to identify in the jury’s absence whether the witness will raise the privilege and whether to grant a s 128 certificate. However, there is no absolute rule that claiming and determining the privilege must occur in the jury’s absence.
+
+Relevance of a s 128 certificate
+
+1. The mere grant of a certificate does not automatically put the witness into a special category where the defence can say that the witness’ evidence is unreliable (Spence v R [2016] VSCA 113, [85]).
+
+2. However, there are cases where it is necessary to inform the jury of the fact that evidence was given under a certificate, as the grant of a certificate may affect the witness’ credibility. Whether the existence of a certificate will require a direction on unreliability will necessarily depend on the facts of the case (Spence v R [2016] VSCA 113, [85]–[87]).
+
+3. Where the jury are informed of a s 128 certificate, the judge should explain the effect of the certificate and explain that the certificate does not provide immunity from prosecution, or allow the witness to lie with impunity because the certificate does not protect against perjury (Spence v R [2016] VSCA 113, [88]).
+
+Last updated: 22 August 2018

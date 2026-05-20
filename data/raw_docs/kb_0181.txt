@@ -1,0 +1,139 @@
+5.3.1 Charge: Joint Criminal Enterprise
+
+This charge only applies to offence committed before 1 November 2014.
+
+NOA has been charged with the offence of NOO. However, it has not been alleged that s/he committed that offence alone. Instead, the prosecution has alleged that s/he committed it together with [insert names of co-offenders]. I must therefore direct you about what is called "joint criminal enterprise".
+
+The law says that if two or more people are part of a "joint criminal enterprise" to commit an offence, then they will all be equally guilty of that offence, regardless of the role they played. This is one of the situations in which the law holds a person responsible for the actions of other people.
+
+In order to find NOA guilty of committing NOO by a joint criminal enterprise, the prosecution must prove the following 4 elements:
+
+One – the accused made an agreement with other people to pursue a joint criminal enterprise, and that the agreement remained in existence when the offence of NOO was committed.
+
+Two – that the accused participated in the joint criminal enterprise in some way.
+
+Three – that, in accordance with that agreement, the parties to the agreement between them performed all of the acts necessary to commit NOO.
+
+Four – that the accused had the state of mind necessary to commit NOO at the time of entering the agreement.
+
+Before you can find NOA guilty of NOO by joint criminal enterprise, you must be satisfied that the prosecution has proven all four of these elements beyond reasonable doubt.
+
+I will now explain each of these elements in more detail.
+
+Agreement to Pursue a Joint Criminal Enterprise
+
+The first element that the prosecution must prove is that the accused made an agreement with other people to pursue a joint criminal enterprise, and that the agreement remained in existence when the offence of NOO was committed.
+
+There are two parts to this element. First, you must be satisfied that the accused came to an understanding or arrangement amounting to an agreement with at least one other person to pursue a joint criminal enterprise.
+
+Such an agreement, understanding or arrangement may be expressly stated, or it may be inferred from the surrounding circumstances. You will recall what I have told you about inferences.
+
+[If the content of the agreement, or the parties’ understanding of the content, is in issue, add the following shaded section.]
+
+The agreement must have been to commit a criminal enterprise. This element will not be satisfied if the accused agreed to pursue some other form of wrongdoing that is not criminal. However, you do not need to find that the parties to the agreement knew that the relevant enterprise would be criminal. This element will be satisfied as long as they agreed to do something which was, in fact, criminal.
+
+Similarly, you do not need to find that all of the parties had the same purpose or intention when forming that agreement, or were all aware of the consequences of their actions. You do not even have to find that they all agreed on the precise terms of the agreement. For this element to be satisfied, you only need to find that they agreed to commit a particular criminal act together.
+
+An example of such an agreement would be where two people agree to commit a bank robbery together, with one of them to buy the gun and give it to the other, who will use it at the bank to steal the money. If they carry out this plan, they would both be equally guilty of the crime of armed robbery.
+
+In this case, the prosecution alleged that [specify parties] made an agreement to [specify foundational crime]. They alleged that this agreement was made [insert prosecution evidence about the formation of the agreement].
+
+[If the defence denies that there was an agreement to pursue a joint criminal enterprise, add the following shaded section.]
+
+The defence denied this, arguing [insert defence evidence and/or arguments].
+
+[If the defence does not deny that there was an agreement, contesting liability on other grounds, add the following shaded section.]
+
+The defence does not deny that such an agreement was made, but argues [outline defence arguments, e.g. "that the accused had withdrawn from that agreement by the time the offence was committed"].
+
+The second part of this element requires the prosecution to prove that the agreement remained in existence when the offence was committed. If there is a possibility that the agreement had been called off prior to that time, or that NOA had withdrawn from that agreement, then this first element will not be met.
+
+[If withdrawal from the agreement is in issue, add the following shaded section.]
+
+In this case, the defence argued that, [while/even if] NOA had made an agreement to pursue a joint criminal enterprise, s/he had withdrawn from that agreement by the time the offence was committed. It is for the prosecution to prove that s/he had not done so.
+
+The law says that if a person is going to withdraw from an agreement to pursue a joint criminal enterprise, his/her withdrawal must be timely and effective. That is, s/he must do everything that s/he can reasonably do to undo the effect of his/her previous agreement and participation, in sufficient time for his/her actions to be effective.
+
+Whether the accused has taken all reasonable steps to undo the effect of his/her previous agreement is a question for you. You must apply your common sense and experience. For example, in some cases it will be sufficient for the accused to take back any tools he or she has provided for the commission of the crime, and to make it clear to the other parties that if they continue with the offence, they do so without his or her approval or support. In other cases it may be necessary for the accused to inform the police of the plan.
+
+It is important to emphasise that it is not for the defence to prove that the accused did everything reasonably possible to withdraw from the agreement. It is the prosecution who must prove that the accused did not withdraw from the agreement in a timely and effective manner.
+
+In this case, the prosecution argued that the accused had not done everything s/he reasonably could to withdraw from the agreement. [Insert prosecution evidence and/or arguments.] The defence denied this, arguing that NOA’s withdrawal was timely and effective. [Insert defence evidence and/or arguments.]
+
+[If it is alleged that the agreement had been cancelled or completed, add the following shaded section.*]
+
+In this case, the defence argued that, while NOA did make an agreement to pursue a joint criminal enterprise, that agreement had been [completed/cancelled] by the time the offence of NOO was committed. [Insert defence evidence and/or arguments.] The prosecution disputed this, alleging that the agreement remained in existence at the relevant time. [Insert prosecution evidence and/or arguments.]
+
+It is important to emphasise that it is not for the defence to prove that the agreement had been [completed/cancelled]. It is the prosecution who must prove that the agreement had not had been [completed/cancelled] by the time the offence was committed.
+
+[If the continuing existence of the agreement is not in issue, add the following shaded section.]
+
+In this case, it is not disputed that, if there was an agreement to pursue a joint criminal enterprise, that agreement remained in existence at the time the offence was committed. The main issue is [outline main issue[s], e.g. "whether or not there was such an agreement"].
+
+It is only if you are satisfied, beyond reasonable doubt, that the accused made an agreement with other people to pursue a joint criminal enterprise, and that the agreement remained in existence when the offence of NOO was committed, that this first element will be met.
+
+Participation
+
+The second element that the prosecution must prove is that the accused participated in the joint criminal enterprise in some way.
+
+That is, the accused must have done something to contribute to that enterprise. It is not enough that s/he merely agreed that it should be carried out.
+
+For this element to be satisfied, you need to find that NOA performed some conduct, either legal or illegal, that in some way contributed to the commission of the crime. It does not matter how important or unimportant those acts were to the completion of the enterprise, as long as s/he did something to assist.
+
+In this case, the prosecution alleged that NOA participated in the agreement by [insert prosecution evidence about NOA’s participation]. The defence denied this, arguing [describe relevant defence evidence and/or arguments].
+
+Performance of the Necessary Acts
+
+The third element that the prosecution must prove is that, in accordance with their agreement, understanding or arrangement, the parties between them performed all of the acts necessary to commit NOO.
+
+There are also two parts to this element. First, you must be satisfied that all of the necessary acts were committed by parties to the agreement. This means that you must find that all of the following matters have been proven beyond reasonable doubt:
+
+[Describe all of the elements of the offence other than the accused’s mental state, explain those elements, and relate them to the facts.]
+
+You do not need to find that each party to the agreement committed each of these acts. Even if they each only played a minor role, this part of the second element will be satisfied as long as all of the necessary acts were committed between the parties to the agreement.
+
+The second part of this element requires the prosecution to prove that the commission of this offence was within the scope of the parties’ agreement. That is, NOA and [identify co-offenders] must have agreed to commit the acts that constitute that offence. NOA will not be guilty of committing NOO by joint criminal enterprise if that offence was outside the bounds of what s/he had agreed to.
+
+To determine what acts were within the scope of the agreement, you must consider the beliefs the parties held at the time they made that agreement. Whatever acts they all believed would or could be committed in the course of carrying out that agreement are to be treated as being within its scope.
+
+[If the offence committed may not have been the primary purpose of the criminal enterprise, add the following shaded section.]
+
+You will notice that I referred to acts that "would or could" be committed in the course of carrying out the agreement. This reflects the fact that the scope of an agreement includes any contingencies that are planned as part of that agreement. It is not limited to the acts the parties are definitely planning to carry out. So even if the parties were hoping to avoid committing a particular act, and did not think it was likely to be necessary, if there was a plan to perform that act if certain circumstances arose, then it should be treated as being within the scope of the agreement.
+
+In this case the prosecution alleged that [describe relevant prosecution evidence and/or arguments]. The defence denied this, arguing [describe relevant defence evidence and/or arguments].
+
+It is only if you are satisfied that the parties performed all of the acts necessary to commit NOO, and that the commission of this offence was within the scope of the parties’ agreement, that this third element will be met.
+
+Accused’s Mental State
+
+The fourth element that the prosecution must prove is that the accused had the state of mind necessary to commit NOO when s/he entered into the agreement.
+
+In this case, that means that NOA must have [describe and explain the relevant state of mind for the substantive offence].
+
+NOA him/herself must have had that state of mind. It will not be sufficient for the prosecution to prove that one of the other parties to the agreement had that state of mind at the time of entering into the agreement.
+
+[If withdrawal is in issue, add the following shaded section.]
+
+As I explained to you earlier, in order to withdraw from a criminal agreement, a person must do everything that s/he can reasonably do to undo the effect of his/her previous agreement. It is not enough that NOA may have privately regretted the agreement or hoped that the offence would not proceed. Even if you find that NOA did have private regrets, you will still find this fourth element established if NOA had the state of mind necessary to commit NOO when s/he entered into the agreement. It is only if s/he made an effective withdrawal from the agreement that this "change of heart" could be relevant to this fourth element.
+
+In this case, the prosecution alleged that NOA had the necessary state of mind. [Describe relevant prosecution evidence and/or arguments.] The defence denied this, arguing [describe relevant defence evidence and/or arguments].
+
+Defences
+
+[If any defences are open on the evidence, insert relevant directions.]
+
+Summary
+
+To summarise, before you can find NOA guilty of NOO by joint criminal enterprise, the prosecution must prove to you beyond reasonable doubt:
+
+One – That NOA was a party to an agreement to pursue a joint criminal enterprise, and that the agreement remained in existence when the offence of NOO was committed; and
+
+Two – That NOA participated in the joint criminal enterprise in some way; and
+
+Three – That, in accordance with the agreement, the parties between them performed all of the acts necessary to commit NOO; and
+
+Four – That NOA had the state of mind necessary to commit NOO when s/he entered into the agreement.
+
+If you find that any of these elements have not been proven beyond reasonable doubt, then you must find NOA not guilty of committing NOO by a joint criminal enterprise.
+
+Last updated: 1 November 2014

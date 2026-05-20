@@ -1,0 +1,11 @@
+4.12.3 Charge: Single Suspect Identification
+
+If the witness was presented with a single suspect to identify, add this section when the identification evidence is given, and again where indicated in the primary charge.
+
+In this case, NOA was identified [insert circumstances of identification].
+
+This type of identification is extremely unreliable, due to the fact that the witness is given just one option, instead of being provided with a selection of suspects to choose from. This greatly increases the likelihood that s/he will mistakenly identify the single suspect as the offender, relying on the fact that the police had narrowed down the selection to that one person.
+
+It may be dangerous to rely on an identification made in these circumstances, or to give such evidence any significant value.
+
+Last updated: 1 July 2013

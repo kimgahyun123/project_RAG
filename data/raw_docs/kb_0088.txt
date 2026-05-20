@@ -1,0 +1,21 @@
+3.7.3 Charge: Liberato Direction
+
+This charge should be given if the case turns on a conflict between the evidence of a prosecution witness and a defence witness, and there is a reasonable likelihood that the jury will think that they must believe the defence evidence to be true before they can acquit the accused. See 1.7 Onus and Standard of Proof for further information.
+
+This direction can be adapted where the relevant ‘defence witness’ is the accused’s account as given in a record of interview.
+
+In this case, there is a clear conflict between the evidence of [insert name of prosecution witness] and the evidence of [insert name of defence witness].
+
+I’m now going to give you a direction of law about how this conflict may affect your verdict.
+
+First, if you believe [insert name of defence witness], then you must find NOA not guilty.
+
+Second, if you think [insert name of defence witness] might be telling the truth, you must find NOA not guilty.
+
+Third, it is not enough that you prefer [insert name of prosecution witness] to the evidence of [insert name of defence witness]. It is not a case of choosing which witness you prefer. You can only find NOA guilty if the prosecution has proved its case beyond reasonable doubt.
+
+Fourth, if you do not believe [insert name of defence witness], you should put that evidence to one side. You must then decide whether the prosecution has proved guilt beyond reasonable doubt based on the evidence you do accept.
+
+In other words, you cannot find NOA guilty of [identify relevant charge(s)] if you decide that [identify relevant witness] is telling the truth, or might be telling the truth.
+
+Last updated: 28 June 2024

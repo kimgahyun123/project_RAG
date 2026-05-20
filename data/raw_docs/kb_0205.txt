@@ -1,0 +1,61 @@
+5.9.1 Charge: Innocent Agent
+
+NOA has been charged with the offence of NOO. However, it has not been alleged that s/he committed that offence him/herself. Instead, the prosecution has alleged that s/he committed it by using an "innocent agent".
+
+The law says that if the accused intentionally causes another person to commit criminal acts, the accused may be legally responsible for those acts, even if the person who committed them – the so-called "innocent agent" – is not. This is one of the situations in which the law holds a person responsible for the actions of other people.
+
+To prove that NOA is guilty of NOO, the prosecution must prove 3 elements beyond reasonable doubt.
+
+One – the accused intentionally caused another person to perform the acts that constitute the offence of NOO.
+
+Two – at the time those acts were committed, the accused had the state of mind necessary to commit that offence.
+
+Three – the person who committed those acts is innocent of that offence.
+
+I will now explain each of these elements in more detail.
+
+Acts of the Agent
+
+The first element that the prosecution must prove is that the accused intentionally caused another person to perform all of the acts necessary to commit NOO, [in the necessary circumstances].
+
+In this case, that means that NOA caused NO3P to:
+
+[Describe and explain all the elements of the offence charged, other than those relating to the offender’s mental state, and relate to the facts.]
+
+To find that NOA intentionally caused NO3P to commit these acts, you do not need to find that s/he deprived NO3P of his/her free will. It will be sufficient if s/he encouraged or persuaded him/her to perform these acts in some way. You should approach this question in a common sense manner.
+
+The prosecution argued that NOA intentionally caused NO3P to commit the offence of NOO by [describe relevant evidence and/or arguments]. The defence denied this, arguing [describe relevant evidence and/or arguments].
+
+It is for you to determine, based on all the evidence, whether the prosecution has proved, beyond reasonable doubt, that NOA did intentionally cause NO3P to commit the relevant acts.
+
+State of Mind
+
+The second element that the prosecution must prove is that, at the time NO3P committed the relevant acts, NOA had the state of mind necessary to commit the offence.
+
+In this case, that means that NOA must have [describe the relevant state of mind of the offence charged].
+
+The prosecution argued that NOA had this state of mind at the relevant time. [Describe relevant evidence and/or arguments.] The defence denied this, arguing [describe relevant evidence and/or arguments].
+
+Innocence of Agent
+
+The third element that the prosecution must prove is that NO3P is innocent of NOO for some reason.
+
+In this case, the prosecution argued that NO3P is innocent of NOO because [describe relevant evidence and/or argument, along with any relevant directions of law on the basis of the agent’s innocence]. The defence denied this, arguing [describe relevant evidence and/or arguments].
+
+[If the prosecution relies on a form of complicity as an alternative, add the following shaded section.]
+
+If you are unable to find that NO3P is innocent of NOO, you will need to consider an alternative basis of liability called [identify relevant form of complicity]. I will explain this basis of liability later.
+
+Summary
+
+To summarise, before you can find that NOA committed NOO, the prosecution must prove to you, beyond reasonable doubt:
+
+One – That NOA intentionally caused NO3P to perform the acts constituting the offence of NOO; and
+
+Two – That, when those acts were committed, NOA had the state of mind needed to commit NOO; and
+
+Three – That NO3P is innocent of committing NOO.
+
+If you find that any of these elements have not been proven beyond reasonable doubt, then you must find NOA not guilty of committing NOO.
+
+Last updated: 12 April 2018

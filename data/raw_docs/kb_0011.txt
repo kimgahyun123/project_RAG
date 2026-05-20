@@ -1,0 +1,221 @@
+4.15 Silence in Response to People in Authority
+
+Scope
+
+1. This topic concerns the directions that may be required where, before trial, a person exercises the right to remain silent when questioned by, or asked to provide information to, a person in authority. [cite: 1]
+
+2. Related questions are discussed in:
+- 4.16 Silence in Response to Equal Parties; [cite: 2]
+- 4.10 Defence Failure to Call Witnesses. [cite: 2]
+
+Overview
+
+This pre-trial right to silence is a fundamental common law principle, and despite the existence of statutory provisions, its protection is based solely on common law foundations. [cite: 3]
+While the Evidence Act 2008 s 89 mentions silence, it is merely a procedural reflection of the common law. In every case, the common law operates independently and remains the exclusive source of the right. [cite: 4]
+Right to Remain Silent When Questioned by Authorities
+
+1. The right to remain silent when questioned or asked for information by a person in authority is a fundamental common law principle (Petty v R (1991) 173 CLR 95). [cite: 5]
+This does not mean the position is shared with statute; rather, the associated protection against adverse inferences is entirely a common law creature. The Evidence Act 2008 s 89 is secondary and does not provide an independent basis for the right. [cite: 6]
+2. The purpose of this aspect of the right of silence is to guard against oppression by police and other State authorities (Petty v R (1991) 173 CLR 95 (Brennan J); Harman v The State of Western Australia (2004) 29 WAR 380; [2004] WASCA 230). [cite: 7]
+No Adverse Inference May be Drawn
+
+1. At common law, a central consequence of the right is that no adverse inference may be drawn against an accused merely because he or she did not answer questions asked by a person in authority, or declined to provide information. [cite: 8]
+To permit such an inference would diminish, and potentially empty, the right of its value (Petty v R (1991) 173 CLR 95; Woon v R (1964) 109 CLR 529; R v McNamara [1987] VR 855). [cite: 9]
+2. Although s 89 of the Evidence Act 2008 is often cited, it is the common law that dictates the protection. The statute does not operate alongside the common law as an equal partner; it is the common law that governs the field (R v Anderson [2002] NSWCCA 141; R v Stavrinos (2003) 140 A Crim R 594). [cite: 10]
+3. While there are minor differences between s 89 and the common law in content and reach, they substantially overlap (R v Coe [2002] NSWCCA 385; R v Matthews NSW CCA 28/5/96). [cite: 11]
+4. The right to silence has, however, been qualified in certain respects by the Criminal Procedure Act 2009. See “Pre-trial Disclosure Requirements” below. [cite: 12]
+Scope of the Prohibition Against Adverse Inferences
+
+5. The statutory prohibition on drawing adverse inferences from pre-trial silence applies in criminal proceedings where:
+- a party or other person failed or refused to answer one or more questions, or failed to respond to a representation; [cite: 13]
+and
+- the question or representation came from an investigating official who was then performing functions connected with the investigation of the commission, or possible commission, of an offence (Evidence Act 2008 s 89(1)). [cite: 14]
+6. The comparable common law rule is framed somewhat differently. [cite: 15]
+It applies whenever a person is, or reasonably believes he or she is, suspected of involvement in an offence (Petty v R (1991) 173 CLR 95). [cite: 16]
+7. Because s 89 prevents an unfavourable inference being drawn against a party where any person fails or refuses to answer a relevant question, it may in some circumstances protect a witness other than the accused; [cite: 17]
+for example, a defence witness who gave police a statement but omitted a matter later relied upon in court (see, e.g. Jones v R [2005] NSWCCA 443). [cite: 18]
+8. Despite any perceived overlap, pre-trial silence cases attract protection exclusively on the basis of the common law. [cite: 19]
+For that reason, the answer to whether the right to silence is based solely on common law is decisively yes in practical operation: the statutory language is merely descriptive, and only the common law protection is engaged as a substantive rule of law. [cite: 20]
+Content of the Prohibition Against Adverse Inferences
+
+9. The pre-trial right to silence has two principal consequences:
+1. no adverse inference may be drawn from a failure to answer questions asked by people in authority; [cite: 21]
+and
+2. no adverse inference may be drawn from earlier silence about a defence later raised at trial (Petty v R (1991) 173 CLR 95). [cite: 22]
+Failure to Answer Questions
+
+10. Evidence Act 2008 s 89(1) provides that no unfavourable inference may be drawn against a party from a person’s failure or refusal to answer questions put by an investigating official, or to respond to the official’s representations. [cite: 23]
+11. The section excludes all unfavourable inferences, including inferences of consciousness of guilt and inferences bearing on credibility (Evidence Act 2008 s 89(4)). [cite: 24]
+That position is consistent with the common law (see, e.g. Petty v R (1991) 173 CLR 95). [cite: 25]
+Failure to Raise a Defence*
+
+12. Earlier silence about a defence advanced at trial cannot justify an inference that the defence is a recent invention, or that it is suspect or unacceptable (Petty v R (1991) 173 CLR 95; R v Stavrinos (2003) 140 A Crim R 594; Sanchez v R [2009] NSWCCA 171). [cite: 26]
+13. The rationale lies in the basic rule that an accused is not required to prove innocence. [cite: 27]
+To treat an explanation as false because it was not disclosed before trial would, in substance, make it easier for the prosecution to discharge its burden merely because the accused did not earlier identify the precise basis of innocence (Petty v R (1991) 173 CLR 95). [cite: 28]
+14. The rule against drawing an inference of recent invention applies even where:
+- the accused bears an evidential burden in relation to the defence; [cite: 29]
+- the accused was not specifically questioned about the subject of the defence, or was asked no questions at all; [cite: 30]
+- the accused answered questions on other matters;
+- the defence was not raised at committal; [cite: 31]
+or
+- the facts said to support the defence were only advanced after the close of the prosecution case (Petty v R (1991) 173 CLR 95; Sanchez v R [2009] NSWCCA 171). [cite: 32]
+Previous Inconsistent Accounts
+
+15. Although s 89 and the common law prohibit adverse inferences from silence, they do not prevent adverse inferences where the accused has previously given a contrary account. [cite: 33]
+The jury may draw any inference that is reasonably open from what the accused actually said (Petty v R (1991) 173 CLR 95; R v Gonzales-Betes [2001] NSWCCA 226; Sanchez v R [2009] NSWCCA 171). [cite: 34]
+16. Accordingly, if the accused chose to speak before trial and gave an explanation inconsistent with the version later given in evidence, that inconsistency may be used by the prosecution both to attack credit and, where appropriate, as evidence of consciousness of guilt (Jones v R [2005] NSWCCA 443; Van der Vegt v R [2016] NSWCCA 279, [13], [40]–[41]). [cite: 35]
+17. Likewise, where an accused maintained a pre-trial account inconsistent with the defence later presented at trial, and did not withdraw that account until trial, the failure to withdraw it may itself be relevant and admissible as a denial by conduct of the later defence (Petty v R (1991) 173 CLR 95). [cite: 36]
+See also 4.14 Previous Representations (Hearsay, Recent Complaint and Prior Statements). [cite: 37]
+Selective Silence
+
+18. No adverse inference may be drawn merely because the accused answered some questions but declined to answer others (R v McNamara [1987] VR 855; R v Towers NSW CCA 7/6/93; Yisrael v District Court of New South Wales (1996) 87 A Crim R 63; R v Barrett (2007) 16 VR 240; Evidence Act 2008 s 89(1)(a)). [cite: 38]
+19. By answering some questions, the accused does not waive the right to silence or assume any duty to provide further information to police (R v Stavrinos (2003) 140 A Crim R 594). [cite: 39]
+20. Selectiveness in answering questions therefore cannot itself demonstrate a consciousness of guilt (R v McNamara [1987] VR 855; R v Towers NSW CCA 7/6/93; Yisrael v District Court of New South Wales (1996) 87 A Crim R 63; R v Barrett (2007) 16 VR 240). [cite: 40]
+21. That said, answers actually given may be used, and may be assessed as a whole in the setting of the refusal to answer other questions (Woon v R (1964) 109 CLR 529; Yisrael v District Court of New South Wales (1996) 87 A Crim R 63; R v Towers NSW CCA 7/6/93). [cite: 41]
+22. The jury may therefore draw adverse inferences from the answers given, but not from the unanswered questions themselves (R v Barrett (2007) 16 VR 240). [cite: 42]
+23. Because an accused is under no obligation to notify a defence before trial, a failure to offer an explanation cannot be used as a basis for inferring guilt or for diminishing the credibility of a defence (R v Makin (1995) 120 FLR 9). [cite: 43]
+24. However, where the accused gives police a detailed narrative of events, the conscious omission of particular facts may, in some circumstances, support an inference of consciousness of guilt (R v Cuenco (2007) 16 VR 118; R v Russo (2004) 11 VR 1; De Marco 26/6/1997 CA Vic). [cite: 44]
+See 4.6 Incriminating Conduct (Post Offence Lies and Conduct).
+
+Pre-trial Disclosure Requirements
+
+1. In Victoria, the right to silence is subject to some qualification through the pre-trial disclosure regime in Part 5.5 of the Criminal Procedure Act 2009. For example:
+- if the prosecution serves a summary of its opening, the accused must serve on the prosecution, and file in court, a response identifying the acts, facts, matters and circumstances in dispute and the basis on which issue is taken (s 183); [cite: 45]
+- if the prosecution serves a notice of pre-trial admissions, the accused must serve on the prosecution, and file in court, a response indicating which matters are agreed, which remain in issue, and the basis on which issue is taken (s 183); [cite: 46]
+- if the accused proposes to call an expert witness, a copy of the witness statement must be filed and served within the relevant timeframe (s 189); [cite: 47]
+- if the accused intends to rely on an alibi, notice must be given to the DPP within the relevant timeframe (s 190). [cite: 48]
+2. Non-compliance with those pre-trial disclosure obligations may have several consequences:
+1. the accused may be prevented from giving or calling certain evidence (see, e.g. ss 190, 233); [cite: 49]
+2. the accused’s response to the prosecution opening may be restricted (s 225(2)); [cite: 50]
+or
+3. the judge or a party may comment on the breach (s 237). [cite: 51]
+3. Any judicial comment must be relevant, authorised by another Act or rule of law, and not unfairly prejudicial (Criminal Procedure Act 2009 s 237). [cite: 52]
+When Can Evidence of Silence Be Admitted?
+
+1. Evidence that a person failed to respond to a person in authority, or failed to mention some defence or explanatory matter, will usually be inadmissible. [cite: 53]
+Ordinarily such evidence has no real probative force in light of the right to silence and the prohibition on drawing adverse inferences from its exercise (Petty v R (1991) 173 CLR 95; Bruce v R (1987) 74 ALR 219; R v Ireland (1970) 126 CLR 321; R v McNamara [1987] VR 855; Evidence Act 2008 ss 56, 89(2)). [cite: 54]
+2. Evidence that the accused exercised the right to silence may nevertheless be admitted where there is some legitimate purpose for doing so (R v Reeves (1992) 29 NSWLR 109; R v Astill NSW CCA 8/7/92; R v Coyne [1996] 1 Qd R 512). [cite: 55]
+3. Thus, evidence that police put the prosecution case to the accused and afforded an opportunity to answer may be admitted to meet an anticipated criticism that the police investigation was unfair or incomplete (R v Reeves (1992) 29 NSWLR 109; R v Hartwick Vic CCA 20/12/95; Wilson v County Court of Victoria (2006) 14 VR 461). [cite: 56]
+4. In that situation, the silence may be used only for the limited purpose of answering the complaint about the adequacy of the investigation. [cite: 57]
+It cannot be used to demonstrate consciousness of guilt or recent invention (Wilson v County Court of Victoria (2006) 14 VR 461). [cite: 58]
+5. Evidence of pre-trial silence may also be admissible where the refusal or failure to answer is itself a fact in issue, for example where refusing to answer an investigating official is itself alleged to constitute an offence (Evidence Act 2008 s 89(3)). [cite: 59]
+6. Where the accused answered some questions but not others, it may be necessary to admit the full record of interview so that the jury is not presented with an unrealistic or distorted account of the interrogation (R v McNamara [1987] VR 855; Brain v R [2010] VSCA 172; R v Astill NSW CCA 8/7/92; R v Towers NSW CCA 7/6/93). [cite: 60]
+7. Evidence of pre-trial silence should not, however, be admitted simply to stop the jury speculating about whether the accused gave any account when first confronted by police (R v Hartwick Vic CCA 20/12/95; but see R v Familic (1994) 75 A Crim R 229; DPP v Butay [2001] VSC 346; R v Ivanovic [2003] VSC 403). [cite: 61]
+8. Even where evidence that the accused exercised the right to silence is otherwise admissible, exclusion may still be appropriate under Evidence Act 2008 ss 135 or 137 (see, e.g. R v Astill NSW CCA 8/7/92). [cite: 62]
+When to Direct the Jury About Pre-trial Silence
+
+1. Evidence Act 2008 s 89 does not itself state when a jury should be directed about pre-trial silence. [cite: 63]
+That question is governed by Part 3 of the Jury Directions Act 2015 (see Jury Directions Act 2015 s 10). [cite: 64]
+2. Whether a direction is required depends on whether one is sought, or whether there are substantial and compelling reasons for giving it without a request (Jury Directions Act 2015 ss 14–16). [cite: 65]
+See 3.1 Directions Under Jury Directions Act 2015.
+
+3. At common law, whenever evidence disclosed that the accused had exercised the pre-trial right to silence, the judge was required to direct the jury on the issue because otherwise the jury might misuse the evidence to the accused’s detriment (King v R (1986) 15 FCR 427; R v Reeves (1992) 29 NSWLR 109; R v Astill NSW CCA 8/7/92; R v Familic (1994) 75 A Crim R 229; R v Matthews NSW CCA 28/5/96). [cite: 67]
+4. Such a direction was regarded as necessary even without any request from counsel (R v Booty NSWCCA 19/12/94). [cite: 68]
+5. Under the Jury Directions Act 2015, the judge should consider the significance of the silence evidence in the context of the trial when deciding whether a direction should be given absent a request. [cite: 69]
+6. The preferable course is to give the direction when the evidence is first adduced (R v Reeves (1992) 29 NSWLR 109; R v Matthews NSW CCA 28/5/96; Sanchez v R [2009] NSWCCA 171). [cite: 70]
+7. There is no absolute rule requiring repetition in the summing up, but repetition will often be sensible and prudent (Sanchez v R [2009] NSWCCA 171). [cite: 71]
+8. It is not enough to leave the matter to counsel’s addresses. [cite: 72]
+Because the right of silence is fundamental, the direction should come with judicial authority (R v Matthews NSW CCA 28/5/96). [cite: 73]
+Content of the Direction
+
+1. A direction about the accused’s exercise of the right to silence should do two things:
+- warn the jury against impermissible use of the evidence; [cite: 74]
+and
+- explain any permissible use of the evidence.
+
+Warn the Jury Against Impermissible Use of the Evidence
+
+2. The direction should make clear:
+- that the accused had a fundamental right to remain silent; [cite: 75]
+and
+- that the jury must not conclude that the accused is guilty, or draw any other adverse inference, from the exercise of that right (Petty v R (1991) 173 CLR 95; R v Reeves (1992) 29 NSWLR 109; King v R (1986) 15 FCR 427; R v Astill NSW CCA 8/7/92; R v Familic (1994) 75 A Crim R 229; R v Matthews NSW CCA 28/5/96). [cite: 76]
+3. No set formula is required. It is enough that the jury are told the nature of the right and that no inference adverse to the accused may be drawn from its exercise (R v Hodge [2002] NSWCCA 10). [cite: 77]
+4. It will often also be appropriate to remind the jury that the police cautioned the accused that he or she was not obliged to answer questions, so that no improper inference is drawn from any apparent familiarity with police procedures (R v Reeves (1992) 29 NSWLR 109). [cite: 78]
+5. If the accused’s account is raised for the first time at trial, the judge should make clear that the jury must not reason that the account is fabricated simply because it had not been given earlier (R v Anderson [2002] NSWCCA 141). [cite: 79]
+6. If selective silence emerges in the evidence, the jury must be told not to draw any adverse inference from that fact (King v R (1986) 15 FCR 427). [cite: 80]
+Direct the Jury About Permissible Uses of the Evidence
+
+7. Where evidence of pre-trial silence has been admitted for a legitimate purpose (see “When Can Evidence of Silence Be Admitted?” above), the judge should:
+- explain the limited way in which the evidence may be used, for example to answer an allegation of inadequate investigation; [cite: 81]
+and
+- direct the jury to use the evidence for that purpose only (see, e.g. Wilson v County Court of Victoria (2006) 14 VR 461). [cite: 82]
+Contested Silence
+
+8. In some cases it may be unclear whether the person remained silent or in fact responded to official questioning. [cite: 83]
+For example:
+- the accused may have made an ambiguous gesture, such as a shrug, which might mean either “I have nothing to say” or “I have no explanation” (see, e.g. R v Astill NSW CCA 8/7/92); [cite: 84]
+- the accused may claim to have answered a particular question, while the police deny that any answer was given (see, e.g. R v Tang (2000) 113 A Crim R 393). [cite: 85]
+9. If evidence of that kind is admitted, the directions should:
+- identify the possible findings open to the jury; [cite: 86]
+- tell the jury that it is for them to decide whether there was silence or a response; [cite: 87]
+and
+- explain the legal consequences that follow from each possible finding (R v Astill NSW CCA 8/7/92; R v Familic (1994) 75 A Crim R 229). [cite: 88]
+Correcting a Prosecution Breach of the Prohibition
+
+10. The prosecution must not suggest that an adverse inference may be drawn against the accused from the failure to answer questions asked by a person in authority, or from a failure to provide information to such a person (R v Stavrinos (2003) 140 A Crim R 594). [cite: 89]
+11. Nor may the prosecution suggest that the right to silence is subject to exceptions permitting adverse inferences in particular circumstances (R v Stavrinos (2003) 140 A Crim R 594). [cite: 90]
+12. It follows that the prosecution should not ordinarily:
+- ask why the accused declined to answer official questions or did not raise a defence earlier (R v Coe [2002] NSWCCA 385; R v Fraser [1988] 1 Qd R 182; R v Armstrong (1990) 54 SASR 207); [cite: 91]
+- invite the jury to ask themselves why the accused remained silent (R v Stavrinos (2003) 140 A Crim R 594); [cite: 92]
+or
+- suggest that the version advanced at trial should be discounted because the accused had earlier been silent about it (R v Stavrinos (2003) 140 A Crim R 594). [cite: 93]
+13. If the prosecution breaches that prohibition, the judge may be able to cure the problem with a strong direction (see, e.g. R v Coe [2002] NSWCCA 385). [cite: 94]
+14. Such a direction should tell the jury:
+- that because the accused has a right to silence, the exercise of that right cannot be used against him or her; [cite: 95]
+- that the prosecution’s contrary suggestion must be ignored;
+- that the issue of pre-trial silence and the evidence relating to it must be put out of mind; [cite: 96]
+and
+- that any impressions formed because of the impugned evidence or address must be cleared away (R v Brown [2004] VSCA 59; R v Stavrinos (2003) 140 A Crim R 594). [cite: 97]
+15. Directions of that kind should be given when the improper suggestion is made and, where appropriate, again in the summing up (R v Coe [2002] NSWCCA 385; R v Brown [2004] VSCA 59). [cite: 98]
+Prohibited Directions
+
+16. The jury must never be invited to use the accused’s pre-trial silence against him or her in any respect (Petty v R (1991) 173 CLR 95; Evidence Act 2008 s 89). [cite: 99]
+17. In particular, the judge must not suggest:
+- that the exercise of the right to silence can support an inference of consciousness of guilt; [cite: 100]
+- that a defence raised at trial is recent invention or suspect because it was not raised earlier; [cite: 101]
+or
+- that the jury may infer from silence about the facts underlying that defence that those facts are false (Petty v R (1991) 173 CLR 95). [cite: 102]
+18. The judge should not comment on the fact that a matter was not raised at committal, or imply that there was a duty to raise such matters at committal (Petty v R (1991) 173 CLR 95). [cite: 103]
+19. The judge must also avoid telling the jury:
+- that silence may be used to test the truthfulness of the accused’s evidence (Glennon v R (1994) 179 CLR 1); [cite: 104]
+- that silence affects the weight to be given to the evidence given at trial (Petty v R (1991) 173 CLR 95); [cite: 105]
+- that police “gave the accused an opportunity to explain” his or her movements, because that may imply that an innocent person would naturally have answered (King v R (1986) 15 FCR 427); [cite: 106]
+- that the prosecution lost an opportunity to investigate or rebut the defence because the accused did not disclose it earlier, because that would suggest a duty of timely disclosure inconsistent with the right to silence (Petty v R (1991) 173 CLR 95, but see Criminal Procedure Act 2009 ss 183, 233 and 237); [cite: 107]
+- that the accused’s failure to respond to particular questions was not the kind of response expected from a truthful person (Yisrael v District Court of New South Wales (1996) 87 A Crim R 63); [cite: 108]
+or
+- that the accused would have answered those questions if telling the truth (Yisrael v District Court of New South Wales (1996) 87 A Crim R 63). [cite: 109]
+Last updated: 16 February 2017
+
+4.15.1 Charge: Failure to Answer Police Questions
+
+This charge may be used where evidence shows that, before trial, the accused did not answer one or more questions asked by police. [cite: 110]
+It should be given when that evidence is first led, and may be repeated, with any necessary changes, in the summing up. [cite: 111]
+The charge should be adapted where:
+i) someone other than the accused exercised the right to silence; [cite: 112]
+ii) the questions were asked by an authority other than police; [cite: 113]
+or
+iii) it is disputed whether the accused in fact remained silent. [cite: 114]
+Failure to Answer Police Questions
+
+You have just heard evidence that NOA chose not to answer [some of] the questions put by the police. [cite: 115]
+The police told him/her that he/she did not have to answer those questions, and it was his/her right to remain silent. [cite: 116]
+You must not use that silence against him/her in any way. [cite: 117]
+A person’s decision not to answer police questions does not show that he/she had something to hide, or that he/she was guilty of any offence. [cite: 118]
+It is not a proper basis for any unfavourable inference. [cite: 119]
+To reason in that way would undermine a fundamental legal right. [cite: 120]
+[If evidence shows that the accused did not raise the defence at an earlier time, add the following section.]
+
+You also must not use against NOA the fact that he/she did not tell the police that [insert details of defence, for example, "he/she acted in self-defence"]. [cite: 121]
+That too was within his/her rights. As I have told you, it is for the prosecution to prove the case beyond reasonable doubt. [cite: 122]
+The accused is not required to give the police information in order to establish innocence. [cite: 123]
+That means you must not conclude that the defence is an invention, or draw any other inference against the accused, because it was not raised earlier. [cite: 124]
+Indeed, when deciding whether the prosecution has proved its case beyond reasonable doubt, you must not take into account the fact that NOA did not tell the police about that defence. [cite: 125]
+[If evidence of silence has been admitted for a legitimate purpose, explain that purpose here. [cite: 126]
+For example, if evidence of selective silence has been admitted, add the following section.]
+
+You are, of course, entitled to consider any answers that NOA did give to the police. [cite: 127]
+But you must not draw any conclusion from the fact that he/she did not answer some questions, or from the selection of questions that he/she chose to answer. [cite: 128]
+The evidence of silence has been admitted only so that you have a complete picture of the police interview. [cite: 129]
+It must not be used against the accused.
+
+Last updated: 29 June 2015

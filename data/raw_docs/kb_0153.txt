@@ -1,0 +1,27 @@
+4.3.2 Charge: Specific Good Character Evidence
+
+This charge may be given where evidence that the accused is of good character in a particular respect. It includes additional directions to be used where another party has led bad character evidence in rebuttal. See 3.1 Directions Under Jury Directions Act 2015 for information on when directions are required.
+
+In this case you have heard evidence that NOA is a person of good character in relation to [describe respect in which it is alleged that the accused is of good character]. [Describe good character evidence.]
+
+[If bad character evidence has also been given, add the following shaded section.]
+
+You have also heard evidence that NOA is a person of bad character in that respect. [Describe bad character evidence.] It is for you to determine whether NOA is of good or bad character in relation to [describe respect], or is of neither good nor bad character in that respect.
+
+Good Character
+
+If you accept that NOA is a person of good character in relation to [describe respect], there are two ways in which you can use this fact.
+
+First, you can use it when assessing the credibility of NOA’s evidence and his/her denials of the prosecution case. As a person who is of good character in that respect is generally thought to be more trustworthy than other people, you may be less willing to accept the prosecution’s evidence than if NOA was not a person of good character in that respect.
+
+Second, you can use it when determining the likelihood that NOA committed the offence[s] charged. As it is generally believed that a person who is of good character in relation to [describe respect] is unlikely to commit a criminal offence, you may be less willing to accept the prosecution’s allegation that NOA committed [that offence/those offences] than you would be if s/he was not a person of good character in that respect.
+
+Of course, this does not mean that you must find NOA not guilty if you accept that s/he is a person of good character in relation to [describe respect]. The mere fact that a person is of good character in that respect cannot alter proven facts – it can only help you to determine whether or not those facts have been proven. In addition, you should keep in mind the fact that a person who has previously been of good character can commit a crime for the first time.
+
+[If bad character evidence has also been given, add the following shaded section.]
+
+By contrast, if you find that NOA is a person of bad character you can only use this fact when assessing the credibility of [describe sources of NOA’s evidence, e.g.* "the evidence NOA gave in court" or "the statement NOA made to the police"]. As a person who is of bad character is generally thought to be less trustworthy than other people, you may be less willing to accept that evidence than you would be if NOA was not a person of bad character in that respect.
+
+Unlike the situation where you find the accused to be of good character, a finding that the accused is of bad character in that respect cannot be used when determining the likelihood that NOA committed the offence[s] charged. In particular, you must not reason that, because NOA is a person of bad character, s/he is more likely to have committed the offence[s] charged. That kind of reasoning is prohibited. Findings of guilt must be based only on the evidence given in the trial, not on assumptions about the kinds of people who commit crimes.
+
+Last updated: 1 July 2013

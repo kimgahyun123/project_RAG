@@ -1,0 +1,129 @@
+2.3.1 Alternative Arrangements
+
+When Can Alternative Arrangements Be Made?
+
+1. While ordinarily witnesses must give evidence in the courtroom in accordance with normal court procedures, the Criminal Procedure Act 2009 provides that alternative arrangements can be made if the proceedings relate (wholly or partly) to:
+
+- A "sexual offence"; or
+
+- An offence where the conduct constituting the offence consists of "family violence" within the meaning of the Family Violence Protection Act 2008;
+
+- An offence against section 17(1) or 19 of the Summary Offences Act 1966 (Criminal Procedure Act 2009 ss 359, 360).
+
+2. A direction requiring the use of alternative arrangements may be made on the application of a party or on the court’s own motion (Criminal Procedure Act 2009 s 337(1)).
+
+What is a "Sexual Offence"?
+
+3. A "sexual offence" is defined as:
+
+(a) an offence against–
+
+(i) a provision of Subdivision (8A), (8B), (8C), (8D), (8E), (8F) or (8FA) of Division 1 of Part I of the Crimes Act 1958; or
+
+(ii) section 327(2) (failure to disclose a sexual offence committed against a child under the age of 16 years) of the Crimes Act 1958; or
+
+(iii) section 5(1), 6(1), 7(1), 8(1), 9(1) or 11(1) of the Sex Work Act 1994;
+
+(b) an offence an element of which involves-
+
+(i) any person engaging in sexual activity; or
+
+(ii) any person taking part in a sexual act; or
+
+(iii) commercial sexual services; or
+
+(iv) a sexual performance involving a child;
+
+(c) an offence an element of which involves-
+
+(i) an intention that any of the conduct referred to in paragraph (b) is to occur; or
+
+(ii) soliciting, procuring, enabling or threatening any of the conduct referred to in paragraph (b); or
+
+(iii) inducing or knowingly allowing a child to enter or remain on premises so that any of the conduct referred to in paragraph (b) may occur;
+
+(d) an offence an element of which involves child abuse material;
+
+(e) an offence an element of which involves indecency;
+
+(f) an offence of attempting to commit, or of incitement or conspiracy to commit, an offence referred to in paragraph (a), (b), (c), (d) or (e);
+
+(g) an offence against section 49C(2) (failure by person in authority to protect child from sexual offence) of the Crimes Act 1958 as in force before the commencement of section 16 of the Crimes Amendment (Sexual Offences) Act 2016 (Criminal Procedure Act 2009 s 4).
+
+4. An offence against the Sex Work Act 1994 that is not listed in section 4(1)(a)(iiii) is not a sexual offence for the purpose of the Criminal Procedure Act 2009.
+
+What is a "Family Violence" Offence?
+
+5. Under the Family Violence Protection Act 2008, "family violence" is defined as:
+
+- Behaviour towards a "family member" that:
+
+- Is physically or sexually abusive;
+
+- Is emotionally or psychologically abusive;
+
+- Is economically abusive;
+
+- Is threatening;
+
+- Is coercive;
+
+- In any other way controls or dominates the family member and causes the family member to fear for the safety or wellbeing of the family member or another person; or
+
+- Behaviour that causes a child to hear or witness, or otherwise be exposed to the effects of, the abovementioned behaviour (Family Violence Protection Act 2008 s 5(1)).
+
+6. The definition of "family violence" explicitly includes the following kinds of behaviour:
+
+- Assaulting or causing personal injury to a family member, or threatening to do so;
+
+- Sexually assaulting a family member or engaging in other forms of sexually coercive behaviour, or threatening to do so;
+
+- Intentionally damaging a family member’s property, or threatening to do so;
+
+- Unlawfully depriving a family member of his or her liberty, or threatening to do so;
+
+- Causing or threatening to cause the death of, or injury to, an animal so as to control, dominate or coerce the family member (Family Violence Protection Act 2008 s 5(2)).
+
+7. Behaviour may constitute family violence even if it would not constitute a criminal offence (Family Violence Protection Act 2008 s 5(3)).
+
+Types of Alternative Arrangements
+
+1. Criminal Procedure Act 2009 s 360 provides a non-exhaustive list of alternative arrangements that may be made in relation to any witness (including the complainant) who gives evidence in a proceeding that relates (wholly or partly) to a sexual offence or a family violence offence. These include:
+
+- Permitting the evidence to be given from a place other than the courtroom by means of technology such as closed-circuit television;
+
+- Using screens to remove the accused from the witness’s direct line of vision;
+
+- Permitting a person chosen by the witness and approved by the court to be beside the witness while he or she is giving evidence, for the purpose of providing emotional support ("emotional support person");
+
+- Allowing only specified people to be present when the witness is giving evidence;
+
+- Requiring legal practitioners not to robe;
+
+- Requiring legal practitioners to be seated while examining or cross-examining the witness.
+
+2. If evidence is given from a place other than the courtroom, the court must direct that the evidence be recorded (Criminal Procedure Act 2009 s 362).
+
+Requirement to Use Alternative Arrangements for Complainants
+
+1. In proceedings that relate (wholly or partly) to a sexual offence or a family violence offence, the court must direct that the complainant’s evidence be given from a place other than the courtroom, unless:
+
+- The prosecution applies for the complainant to give evidence in the courtroom;
+
+- The court is satisfied that the complainant is aware of his or her right to give evidence from another place; and
+
+- The court is satisfied that the complainant is able and wishes to give evidence in the courtroom (Criminal Procedure Act 2009 s 363).
+
+2. If the court allows the complainant to give evidence in the courtroom, it must direct that a screen be used to remove the accused from the complainant’s direct line of vision, unless it is satisfied that the complainant is aware of the right to use a screen and does not wish to do so (Criminal Procedure Act 2009 s 364).
+
+3. Regardless of the location from which the complainant gives evidence, the court must direct that he or she be permitted to have an emotional support person beside him or her when giving evidence, unless it is satisfied that the complainant is aware of the right to have an emotional support person with him or her, and he or she does not want such a person to be present (Criminal Procedure Act 2009 s 365).
+
+4. Where the complainant is a child or has a cognitive impairment, his or her evidence must be pre-recorded at a special hearing, unless the court directs otherwise (Criminal Procedure Act 2009 ss 369–370). The alternative arrangement provisions continue to apply to such complainants to the extent that they are relevant.
+
+Jury Directions
+
+5. Following the commencement of the Jury Directions and Other Acts Amendment Act 2017 on 1 October 2017, the Criminal Procedure Act 2009 no longer specifies any jury directions that are necessary when alternative arrangements are used.
+
+6. The statutory jury directions in relation to alternative arrangements were repealed on the basis that mandatory directions were unnecessary because the special hearing procedure was commonplace, and to reduce the risk that a direction about the need to treat special hearing evidence the same way as other evidence would operate perversely by prompting jurors to treat special hearing evidence as unusual (Jury Directions and Other Acts Amendment Bill 2017 Explanatory Memorandum, clause 13).
+
+Last updated: 19 March 2018

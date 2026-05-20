@@ -1,0 +1,39 @@
+2.5.2 Charge: Explanation of Evidence Act 2008 to a Witness
+
+This script may be adapted where a judge becomes aware that a witness may have grounds for making an objection under Evidence Act 2008 s 128 and needs to explain the effect of that section. The court must satisfy itself that the witness is aware of the effect of Evidence Act 2008 s 128 in the absence of the jury: Evidence Act 2008 s 132.
+
+NOW, I have sent the jury out because the law requires me to ensure that you are aware of your rights to object to giving evidence.
+
+The [prosecution/defence] will soon be asking you questions about [identify relevant topic].
+
+The law says that you may object to answering these questions on the ground that your answers may tend to prove that you have committed an offence.
+
+If you do not object to those questions on this basis, then the trial will proceed and you must answer the questions.
+
+If you object to answering, then I will need to decide whether there are reasonable grounds for your objection. I will do this in the absence of the jury.
+
+If I find that you do not have reasonable grounds for objecting, then I will override the objection and you will need to answer the question.
+
+If I find that you have reasonable grounds for objecting, I will uphold the objection. At that point, I will need to consider what kind of offence you may have committed. If it is an offence in another country, then that is the end of the matter – You will not need to give evidence on that topic.
+
+However, if it is an offence against the law of Australia, then you will not need to give the evidence unless I require you to do so. If you do give the evidence, either voluntarily or because I require you to, the court will issue an Evidence Act certificate.
+
+An Evidence Act certificate has the effect that your answers given in this proceeding cannot be used in other proceedings and no evidence can be led which is obtained as a direct or indirect consequence of your evidence today, except in proceedings where you are charged with giving false evidence. In other words, a certificate means that your answers today cannot be used against you, unless you give false evidence.
+
+I said a moment ago that if I uphold your objection, then you not need to give the evidence unless I require you to do so. The law allows me to find that, even though you have reasonable grounds for objecting to answering a question because it may show you have committed an offence, the interests of justice require me to insist that you give evidence. If we get to that point, then I will hear what the prosecution and defence have to say about the need for your evidence, and what you have to say about what the interests of justice require.
+
+I’m now going to ask you some questions so that I can satisfy myself that you understand your right to object, and you understand what a certificate to protect your answers does.
+
+[The judge will then ask the witness whether he or she understands this explanation. The judge may use closed or open questions. If the judge chooses to use open-ended questions, the following sample questions may be adapted:
+
+- Do you understand that you can object to answering questions because the answers may show that you committed an offence?
+
+- If you do object on this basis, what will happen?
+
+- If I uphold your objection, but you end up giving evidence anyway, what can the prosecution do with your answers?
+
+- If you object to giving evidence, I give you a certificate and you give false evidence, what can the prosecution do?]
+
+[Once the witness has confirmed that he or she understands the objection and certificate process, the judge will need to decide whether to have the witness questioned on voir dire to discover if the witness will raise an objection, or whether the objection should be made in the presence of the jury.]
+
+Last updated: 22 August 2018

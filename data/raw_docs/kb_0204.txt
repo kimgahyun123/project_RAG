@@ -1,0 +1,59 @@
+5.9 Innocent Agent (Victorian Offences)
+
+Overview
+
+1. In some cases a person will intentionally cause the physical elements of an offence to be committed by someone who will him/herself be innocent of that offence (an "innocent agent"). In such cases, the person who caused the innocent agent to act in that way will be guilty as a principal offender. The actions of the innocent agent will be attributed to him/her (Osland v R (1998) 197 CLR 316; R v Hewitt [1997] 1 VR 301; R v Cogan & Leak [1976] QB 217; White v Ridley (1978) 140 CLR 342).
+
+2. The accused’s conduct in an innocent agent case will often be similar to that of a person who assists, encourages or directs the commission of an offence (see 5.2 Statutory Complicity (From 1/11/14)). However, the accused’s liability in innocent agent cases is primary rather than derivative because the agent is not criminally responsible for the relevant conduct (R v Hewitt [1997] 1 VR 301).
+
+3. The innocent agent doctrine is not concerned with a formal relationship of principal and agent. For that reason, it is sometimes referred to as the doctrine of "innocent instrument" (White v Ridley (1978) 140 CLR 342) or "non-responsible agent" (Osland v R (1998) 197 CLR 316 (McHugh J)).
+
+4. To establish liability by way of the innocent agent doctrine, the prosecution must prove that:
+
+1. The accused intentionally caused a person to perform the acts which constitute the offence charged, in the circumstances necessary for the commission of that offence;
+
+1. At the time the person performed those acts, the accused had the state of mind necessary to commit the offence; and
+
+2. The agent is innocent of the offence (R v Hewitt [1997] 1 VR 301; R v Cogan & Leak [1976] QB 217; Matusevich v R (1977) 137 CLR 633; White v Ridley (1978) 140 CLR 342).
+
+5. The accused may commit an offence using an innocent agent even if, for some legal reason, the accused could not commit the offence him/herself (see, e.g. R v Cogan & Leak [1976] QB 217).
+
+Causing the Agent to Perform the Acts Constituting the Offence
+
+1. There are three aspects to the first element:
+
+1. The innocent agent must have performed all of the acts necessary for the offence to be committed, in the necessary circumstances; and
+
+1. The accused’s conduct must have caused the innocent agent to perform the relevant acts; and
+
+2. The accused’s conduct must have been intentional.
+
+2. The innocent agent does not need to have had the state of mind necessary for the commitment of the offence. It is the accused who must have had the requisite mental state (see below).
+
+3. The accused does not need to be present when the offence is committed (White v Ridley (1978) 140 CLR 342; Matusevich v R (1977) 137 CLR 633).
+
+4. It is a question of fact for the jury whether the accused’s conduct "caused" the innocent agent to perform the relevant acts. This should be assessed in a common sense manner (R v Hewitt [1997] 1 VR 301).
+
+5. The prosecution does not need to establish that the accused’s acts deprived the innocent agent of his/her free will. An accused may, for example, induce the agent to perform the physical acts by some form of deception (R v Hewitt [1997] 1 VR 301; White v Ridley (1978) 140 CLR 342).
+
+6. The innocent agent doctrine does not apply where the agent acts with the intention of implicating the principal in the charged offence (e.g. where the innocent agent is an undercover police officer). Such an agent does not act as the instrument of the principal, and so his/her acts cannot be attributed to the principal (R v Pinkstone (2004) 219 CLR 444).
+
+Withdrawing From a Plan to Use an Innocent Agent
+
+7. An accused may withdraw from a plan to use an innocent agent to commit an offence by issuing a timely countermand to the agent. This operates in the same way as the principles of withdrawal applicable to Statutory Complicity (see White v Ridley (1978) 140 CLR 342 and 5.2 Statutory Complicity (From 1/11/14) for further information).
+
+8. In some cases, the withdrawal must be accompanied by all acts the accused can reasonably take to undo the effect of his/her previous encouragement or assistance and require the accused to inform the agent that, if s/he proceeds with the agreed course of action, s/he will be committing a criminal offence (White v Ridley (1978) 140 CLR 342).
+
+Accused’s Mental State
+
+1. The second element examines the accused’s state of mind. At the time the innocent agent performed the necessary acts (see above), the accused must have had the state of mind necessary to commit the relevant offence (R v Hewitt [1997] 1 VR 301; R v Cogan & Leak [1976] QB 217; Matusevich v R (1977) 137 CLR 633; White v Ridley (1978) 140 CLR 342).
+
+Agent Must be Innocent
+
+1. The third element requires the prosecution to prove that the agent is innocent of the charged offence. If the agent is criminally responsible for the offence, the prosecution must rely on a different form of complicity (R v Hewitt [1997] 1 VR 301; R v Pinkstone (2004) 219 CLR 444; R v Franklin (2001) 3 VR 9; Latorre v R [2012] VSCA 280, [44]–[57]).
+
+2. The requirement that the agent be innocent is not concerned with an absence of moral responsibility or fault. It is only concerned with whether or not the agent is legally responsible for the conduct. For this reason, the innocent agent is sometimes called a non-responsible agent or an innocent instrumentality (Osland v R (1998) 197 CLR 316; R v Hewitt [1997] 1 VR 301).
+
+3. An agent can be innocent for this purpose if the agent is not legally responsible for his/her actions due to a mental impairment (Matusevich v R (1977) 137 CLR 633).
+
+Last updated: 12 April 2018

@@ -1,0 +1,119 @@
+5.2.5 Charge: Statutory Complicity (Agreement, Arrangement or Understanding)
+
+This Charge has been designed for use in cases where the accused is charged with being involved in the commission of an offence under Crimes Act 1958 section 323(1)(c).
+
+This charge refers to the accused entering into an “agreement”. If the case is conducted on the basis of an “arrangement” or “understanding” then the charge should be modified accordingly.
+
+NOA has been charged with the offence of NOO. However, it has not been alleged that s/he committed that offence alone. Instead, the prosecution has alleged that s/he committed it together with [insert names of co-offenders].
+
+The law says that if a person agrees to commit an offence, then he or she may be responsible for that offence.
+
+In order to find NOA guilty of committing NOO, the prosecution must prove the following 3 elements:
+
+One – the accused agreed with other people to perform the acts necessary to commit NOO, and that the agreement remained in existence when the offence of NOO was committed.
+
+Two – that a party to the agreement performed the acts necessary to commit NOO.
+
+Three – that, when NOA agreed to commit NOO, s/he [identify mens rea for NOO].
+
+Before you can find NOA guilty of NOO, you must be satisfied that the prosecution has proven all three of these elements beyond reasonable doubt.
+
+I will now explain each of these elements in more detail.
+
+Agree to Commit NOO
+
+The first element that the prosecution must prove is that the accused agreed with other people to perform the acts necessary to commit NOO, and that this agreement remained in existence when the offence of NOO was committed.
+
+There are two parts to this element. First, you must be satisfied that the accused agreed with at least one other person to perform the acts necessary to commit NOO.
+
+The acts necessary to commit NOO are [identify relevant acts, based on the substantive offence].
+
+People can make an agreement expressly. You can also infer that people made an agreement from the surrounding circumstances. You will recall what I have told you about inferences.
+
+[If the content of the agreement, or the parties’ understanding of the content, is in issue, add the following shaded section.]
+
+NOA must have agreed to perform the acts necessary to commit NOO. This element will not be satisfied if the accused agreed to pursue some other form of activity that is not criminal, or a different offence. However, you do not need to find that NOA and [identify relevant co-offenders] knew they were agreeing to commit a crime. This element will be satisfied as long as they agreed to do something which was, in fact, criminal.
+
+Similarly, you do not need to find that all of the parties had the same purpose or intention when forming that agreement, or were all aware of the consequences of their actions. You do not even have to find that they all agreed on the precise terms of the agreement. For this element to be satisfied, you only need to find that they agreed to commit the particular criminal offence of NOO together.
+
+An example is where two people agree to commit a bank robbery together, with one of them to buy the gun and give it to the other, who will use it at the bank to steal the money. If they carry out this plan, they would both be equally guilty of the crime of armed robbery.
+
+As part of this element, you must consider the scope of their agreement. What was within their plan, and what contingencies were part of the plan? The law recognises that people can agree to commit an offence, even if that was not their primary purpose. So, even if the parties were hoping to avoid committing NOO, and did not think it was likely, if they agreed to commit NOO if certain circumstances arose, then you should treat it as being within the scope of the agreement.
+
+In this case, the prosecution alleged that [specify parties] agreed to commit NOO. They alleged that this agreement was made [insert prosecution evidence about the formation of the agreement].
+
+[If the defence denies that there was an agreement to commit an offence, add the following shaded section.]
+
+The defence denied this, arguing [insert defence evidence and/or arguments].
+
+[If the defence does not deny that there was an agreement, but is contesting liability on other grounds, add the following shaded section.]
+
+The defence does not deny that NOA agreed to perform the acts necessary to commit NOO, but argues [outline defence arguments, e.g. “that the accused had withdrawn from that agreement by the time the offence was committed”].
+
+The second part of this element requires the prosecution to prove that the agreement remained in existence when the offence was committed. If there is a possibility that the agreement had been called off before the offence was committed, or that NOA had withdrawn from that agreement, then this first element will not be met.
+
+[If withdrawal from the agreement is in issue, add the following shaded section.*]
+
+In this case, the defence argued that, [while/even if] NOA had agreed to commit NOO, s/he had withdrawn from that agreement by the time the offence was committed. It is for the prosecution to prove that s/he had not done so.
+
+The law says that if a person is going to withdraw from an agreement to commit an offence, his/her withdrawal must be timely and effective. That is, s/he must do everything that s/he can reasonably do to undo the effect of the previous agreement with enough time for his/her actions to be effective.
+
+Whether the accused has taken all reasonable steps to undo the effect of the previous agreement is a question for you. You must apply your common sense and experience. For example, in some cases it will be enough for the accused to take back any tools he or she has provided for the commission of the crime, and to make it clear to the other parties that if they continue with the offence, they do so without his or her approval or support. In some cases it may even be necessary for the accused to inform the police of the plan.
+
+It is important to emphasise that it is not for the defence to prove that the accused did everything reasonably possible to withdraw from the agreement. It is the prosecution who must prove that the accused did not withdraw from the agreement in a timely and effective manner.
+
+In this case, the prosecution argued that the accused had not done everything s/he reasonably could to withdraw from the agreement. [Insert prosecution evidence and/or arguments.] The defence denied this, arguing that NOA’s withdrawal was timely and effective. [Insert defence evidence and/or arguments.]
+
+[If it is alleged that the agreement, arrangement or understanding had been cancelled or completed, add the following shaded section.]
+
+In this case, the defence argued that, while NOA did agree to commit NOO, that agreement had been [completed/cancelled] by the time the offence of NOO was committed. [Insert defence evidence and/or arguments.] The prosecution disputed this, alleging that the agreement remained in existence at the relevant time. [Insert prosecution evidence and/or arguments.]
+
+It is important to emphasise that it is not for the defence to prove that the agreement had been [completed/cancelled]. It is the prosecution who must prove that the agreement had not been [completed/cancelled] by the time the offence was committed.
+
+[If the continuing existence of the agreement, arrangement or understanding is not in issue, add the following shaded section.]
+
+In this case, it is not disputed that, if NOA had agreed to commit NOO, that agreement remained in existence at the time the offence was committed. The main issue is [outline main issue[s], e.g. “whether or not there was such an agreement”].
+
+It is only if you are satisfied, beyond reasonable doubt, that the accused agreed to commit NOO, and that the agreement remained in existence when the offence of NOO was committed, that this first element will be met.
+
+Commission of NOO
+
+The second element that the prosecution must prove is that, in accordance with their agreement, one or more parties to the agreement performed the acts necessary to commit NOO.
+
+These are the same acts I told you about as part of the first element. To be clear, the prosecution must prove that a party to the agreement [identify relevant acts].
+
+In this case the prosecution alleged that [describe relevant prosecution evidence and/or arguments]. The defence denied this, arguing [describe relevant defence evidence and/or arguments*].
+
+Accused’s Mental State
+
+The third element that the prosecution must prove is that the accused, when s/he agreed to commit NOO, [identify mens rea for NOO].
+
+In this case, the prosecution alleged that [describe relevant prosecution evidence and/or arguments]. The defence denied this, arguing [describe relevant defence evidence and/or arguments*].
+
+Uncertainty about whether accused committed offence as principal or secondary party
+
+[If NOA may have committed the offence him/herself, add the following shaded section.]
+
+In this case, you may not be sure whether NOA [describe relevant acts] himself/herself, or whether another party to the agreement did so. You do not need to resolve this question to reach your verdict. The law says that if you are satisfied beyond reasonable doubt that NOA either committed the offence himself/herself, or agreed with another person to commit the offence, you may find him/her guilty of NOO.
+
+Application of Law to Evidence
+
+[If not already done, apply the law to the relevant evidence here.]
+
+Defences
+
+[If any defences are open on the evidence, insert relevant directions.]
+
+Summary
+
+To summarise, before you can find NOA guilty of NOO, the prosecution must prove to you beyond reasonable doubt:
+
+One – the accused agreed with other people to perform the acts necessary to commit NOO, and that the agreement remained in existence when the offence of NOO was committed.
+
+Two – that the parties to the agreement, between them, performed the acts necessary to commit NOO.
+
+Three – that, when s/he agreed to commit NOO, s/he [identify mens rea for NOO].
+
+If you find that any of these elements have not been proven beyond reasonable doubt, then you must find NOA not guilty of committing NOO.
+
+Last updated: 4 March 2024

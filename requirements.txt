@@ -1,0 +1,15 @@
+langchain
+langchain-openai
+langchain-community
+langchain-anthropic
+langchain-huggingface
+langchain-text-splitters
+langchain-core
+faiss-cpu
+streamlit
+python-dotenv
+datasets
+pandas
+sentence-transformers
+numpy
+anthropic

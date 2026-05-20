@@ -1,0 +1,71 @@
+1.4 The Role of Judge and Jury
+
+Role of the Jury
+
+1. The role of the jury is to determine the facts, apply relevant principles of law to those facts, and return a verdict (R v Dao (2005) 156 A Crim R 459; R v Nguyen [2006] VSCA 158; Azzopardi v R (2001) 205 CLR 50).
+
+2. This requires the jury to:
+
+- Determine whether, and to what extent, the evidence is to be believed;
+
+- Decide whether to draw inferences from the evidence; and
+
+- Apply the law, as they are directed upon it, to the facts as they find them to be (Director of Public Prosecutions v Stonehouse [1978] AC 55. See also Metropolitan Railway Co v Jackson (1877) 3 App Cas 193; Cofield v Waterloo Case Co Ltd (1924) 34 CLR 363; Bratty v AG for Northern Ireland [1963] AC 386).
+
+3. It is for the jury alone to decide the facts of a case. This must not be obscured by the performance of the judge’s duties (RPS v R (2000) 199 CLR 620; R v Melbourne (1999) 198 CLR 1).
+
+4. Similarly, it is the jury alone that determines the verdict. The judge must be careful to make this clear (R v Johnson (1986) 43 SASR 63).
+
+5. Although the jury are the sole judges of the facts, they must accept and apply the judge’s directions about the law (Joshua v R [1955] AC 121; R v Beeby (1911) 6 Cr App R 138; R v Frampton (1917) 12 Cr App R 202).
+
+6. Jurors should not be drawn into the process of questioning witnesses (Tootle v R (2017) 94 NSWLR 430, [59]). See also 1.10 Trial Procedure regarding jurors questioning witnesses.
+
+Role of the Judge
+
+1. The judge must instruct the jury about so much of the law as they need to know in deciding the real issue or issues in the case (Azzopardi v R (2001) 205 CLR 50; RPS v R (2000) 199 CLR 620).
+
+2. This requires the judge to:
+
+1. Instruct the jury about the elements of the offences and the onus and standard of proof;
+
+2. Identify the issues in the case and to relate the law to those issues;
+
+3. Put the defence case fairly; and
+
+4. In some cases warn the jury about impermissible reasoning, or about particular care that must be shown before accepting certain kinds of evidence (RPS v R (2000) 199 CLR 620; Azzopardi v R (2001) 205 CLR 50).
+
+3. The judge also has an obligation to summarise the respective cases of both the prosecution and the defence, and should remind the jury of the arguments of counsel (RPS v R (2000) 199 CLR 620; R v Mogg (2000) 112 A Crim R 417; R v Conway [2005] QCA 194).
+
+4. The judge may remind the jury of the facts, and assist them to understand those facts (Stingel v The Queen (1990) 171 CLR 312; Brownlee v R (2001) 207 CLR 278).
+
+5. However, the jury always remain the sole judges of the facts. A judge must therefore not direct the jury about how they may (as opposed to may not) reason towards a conclusion of guilt (Azzopardi v R (2001) 205 CLR 50).
+
+6. The role of the judge also includes:
+
+- Determining the admissibility of evidence;
+
+- Determining whether there is evidence which, if it is believed, could establish the facts in issue (Stingel v The Queen (1990) 171 CLR 312);
+
+- Determining whether inferences can legitimately be drawn from the evidence (Metropolitan Railway Co v Jackson (1877) 3 App Cas 193; Cofield v Waterloo Case Co Ltd (1924) 34 CLR 363); and
+
+- Exercising proper control over the proceedings, in a way that does not infringe on the accused’s right to a fair trial (R v Boykovski and Atanasovski (1991) A Crim R 436).
+
+7. The judge has power to exclude the jury from the courtroom while hearing arguments on the admissibility of evidence or determining other applications. This power may be exercised whether or not the accused consents (R v Hendry (1989) 88 Cr App R 187; Demirok v R (1977) 137 CLR 20; Peacock v R (1911) 13 CLR 619).
+
+8. The judge should not explain to the jury the specific reason for asking them to leave the room, nor the outcome of the matter heard in the jury’s absence, as it is not relevant to any decisions the jury needs to make, and may wrongly influence them (R v Williams [1982] WAR 277; R v Smith (1986) 85 Cr App R 197; Crosdale v R [1995] 2 All ER 500. See also Basto v R (1954) 91 CLR 628; R v Mitchell [1998] AC 695; Thompson v R [1998] AC 811).
+
+9. However, because there is a danger that the jury will think that material prejudicial to the accused is going to be disclosed in their absence, the jury should be told that they are being asked to leave the room because there is a matter of law that needs to be resolved in their absence (R v Williams [1982] WAR 277; Crosdale v R [1995] 2 All ER 500; R v Anderson (1929) 21 Cr App R 178).
+
+10. The judge must perform all of their tasks in a fair and even-handed manner (R v Dao (2005) 156 A Crim R 459; R v Nguyen [2006] VSCA 158).
+
+11. See 3.2 Overview of Final Directions and 3.9 Judge’s Summing Up on Issues and Evidence for further information on the role of the judge.
+
+Need for a Direction
+
+1. The judge must always direct the jury about the roles of the judge and jury (RPS v R (2000) 199 CLR 620; R v Sinclair (1989) 44 A Crim R 449).
+
+2. This direction should usually be given at the commencement of the trial, as well as after the completion of all the evidence and the presentation of argument by counsel (see, e.g. R v Sinclair (1989) 44 A Crim R 449).
+
+3. This is because it is good practice to provide some assistance to a jury at the outset of the trial. However, comments which are made at a preliminary stage may not have their significance fully appreciated by the jury, which is unfamiliar with the issues which may arise in the trial (R v Sinclair (1989) 44 A Crim R 449).
+
+Last updated: 2 October 2017

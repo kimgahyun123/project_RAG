@@ -1,0 +1,41 @@
+4.13.4.1 Charge: Handwriting Evidence (Expert Witness)
+
+This charge is for use in conjunction with 4.13.1.1 Charge: Uncontested Expert Evidence in cases where:
+
+i) Handwriting evidence inculpates the accused;
+
+ii) That evidence is given by a single witness who is a handwriting expert; and
+
+iii) A direction about the evidence is requested, or there are substantial and compelling reasons to give a direction in the absence of a request. See 3.1 Directions Under Jury Directions Act 2015.
+
+If the evidence exculpates the accused, or conflicting evidence is given by expert witnesses, the charge will need to be modified. In such circumstances, see 4.13.1 General Principles of Opinion Evidence.
+
+Use of Documents
+
+To help you to understand and evaluate NOW’s evidence, you have been given [copies of] the documents s/he compared. [Identify relevant exhibits.]
+
+While you are free to make your own comparison of the handwriting in these documents, you should remember that you are not handwriting experts. You should therefore be guided by NOW’s evidence, although you are free to reject his/her opinion. Ultimately, it is for you to determine who wrote [describe relevant document].
+
+Use of Evidence
+
+[Where authorship of the control document is not disputed, add the following shaded section.]
+
+If you accept NOW’s opinion, you can use that evidence in deciding whether [describe permissible use of the evidence, e.g. "NOA wrote the letter"]. If you find that [describe permissible use of the evidence], then [describe consequences of finding a handwriting match].
+
+[Where authorship of the control document is disputed, add the following shaded section.]
+
+If you accept NOW’s opinion, you can use that evidence in deciding whether [describe relevant document] and [describe control document] were written by the same person.
+
+However, before you can conclude that it was NOA who wrote [describe relevant document], you must also find that it was NOA who wrote [describe control document].
+
+The prosecution argued that this was the case. [Summarise prosecution evidence and/or arguments.] The defence denied this, alleging [summarise defence evidence and/or arguments].
+
+It is only if you find that NOA wrote [describe control document], that you can use NOW’s evidence to decide whether NOA also wrote [describe relevant document].
+
+If you find that NOA did write [describe relevant document], you may use this fact to find [describe consequences of finding a handwriting match].
+
+You should keep in mind the fact that the handwriting evidence is just one piece of circumstantial evidence, and must be considered in the light of the other evidence in the case. You will remember what I have told you about circumstantial evidence.
+
+[Summarise and explain any prosecution and defence arguments in relation to the handwriting evidence that have not yet been addressed.*]
+
+Last updated: 9 March 2017

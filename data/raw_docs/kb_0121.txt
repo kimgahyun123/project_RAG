@@ -1,0 +1,43 @@
+4.14.4 Charge: Complaint Evidence
+
+This charge is designed to be used in cases where:
+
+i) Evidence of a complaint has been admitted under Evidence Act 2008 s 66 or Criminal Procedure Act 2009 s 377; and
+
+ii) That evidence can be used for both a hearsay and non-hearsay purpose.
+
+If the judge has limited the use of the evidence under Evidence Act 2008 s 136 the charge should be modified accordingly.
+
+The judge should discuss the proposed charge with counsel before instructing the jury. See 3.1 Directions Under Jury Directions Act 2015 for information on when the direction is required.
+
+This charge must be adapted if evidence has been admitted under Evidence Act 2008 s 66 which does not take the form of a complaint.
+
+Introduction
+
+In this case you heard evidence that [insert details and timing of the complaint].
+
+It is for you to determine whether NOC made the alleged complaint. If you find that s/he did, you can use the complaint in two ways.
+
+First, you can use the contents of NOC’s complaint as evidence in the case. For example, you can use NOC’s statement that [describe part of the complaint] as evidence that [describe relevant asserted fact].
+
+[Jury Directions Act 2015 s 44E abolishes common law rules requiring judges to give the direction in this shaded area, but the Act does not prohibit such a direction. See 4.14 Previous Representations (Hearsay, Recent Complaint and Prior Statements) for further information.]
+
+When considering this evidence, it is important to remember that just because a person says something on more than one occasion, that does not mean that what s/he says is truthful or accurate. A false or inaccurate statement does not become true and accurate by virtue of being repeated.
+
+Secondly, you can use NOC’s complaint to assess his/her credibility. The fact that NOC made the complaint, and the content of that complaint, may show that his/her account of the events in question has been consistent. [Where relevant, add: In addition, the evidence may rebut an argument that the absence of complaint would suggest that the offences did not take place.]
+
+In this case the prosecution submitted that the fact that NOC complained about the alleged incident in this manner makes it more likely that s/he is telling the truth here in court because [insert prosecution arguments]. The defence disputed this, contending [insert defence arguments].
+
+Section 32 Unreliability Warning
+
+[In some cases it will be necessary to warn the jury about the potential unreliability of the evidence under Jury Directions Act 2015 s 32. See 4.14.1 Charge: Unreliability of Hearsay Evidence for an example of such a warning.]
+
+Complaint Evidence is Not Corroborative
+
+[Note: The following direction may be given if a witness other than the complainant gave evidence of the complaint. Under Jury Directions Act 2015 ss 44C and 44E, this direction is not mandatory, but is not prohibited. See 4.14 Previous Representations (Hearsay, Recent Complaint and Prior Statements) for further information.]
+
+In this case, you [also] heard evidence of the complaint from NOW. It would be a mistake to treat this as evidence that is independent of the complainant. Although NOW gave evidence about the complaint in court, it was NOC who was the source of that evidence.
+
+You may use this evidence in the ways I have just described, as evidence of the offence, or in your assessment of NOC’s credibility, but you must not mistake it for independent evidence of the offence.
+
+Last updated: 15 January 2021
