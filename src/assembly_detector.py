@@ -1,13 +1,16 @@
+# src/assembly_detector.py
 from __future__ import annotations
 
 import json
+import os
 import re
 from collections import Counter, defaultdict
 from dataclasses import dataclass, field
-from typing import Any, Callable, Dict, Iterable, List, Optional, Sequence, Set
+from typing import Any, Callable, Optional
+
+from dotenv import load_dotenv
 
 from src.context_builder import AssembledContext, ContextChunk
-
 
 LLMJudge = Callable[[str], str]
 
@@ -19,518 +22,477 @@ class RuleHit:
     weight: float
     severity: str
     reason: str
-    doc_ids: List[str] = field(default_factory=list)
-    chunk_ids: List[str] = field(default_factory=list)
+    doc_ids: list[str] = field(default_factory=list)
+    chunk_ids: list[str] = field(default_factory=list)
 
 
 @dataclass
 class AssemblyDetectionResult:
     label: str
     risk_score: float
-    matched_rules: List[RuleHit]
-    quarantine_doc_ids: List[str]
-    quarantine_chunk_ids: List[str]
+    matched_rules: list[RuleHit]
+    quarantine_doc_ids: list[str]
+    quarantine_chunk_ids: list[str]
     reason: str
+    judge_label: str = "not_used"
+    judge_score: float = 0.0
+    judge_reason: str = ""
+    via: str = "rules"
+    rule_label: str = "clean"
+    rule_score: float = 0.0
+
+
+def _words(text: str) -> set[str]:
+    return {
+        w.lower()
+        for w in re.findall(r"[A-Za-z][A-Za-z0-9_-]{2,}", text or "")
+        if w.lower() not in {
+            "the", "and", "for", "that", "this", "with", "from", "have",
+            "has", "had", "are", "was", "were", "will", "would", "should",
+            "could", "may", "might", "must", "not", "but", "you", "your",
+        }
+    }
+
+
+def _contains_any(text: str, patterns: list[str]) -> bool:
+    low = (text or "").lower()
+    return any(p.lower() in low for p in patterns)
+
+
+def _clip(text: str, limit: int = 5000) -> str:
+    text = text or ""
+    return text if len(text) <= limit else text[:limit] + "\n...[truncated]"
 
 
 class AssemblyDetector:
     """
-    Detects malicious meaning that appears only after top-k chunks are assembled.
+    Detects malicious meaning that appears after top-k chunks are assembled.
 
-    Recommended flow:
-      search -> assemble_context -> detect -> quarantine -> re-search
+    Flow:
+      FAISS search -> assemble_context -> rule scan -> optional LLM Judge
+      -> quarantine candidate docs -> re-search until clean
     """
 
     def __init__(
         self,
         suspicious_threshold: float = 0.45,
         malicious_threshold: float = 0.75,
-        use_llm_judge: bool = False,
+        use_llm_judge: bool = True,
         llm_judge: Optional[LLMJudge] = None,
+        judge_model: Optional[str] = None,
     ) -> None:
         self.suspicious_threshold = suspicious_threshold
         self.malicious_threshold = malicious_threshold
         self.use_llm_judge = use_llm_judge
         self.llm_judge = llm_judge
+        self.judge_model = judge_model
+
+        if self.use_llm_judge and self.llm_judge is None:
+            self.llm_judge = self._make_anthropic_judge(judge_model=judge_model)
 
     def detect(self, query: str, assembled: AssembledContext) -> AssemblyDetectionResult:
-        hits: List[RuleHit] = []
+        rule_hits: list[RuleHit] = []
+        rule_hits.extend(self._structure_rules(assembled.chunks))
+        rule_hits.extend(self._surface_semantic_rules(query, assembled.chunks))
 
-        hits.extend(self._source_structure_rules(assembled.chunks))
-        hits.extend(self._surface_semantic_rules(query, assembled.chunks))
+        rule_score = self._score(rule_hits)
+        rule_label = self._label(rule_score)
 
+        judge_result = None
         if self.use_llm_judge and self.llm_judge is not None:
-            hits.extend(self._llm_semantic_rules(query, assembled))
+            judge_result = self._judge(query=query, assembled=assembled, rule_hits=rule_hits)
 
-        risk_score = self._score(hits)
-        label = self._label(risk_score)
+        if judge_result is not None:
+            label = judge_result["label"]
+            risk_score = float(judge_result["score"])
+            judge_label = label
+            judge_score = risk_score
+            judge_reason = judge_result["reason"]
+            via = "judge"
+            quarantine_doc_ids = self._map_judge_doc_ids(
+                judge_result.get("quarantine_doc_ids", []),
+                assembled.chunks,
+            )
+            if not quarantine_doc_ids and label != "clean":
+                quarantine_doc_ids = self._choose_quarantine_docs(rule_hits, assembled.chunks)
+            reason = f"LLM Judge ({', '.join(judge_result.get('rules', []) or ['none'])}): {judge_reason}"
+        else:
+            label = rule_label
+            risk_score = rule_score
+            judge_label = "not_used"
+            judge_score = 0.0
+            judge_reason = ""
+            via = "rules"
+            quarantine_doc_ids = self._choose_quarantine_docs(rule_hits, assembled.chunks)
+            reason = "; ".join(f"{h.rule_id}:{h.name}" for h in rule_hits) or "No assembly-level risk detected"
 
-        quarantine_doc_ids = self._choose_quarantine_docs(hits, assembled.chunks)
-        quarantine_chunk_ids = self._choose_quarantine_chunks(hits)
+        quarantine_chunk_ids = self._choose_quarantine_chunks(rule_hits)
 
-        reason = "; ".join(
-            f"{hit.rule_id}:{hit.name}" for hit in hits
-        ) or "No assembly-level risk detected"
+        if label == "clean":
+            quarantine_doc_ids = []
+            quarantine_chunk_ids = []
 
         return AssemblyDetectionResult(
             label=label,
             risk_score=risk_score,
-            matched_rules=hits,
-            quarantine_doc_ids=quarantine_doc_ids if label != "clean" else [],
-            quarantine_chunk_ids=quarantine_chunk_ids if label != "clean" else [],
+            matched_rules=rule_hits,
+            quarantine_doc_ids=quarantine_doc_ids,
+            quarantine_chunk_ids=quarantine_chunk_ids,
             reason=reason,
+            judge_label=judge_label,
+            judge_score=judge_score,
+            judge_reason=judge_reason,
+            via=via,
+            rule_label=rule_label,
+            rule_score=rule_score,
         )
 
-    def _source_structure_rules(self, chunks: Sequence[ContextChunk]) -> List[RuleHit]:
-        hits: List[RuleHit] = []
-        if not chunks:
-            return hits
-
-        top_k = len(chunks)
-        by_doc: Dict[str, List[ContextChunk]] = defaultdict(list)
+    def _structure_rules(self, chunks: list[ContextChunk]) -> list[RuleHit]:
+        hits: list[RuleHit] = []
+        by_doc: dict[str, list[ContextChunk]] = defaultdict(list)
         for chunk in chunks:
             by_doc[chunk.doc_id].append(chunk)
 
-        doc_counts = {doc_id: len(items) for doc_id, items in by_doc.items()}
-        dominant_doc, dominant_count = max(doc_counts.items(), key=lambda x: x[1])
-
-        # A1: same-source co-retrieval
-        if dominant_count >= 2:
-            hits.append(RuleHit(
-                "A1",
-                "Same-source co-retrieval",
-                0.16,
-                "low",
-                f"{dominant_count}/{top_k} chunks came from doc_id={dominant_doc}.",
-                [dominant_doc],
-                [c.chunk_id for c in by_doc[dominant_doc]],
-            ))
-
-        # A2: top-rank dominance
-        top3 = chunks[:3]
-        top3_docs = [c.doc_id for c in top3]
-        if len(top3) >= 2:
-            c = Counter(top3_docs)
-            doc_id, count = c.most_common(1)[0]
-            if chunks[0].doc_id == chunks[1].doc_id or count >= 2:
+        for doc_id, doc_chunks in by_doc.items():
+            if len(doc_chunks) >= 2:
                 hits.append(RuleHit(
-                    "A2",
-                    "Top-rank dominance",
-                    0.22,
-                    "medium",
-                    f"doc_id={doc_id} dominates top ranks.",
-                    [doc_id],
-                    [c.chunk_id for c in top3 if c.doc_id == doc_id],
+                    "A1", "Same-source co-retrieval", 0.12, "low",
+                    f"{doc_id} appears {len(doc_chunks)} times in top-k",
+                    [doc_id], [c.chunk_id for c in doc_chunks],
                 ))
 
-        # A3: source concentration
-        concentration = dominant_count / max(top_k, 1)
-        if dominant_count >= 3 or concentration >= 0.50:
-            hits.append(RuleHit(
-                "A3",
-                "Source concentration",
-                0.22,
-                "medium",
-                f"doc_id={dominant_doc} concentration is {concentration:.2f}.",
-                [dominant_doc],
-                [c.chunk_id for c in by_doc[dominant_doc]],
-            ))
-
-        # B1: non-adjacent same-doc retrieval
-        for doc_id, items in by_doc.items():
-            indexes = sorted(
-                c.chunk_index for c in items
-                if c.chunk_index is not None
-            )
-            if len(indexes) >= 2 and indexes[-1] - indexes[0] >= 3:
+            ranks = sorted(c.rank for c in doc_chunks)
+            if 1 in ranks and 2 in ranks:
                 hits.append(RuleHit(
-                    "B1",
-                    "Non-adjacent same-doc retrieval",
-                    0.18,
-                    "low",
-                    f"doc_id={doc_id} appears with distant chunk indexes {indexes}.",
-                    [doc_id],
-                    [c.chunk_id for c in items],
+                    "A2", "Top-rank dominance", 0.18, "medium",
+                    f"{doc_id} occupies rank 1 and 2",
+                    [doc_id], [c.chunk_id for c in doc_chunks],
                 ))
-                break
+
+            if len(doc_chunks) >= 3:
+                hits.append(RuleHit(
+                    "A3", "Source concentration", 0.18, "medium",
+                    f"{doc_id} has {len(doc_chunks)} chunks in top-k",
+                    [doc_id], [c.chunk_id for c in doc_chunks],
+                ))
+
+            indexes = sorted(c.chunk_index for c in doc_chunks if c.chunk_index is not None)
+            if len(indexes) >= 2 and max(indexes) - min(indexes) >= 3:
+                hits.append(RuleHit(
+                    "B1", "Non-adjacent same-doc retrieval", 0.12, "low",
+                    f"{doc_id} has non-adjacent chunks: {indexes}",
+                    [doc_id], [c.chunk_id for c in doc_chunks],
+                ))
+
+        if len(chunks) >= 2:
+            first = chunks[0]
+            second = chunks[1]
+            if (
+                first.retrieval_score is not None
+                and second.retrieval_score is not None
+                and abs(second.retrieval_score - first.retrieval_score) > 0.20
+            ):
+                hits.append(RuleHit(
+                    "B2", "Retrieval-score outlier", 0.08, "low",
+                    "Rank1 score is separated from rank2",
+                    [first.doc_id], [first.chunk_id],
+                ))
 
         return hits
 
-    def _surface_semantic_rules(
-        self,
-        query: str,
-        chunks: Sequence[ContextChunk],
-    ) -> List[RuleHit]:
-        hits: List[RuleHit] = []
-        if not chunks:
-            return hits
+    def _surface_semantic_rules(self, query: str, chunks: list[ContextChunk]) -> list[RuleHit]:
+        hits: list[RuleHit] = []
+        query_terms = _words(query)
 
-        context = "\n\n".join(c.text for c in chunks)
-        context_l = context.lower()
-        query_l = query.lower()
-
-        conclusion_chunks = [
-            c for c in chunks
-            if self._has_conclusion_marker(c.text)
+        conclusion_patterns = [
+            "therefore", "in conclusion", "final answer", "the answer is",
+            "must be", "should be", "required to", "solely", "exclusively",
+            "definitive conclusion", "model direction", "legal analysis",
         ]
+        strong_modals = ["must", "required", "shall", "always", "never", "solely", "exclusively"]
+        weak_modals = ["may", "might", "can", "could", "discretion", "appropriate"]
 
-        # A5: high-rank direct conclusion
-        for c in chunks[:3]:
-            if self._has_conclusion_marker(c.text) and self._query_overlap(query, c.text) >= 0.18:
+        direction_by_doc: dict[str, int] = Counter()
+
+        for chunk in chunks:
+            text = chunk.text or ""
+            low = text.lower()
+            overlap = len(query_terms & _words(text))
+
+            has_conclusion = _contains_any(low, conclusion_patterns)
+            has_strong = _contains_any(low, strong_modals)
+            has_weak = _contains_any(low, weak_modals)
+
+            if has_conclusion:
+                direction_by_doc[chunk.doc_id] += 1
+
+            if chunk.rank <= 2 and has_conclusion and overlap >= 2:
                 hits.append(RuleHit(
-                    "A5",
-                    "High-rank direct conclusion",
-                    0.24,
-                    "medium",
-                    f"Rank {c.rank} has direct conclusion language aligned with the query.",
-                    [c.doc_id],
-                    [c.chunk_id],
+                    "A5", "High-rank direct conclusion", 0.22, "high",
+                    f"Rank {chunk.rank} has direct conclusion and query overlap",
+                    [chunk.doc_id], [chunk.chunk_id],
                 ))
-                break
 
-        # A11: query-term over-alignment
-        aligned = [
-            c for c in chunks
-            if self._query_overlap(query, c.text) >= 0.32
-        ]
-        if aligned:
+            if overlap >= 4 and has_conclusion:
+                hits.append(RuleHit(
+                    "A11", "Query-term over-alignment", 0.14, "medium",
+                    f"Chunk strongly overlaps query terms and conclusion terms",
+                    [chunk.doc_id], [chunk.chunk_id],
+                ))
+
+            if chunk.rank <= 2 and has_strong:
+                hits.append(RuleHit(
+                    "A12", "Position-weighted conclusion bias", 0.14, "medium",
+                    f"Strong normative expression appears in rank {chunk.rank}",
+                    [chunk.doc_id], [chunk.chunk_id],
+                ))
+
+            strong_count = sum(low.count(t) for t in strong_modals)
+            if strong_count >= 3:
+                hits.append(RuleHit(
+                    "A13", "Normative language burst", 0.10, "medium",
+                    f"Normative terms appear {strong_count} times",
+                    [chunk.doc_id], [chunk.chunk_id],
+                ))
+
+            if has_weak and has_strong:
+                hits.append(RuleHit(
+                    "A16", "Abrupt modality shift", 0.12, "medium",
+                    "Weak and strong legal modality are mixed",
+                    [chunk.doc_id], [chunk.chunk_id],
+                ))
+
+            if re.search(r"^\s*(model direction|definitive conclusion|answer|legal foundation)", low, re.I):
+                hits.append(RuleHit(
+                    "B3", "Suspicious heading marker", 0.22, "high",
+                    "Suspicious steering-like heading near chunk start",
+                    [chunk.doc_id], [chunk.chunk_id],
+                ))
+
+            early = low[:400]
+            if _contains_any(early, ["conclusion", "the answer is", "therefore", "must be", "should be"]):
+                hits.append(RuleHit(
+                    "B5", "Conclusion-before-evidence pattern", 0.10, "medium",
+                    "Conclusion-like language appears early",
+                    [chunk.doc_id], [chunk.chunk_id],
+                ))
+
+        if sum(direction_by_doc.values()) >= 2:
             hits.append(RuleHit(
-                "A11",
-                "Query-term over-alignment",
-                0.14,
-                "low",
-                f"{len(aligned)} chunk(s) repeat many query terms.",
-                sorted({c.doc_id for c in aligned}),
-                [c.chunk_id for c in aligned],
+                "A6", "Repeated conclusion", 0.14, "medium",
+                "Multiple chunks repeat a conclusion direction",
+                list(direction_by_doc.keys()), [],
             ))
 
-        # A12: position-weighted conclusion bias
-        weighted_bias = 0.0
-        biased_chunks: List[ContextChunk] = []
-        for c in chunks:
-            if self._has_conclusion_marker(c.text):
-                weighted_bias += 1.0 / c.rank
-                biased_chunks.append(c)
-        if weighted_bias >= 0.90:
+        if len(direction_by_doc) >= 3:
             hits.append(RuleHit(
-                "A12",
-                "Position-weighted conclusion bias",
-                0.20,
-                "medium",
-                f"Conclusion language is concentrated in high-rank chunks, bias={weighted_bias:.2f}.",
-                sorted({c.doc_id for c in biased_chunks}),
-                [c.chunk_id for c in biased_chunks],
-            ))
-
-        # A13: normative language burst. Helper only.
-        normative_count = len(re.findall(r"\b(must|should|always|required|requires|shall|cannot|never)\b", context_l))
-        token_count = max(len(re.findall(r"\w+", context_l)), 1)
-        normative_rate = normative_count / token_count
-        if normative_count >= 8 and normative_rate >= 0.018:
-            hits.append(RuleHit(
-                "A13",
-                "Normative language burst",
-                0.08,
-                "helper",
-                f"Normative terms appear frequently: count={normative_count}, rate={normative_rate:.3f}.",
-                [],
-                [],
-            ))
-
-        # A16: abrupt modality shift
-        if self._has_soft_modality(context_l) and self._has_hard_modality(context_l):
-            hits.append(RuleHit(
-                "A16",
-                "Abrupt modality shift",
-                0.18,
-                "medium",
-                "Context contains both soft modality and hard mandatory conclusion language.",
-                sorted({c.doc_id for c in conclusion_chunks}),
-                [c.chunk_id for c in conclusion_chunks],
-            ))
-
-        # B3: suspicious heading marker. Helper only.
-        if re.search(r"(?i)\b(model direction|definitive conclusion|legal foundation|answer)\b", context[:1200]):
-            hits.append(RuleHit(
-                "B3",
-                "Suspicious heading marker",
-                0.08,
-                "helper",
-                "Suspicious heading-like steering marker appears near the start of assembled context.",
-                [],
-                [],
-            ))
-
-        # B4: role inversion / legal actor mismatch
-        role_hit = self._role_mismatch(query_l, context_l)
-        if role_hit:
-            hits.append(RuleHit(
-                "B4",
-                "Role inversion / legal actor mismatch",
-                0.18,
-                "medium",
-                role_hit,
-                sorted({c.doc_id for c in chunks}),
-                [c.chunk_id for c in chunks],
-            ))
-
-        # B5: conclusion-before-evidence pattern
-        if self._conclusion_before_evidence(context_l):
-            hits.append(RuleHit(
-                "B5",
-                "Conclusion-before-evidence pattern",
-                0.16,
-                "low",
-                "A strong conclusion appears before citations, conditions, or supporting evidence.",
-                sorted({c.doc_id for c in conclusion_chunks}),
-                [c.chunk_id for c in conclusion_chunks],
+                "A15", "Semantic redundancy with directional consistency", 0.18, "high",
+                "Several docs reinforce the same conclusion direction",
+                list(direction_by_doc.keys()), [],
             ))
 
         return hits
 
-    def _llm_semantic_rules(
-        self,
-        query: str,
-        assembled: AssembledContext,
-    ) -> List[RuleHit]:
-        prompt = self._llm_prompt(query, assembled.detector_context)
-        raw = self.llm_judge(prompt)  # type: ignore[misc]
-
-        try:
-            parsed = json.loads(raw)
-        except json.JSONDecodeError:
-            return []
-
-        hits: List[RuleHit] = []
-        for item in parsed.get("matched_rules", []):
-            rule_id = str(item.get("rule_id", "")).strip()
-            if rule_id not in {"A4", "A7", "A8", "A14", "A15", "A17", "A18"}:
-                continue
-            confidence = float(item.get("confidence", 0.0))
-            if confidence < 0.60:
-                continue
-
-            weight = {
-                "A4": 0.28,
-                "A7": 0.24,
-                "A8": 0.30,
-                "A14": 0.28,
-                "A15": 0.22,
-                "A17": 0.22,
-                "A18": 0.22,
-            }[rule_id]
-
-            hits.append(RuleHit(
-                rule_id=rule_id,
-                name=str(item.get("name", rule_id)),
-                weight=weight * confidence,
-                severity="high" if confidence >= 0.80 else "medium",
-                reason=str(item.get("reason", "")),
-                doc_ids=[str(x) for x in item.get("doc_ids", [])],
-                chunk_ids=[str(x) for x in item.get("chunk_ids", [])],
-            ))
-
-        return hits
-
-    def _llm_prompt(self, query: str, detector_context: str) -> str:
-        return f"""
-You are a RAG poisoning assembly judge.
-
-Task:
-Decide whether the assembled context contains malicious meaning that emerges from the combination of retrieved chunks.
-
-Evaluate only these rules:
-A4 Answer steering
-A7 Contradiction
-A8 Cross-chunk completion
-A14 Legal-standard override
-A15 Directional redundancy
-A17 Context-local inconsistency
-A18 Retrieved-context imbalance
-
-Important:
-- Legal documents often contain must/should/required. Do not flag merely because legal language is normative.
-- Flag only if the assembled context steers the answer, overrides the legal standard, creates a conclusion not justified by balanced evidence, or becomes malicious through chunk combination.
-- Return valid JSON only.
-
-JSON schema:
-{{
-  "matched_rules": [
-    {{
-      "rule_id": "A8",
-      "name": "Cross-chunk completion",
-      "confidence": 0.0,
-      "reason": "short reason",
-      "doc_ids": ["kb_0001"],
-      "chunk_ids": ["chunk_0001"]
-    }}
-  ]
-}}
-
-Query:
-{query}
-
-Assembled context:
-{detector_context}
-""".strip()
-
-    def _score(self, hits: Sequence[RuleHit]) -> float:
+    def _score(self, hits: list[RuleHit]) -> float:
         if not hits:
             return 0.0
 
         total = sum(hit.weight for hit in hits)
+        high_count = sum(1 for h in hits if h.severity == "high")
+        medium_count = sum(1 for h in hits if h.severity == "medium")
 
-        high_count = sum(1 for hit in hits if hit.severity == "high")
-        medium_count = sum(1 for hit in hits if hit.severity == "medium")
-        helper_count = sum(1 for hit in hits if hit.severity == "helper")
+        total += high_count * 0.12
+        total += medium_count * 0.04
 
-        if high_count >= 1 and medium_count >= 1:
-            total += 0.12
-        if medium_count >= 3:
-            total += 0.10
-        if helper_count >= 2 and medium_count >= 1:
-            total += 0.05
+        return min(1.0, round(total, 3))
 
-        return min(total, 1.0)
-
-    def _label(self, risk_score: float) -> str:
-        if risk_score >= self.malicious_threshold:
+    def _label(self, score: float) -> str:
+        if score >= self.malicious_threshold:
             return "malicious"
-        if risk_score >= self.suspicious_threshold:
+        if score >= self.suspicious_threshold:
             return "suspicious"
         return "clean"
 
-    def _choose_quarantine_docs(
-        self,
-        hits: Sequence[RuleHit],
-        chunks: Sequence[ContextChunk],
-    ) -> List[str]:
-        counter: Counter[str] = Counter()
+    def _choose_quarantine_docs(self, hits: list[RuleHit], chunks: list[ContextChunk]) -> list[str]:
+        scores: Counter[str] = Counter()
+        rank_bonus = {chunk.doc_id: max(0, 6 - chunk.rank) * 0.03 for chunk in chunks}
 
         for hit in hits:
-            if hit.severity == "helper":
-                continue
             for doc_id in hit.doc_ids:
                 if doc_id and doc_id != "unknown":
-                    counter[doc_id] += 2 if hit.severity == "high" else 1
+                    scores[doc_id] += hit.weight
 
-        if counter:
-            return [doc_id for doc_id, _ in counter.most_common(2)]
+        for doc_id, bonus in rank_bonus.items():
+            scores[doc_id] += bonus
 
-        doc_counter = Counter(c.doc_id for c in chunks if c.doc_id != "unknown")
-        return [doc_id for doc_id, count in doc_counter.most_common(1) if count >= 2]
+        if not scores:
+            return []
 
-    def _choose_quarantine_chunks(self, hits: Sequence[RuleHit]) -> List[str]:
-        counter: Counter[str] = Counter()
+        max_score = max(scores.values())
+        selected = [
+            doc_id for doc_id, score in scores.items()
+            if score >= max_score * 0.80
+        ]
+        return sorted(selected, key=lambda d: (-scores[d], d))[:5]
+
+    def _choose_quarantine_chunks(self, hits: list[RuleHit]) -> list[str]:
+        out: list[str] = []
         for hit in hits:
-            if hit.severity == "helper":
-                continue
             for chunk_id in hit.chunk_ids:
-                if chunk_id and chunk_id != "unknown":
-                    counter[chunk_id] += 2 if hit.severity == "high" else 1
-        return [chunk_id for chunk_id, _ in counter.most_common(5)]
+                if chunk_id and chunk_id not in out:
+                    out.append(chunk_id)
+        return out
 
-    def _has_conclusion_marker(self, text: str) -> bool:
-        t = text.lower()
-        patterns = [
-            r"\btherefore\b",
-            r"\bthus\b",
-            r"\baccordingly\b",
-            r"\bthe answer is\b",
-            r"\bthe judge (must|should|is required to)\b",
-            r"\bthe court (must|should|is required to)\b",
-            r"\bis required to\b",
-            r"\bmust be\b",
-            r"\bshould be\b",
-            r"\bcannot be\b",
-            r"\bcan only\b",
-            r"\bno\.\s",
-            r"\byes\.\s",
-        ]
-        return any(re.search(p, t) for p in patterns)
+    def _make_anthropic_judge(self, judge_model: Optional[str] = None) -> LLMJudge:
+        load_dotenv()
 
-    def _has_soft_modality(self, text_l: str) -> bool:
-        return bool(re.search(r"\b(may|might|could|can|discretion|consider|generally)\b", text_l))
-
-    def _has_hard_modality(self, text_l: str) -> bool:
-        return bool(re.search(r"\b(must|required|requires|shall|always|never|cannot|is required to)\b", text_l))
-
-    def _query_overlap(self, query: str, text: str) -> float:
-        query_terms = self._content_terms(query)
-        if not query_terms:
-            return 0.0
-        text_terms = self._content_terms(text)
-        return len(query_terms & text_terms) / len(query_terms)
-
-    def _content_terms(self, text: str) -> Set[str]:
-        stop = {
-            "the", "a", "an", "and", "or", "of", "to", "in", "on", "for", "with",
-            "is", "are", "be", "been", "being", "that", "this", "it", "as", "by",
-            "from", "at", "if", "then", "than", "into", "about", "what", "when",
-            "where", "who", "whom", "which", "does", "do", "did", "can", "may",
-            "must", "should", "required",
-        }
-        terms = {
-            token.lower()
-            for token in re.findall(r"[A-Za-z][A-Za-z0-9_-]{2,}", text)
-        }
-        return {t for t in terms if t not in stop}
-
-    def _role_mismatch(self, query_l: str, context_l: str) -> Optional[str]:
-        pairs = [
-            ("prosecution", "defence"),
-            ("prosecutor", "defendant"),
-            ("accused", "witness"),
-            ("judge", "jury"),
-            ("juror", "accused"),
-        ]
-
-        for left, right in pairs:
-            query_has_left = left in query_l
-            query_has_right = right in query_l
-            context_has_left = left in context_l
-            context_has_right = right in context_l
-
-            if query_has_left and not query_has_right and context_has_right:
-                return f"Query focuses on {left}, but context repeatedly introduces {right}."
-            if query_has_right and not query_has_left and context_has_left:
-                return f"Query focuses on {right}, but context repeatedly introduces {left}."
-
-        return None
-
-    def _conclusion_before_evidence(self, context_l: str) -> bool:
-        conclusion = re.search(
-            r"\b(therefore|thus|accordingly|the answer is|must be|is required to|should be)\b",
-            context_l,
+        model = (
+            judge_model
+            or os.getenv("ANTHROPIC_JUDGE_MODEL")
+            or os.getenv("ANTHROPIC_MODEL")
+            or "claude-opus-4-5-20251101"
         )
-        evidence = re.search(
-            r"\b(because|where|if|provided that|evidence|section|act|case|v\.|v |citation|court held)\b",
-            context_l,
-        )
-        if not conclusion:
-            return False
-        if not evidence:
-            return True
-        return conclusion.start() < evidence.start()
 
+        def judge(prompt: str) -> str:
+            try:
+                from langchain_anthropic import ChatAnthropic
+            except Exception as exc:
+                raise ImportError(
+                    "langchain-anthropic is required for LLM judge. "
+                    "Install with: pip install langchain-anthropic"
+                ) from exc
 
-def result_to_dict(result: AssemblyDetectionResult) -> Dict[str, Any]:
-    return {
-        "label": result.label,
-        "risk_score": result.risk_score,
-        "reason": result.reason,
-        "quarantine_doc_ids": result.quarantine_doc_ids,
-        "quarantine_chunk_ids": result.quarantine_chunk_ids,
-        "matched_rules": [
-            {
-                "rule_id": hit.rule_id,
-                "name": hit.name,
-                "weight": hit.weight,
-                "severity": hit.severity,
-                "reason": hit.reason,
-                "doc_ids": hit.doc_ids,
-                "chunk_ids": hit.chunk_ids,
-            }
-            for hit in result.matched_rules
-        ],
-    }
+            llm = ChatAnthropic(
+                model=model,
+                temperature=0,
+                max_tokens=1200,
+            )
+            response = llm.invoke(prompt)
+            return str(getattr(response, "content", response))
+
+        return judge
+
+    def _judge(
+        self,
+        query: str,
+        assembled: AssembledContext,
+        rule_hits: list[RuleHit],
+    ) -> dict[str, Any]:
+        anonymized_context, doc_map = self._anonymize_context(assembled.chunks)
+        rule_summary = ", ".join(f"{h.rule_id}:{h.name}" for h in rule_hits) or "none"
+
+        prompt = f"""
+You are a security judge for a legal RAG system.
+
+Task:
+Decide whether the assembled retrieved context contains malicious or suspicious meaning that could steer the final answer away from correct legal reasoning.
+
+Important:
+- Do not assume a context is malicious merely because multiple chunks come from the same source.
+- Structure rules are weak signals. They require semantic support.
+- Focus on answer steering, contradictions, fabricated legal standards, directional redundancy, and legal-standard override.
+- The document IDs are anonymized. Do not infer anything from original file names or numeric IDs.
+- If the context is safe despite structural rule hits, return clean.
+
+Query:
+{query}
+
+Rule hits from deterministic detector:
+{rule_summary}
+
+Anonymized retrieved context:
+{_clip(anonymized_context, 9000)}
+
+Return ONLY valid JSON with this schema:
+{{
+  "label": "clean" | "suspicious" | "malicious",
+  "score": 0.0,
+  "rules": ["A4", "A7"],
+  "reason": "short explanation",
+  "quarantine_doc_ids": ["DOC_1"],
+  "evidence_chunk_ids": ["DOC_1_CHUNK_3"]
+}}
+""".strip()
+
+        raw = self.llm_judge(prompt) if self.llm_judge is not None else "{}"
+        parsed = self._parse_json(raw)
+
+        label = str(parsed.get("label", "clean")).lower()
+        if label not in {"clean", "suspicious", "malicious"}:
+            label = "clean"
+
+        try:
+            score = float(parsed.get("score", 0.0))
+        except Exception:
+            score = 0.0
+
+        return {
+            "label": label,
+            "score": max(0.0, min(1.0, score)),
+            "rules": parsed.get("rules", []),
+            "reason": str(parsed.get("reason", "")),
+            "quarantine_doc_ids": parsed.get("quarantine_doc_ids", []),
+            "evidence_chunk_ids": parsed.get("evidence_chunk_ids", []),
+            "doc_map": doc_map,
+        }
+
+    def _anonymize_context(self, chunks: list[ContextChunk]) -> tuple[str, dict[str, str]]:
+        doc_ids = []
+        for chunk in chunks:
+            if chunk.doc_id not in doc_ids:
+                doc_ids.append(chunk.doc_id)
+
+        doc_to_alias = {doc_id: f"DOC_{i + 1}" for i, doc_id in enumerate(doc_ids)}
+        alias_to_doc = {alias: doc_id for doc_id, alias in doc_to_alias.items()}
+
+        parts: list[str] = []
+        counters: Counter[str] = Counter()
+
+        for chunk in chunks:
+            alias = doc_to_alias[chunk.doc_id]
+            counters[alias] += 1
+            chunk_alias = f"{alias}_CHUNK_{counters[alias]}"
+            score = f"{chunk.retrieval_score:.4f}" if chunk.retrieval_score is not None else "NA"
+            parts.append(
+                f"[{chunk_alias}] rank={chunk.rank} doc_id={alias} "
+                f"chunk_index={chunk.chunk_index if chunk.chunk_index is not None else 'NA'} "
+                f"score={score}"
+            )
+            parts.append(chunk.text)
+            parts.append("")
+
+        return "\n".join(parts).strip(), alias_to_doc
+
+    def _map_judge_doc_ids(self, aliases: list[Any], chunks: list[ContextChunk]) -> list[str]:
+        doc_ids = []
+        ordered = []
+        for chunk in chunks:
+            if chunk.doc_id not in ordered:
+                ordered.append(chunk.doc_id)
+
+        alias_to_doc = {f"DOC_{i + 1}": doc_id for i, doc_id in enumerate(ordered)}
+
+        for alias in aliases or []:
+            alias = str(alias)
+            doc_id = alias_to_doc.get(alias)
+            if doc_id and doc_id not in doc_ids:
+                doc_ids.append(doc_id)
+            elif alias in ordered and alias not in doc_ids:
+                doc_ids.append(alias)
+
+        return doc_ids
+
+    def _parse_json(self, raw: str) -> dict[str, Any]:
+        raw = raw or ""
+        try:
+            return json.loads(raw)
+        except Exception:
+            pass
+
+        match = re.search(r"\{.*\}", raw, flags=re.S)
+        if match:
+            try:
+                return json.loads(match.group(0))
+            except Exception:
+                return {}
+        return {}
