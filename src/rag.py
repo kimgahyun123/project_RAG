@@ -56,7 +56,7 @@ def _search_active(
     query: str,
     k: int,
     quarantined_doc_ids: set[str],
-    overfetch_factor: int = 8,
+    overfetch_factor: int = 4,
 ) -> list[Any]:
     raw_k = max(k * overfetch_factor, k + len(quarantined_doc_ids) * 5, 20)
     raw_results = vm.search(query, k=raw_k)

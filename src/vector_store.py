@@ -1,7 +1,8 @@
 # src/vector_store.py
 from __future__ import annotations
+
 from pathlib import Path
-from typing import Any, List, Sequence, Tuple
+from typing import Any, Sequence
 
 try:
     from langchain_community.vectorstores import FAISS
@@ -13,15 +14,31 @@ try:
 except Exception:
     from langchain_community.embeddings import HuggingFaceEmbeddings
 
+
+def _embedding_device() -> str:
+    try:
+        import torch
+        if torch.cuda.is_available():
+            return "cuda"
+    except Exception:
+        pass
+    return "cpu"
+
+
 class VectorStoreManager:
     def __init__(
         self,
         index_path: str = "data/faiss_index",
         embedding_model: str = "sentence-transformers/all-MiniLM-L6-v2",
+        device: str | None = None,
     ):
         self.index_path = Path(index_path)
         self.embedding_model = embedding_model
-        self.embeddings = HuggingFaceEmbeddings(model_name=embedding_model)
+        self.device = device or _embedding_device()
+        self.embeddings = HuggingFaceEmbeddings(
+            model_name=embedding_model,
+            model_kwargs={"device": self.device},
+        )
         self.db = None
 
     def build(self, documents: Sequence[Any]):
