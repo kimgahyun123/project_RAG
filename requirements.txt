@@ -13,3 +13,4 @@ pandas
 sentence-transformers
 numpy
 anthropic
+streamlit-autorefresh

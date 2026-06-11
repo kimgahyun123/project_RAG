@@ -13,6 +13,7 @@ from dotenv import load_dotenv
 from src.assembly_detector import AssemblyDetector, AssemblyDetectionResult
 from src.context_builder import AssembledContext, assemble_context
 from src.quarantine import QuarantineStore
+from src.query_log import append_query_run
 from src.vector_store import VectorStoreManager
 
 
@@ -189,6 +190,7 @@ def run_query(
 
     qstore = QuarantineStore(quarantine_db_path) if use_quarantine_db else None
     quarantined_doc_ids: set[str] = set(qstore.active_doc_ids() if qstore else [])
+    run_quarantined_doc_ids: set[str] = set()
 
     history: list[dict[str, Any]] = []
 
@@ -236,6 +238,7 @@ def run_query(
                     "detection": detection,
                     "history": history,
                     "quarantined_doc_ids": sorted(quarantined_doc_ids),
+                    "run_quarantined_doc_ids": sorted(run_quarantined_doc_ids),
                     "answer": final_answer,
                 }
 
@@ -253,6 +256,7 @@ def run_query(
                     "detection": detection,
                     "history": history,
                     "quarantined_doc_ids": sorted(quarantined_doc_ids),
+                    "run_quarantined_doc_ids": sorted(run_quarantined_doc_ids),
                     "block_reason": (
                         "Context was suspicious/malicious, "
                         "but no new document could be quarantined."
@@ -269,6 +273,7 @@ def run_query(
                     )
 
             quarantined_doc_ids.update(new_doc_ids)
+            run_quarantined_doc_ids.update(new_doc_ids)
 
         _append_history_csv(history, "blocked", query)
         return {
@@ -278,6 +283,7 @@ def run_query(
             "detection": history[-1]["detection"] if history else None,
             "history": history,
             "quarantined_doc_ids": sorted(quarantined_doc_ids),
+            "run_quarantined_doc_ids": sorted(run_quarantined_doc_ids),
             "block_reason": "Max detection rounds reached.",
         }
     finally:
@@ -321,9 +327,11 @@ def main() -> None:
         generate_answer=not args.no_answer,
     )
 
+    append_query_run(query=query, result=result)
+
     print("\n" + "=" * 60)
     print(f"status: {result['status']}")
-    print(f"quarantined_doc_ids: {result.get('quarantined_doc_ids', [])}")
+    print(f"quarantined_doc_ids: {result.get('run_quarantined_doc_ids', result.get('quarantined_doc_ids', []))}")
     if result.get("block_reason"):
         print(f"block_reason: {result['block_reason']}")
 
